@@ -36,6 +36,8 @@ class Articolo:
     testo_completo: Callable[[], str] | None = field(default=None, repr=False)
     controlla_eta: bool = True
     fonte_nuova: bool = False
+    parola: str = ""
+    nome_fonte_config: str = ""
 
 
 def scarica(url: str) -> requests.Response:

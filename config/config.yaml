@@ -77,3 +77,44 @@ fonti:
     sammarinese: true
     # controllate una volta al giorno: si presentano due volte l'anno
     ogni_ore: 20
+
+# CATEGORIE: l'intestazione sopra il titolo di ogni post.
+# Vale la prima categoria che corrisponde, nell'ordine scritto qui.
+# Una categoria corrisponde se: la notizia viene da una delle "fonti", oppure il link
+# contiene uno dei pezzi di "link", oppure il titolo (o la parola che ha fatto
+# scattare la notizia) contiene una delle "parole".
+categorie:
+  - nome: Viabilità
+    emoji: 🚧
+    fonti: [Ordinanze Affari Interni]
+    parole: [chiusura strada, chiusura della strada, strada chiusa, viabilita, senso unico, divieto di transito, lavori stradali]
+  - nome: Istanze d'Arengo
+    emoji: 🏛️
+    fonti: [Consiglio Grande e Generale]
+  - nome: Sport · Calcio
+    emoji: ⚽
+    parole: [virtus, calcio, calcio a 5, futsal, campionato sammarinese]
+  - nome: Sport · Bocce
+    emoji: 🎳
+    parole: [bocce, bocciofila, bocciodromo]
+  - nome: Sport · Motori
+    emoji: 🏍️
+    parole: [crossodromo, motocross, rally]
+  - nome: Sport
+    emoji: 🏅
+    link: [/sport/]
+    parole: [sport, torneo, poligono di tiro]
+  - nome: Scuola
+    emoji: 🎒
+    parole: [scuola, scuole, nido, infanzia, elementare, elementari, faro bianco, girotondo, bruco verde]
+  - nome: Comunità
+    emoji: ⛪
+    parole: [sant andrea, parrocchia, chiesa]
+  - nome: Castello
+    emoji: 🏰
+    parole: [giunta di castello, capitano di castello]
+
+# Se nessuna categoria corrisponde:
+categoria_predefinita:
+  nome: Notizie
+  emoji: 📰

@@ -55,6 +55,7 @@ def raccogli(cfg: dict, memoria: Memoria, forza_arengo: bool) -> list[F.Articolo
             continue
         nuova = f"fonte:{nome}" not in memoria.ultimo
         for art in trovati:
+            art.nome_fonte_config = nome
             art.fonte_nuova = nuova  # fonte appena aggiunta: al primo giro non pubblica
         memoria.ultimo[f"fonte:{nome}"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
         durata = time.monotonic() - inizio
@@ -113,6 +114,7 @@ def main() -> int:
             parola = filtro.controlla(testo, art.sammarinese)
         memoria.segna(art.url, art.titolo)
         if parola:
+            art.parola = parola
             da_pubblicare.append((art, f"{parola}: {estratto(testo, parola)}"))
 
     print(f"Controllo degli articoli finito in {time.monotonic() - t0:.0f} s")

@@ -7,15 +7,32 @@ import time
 
 import requests
 
+from .filtro import normalizza
 from .fonti import Articolo
+
+
+def categoria(art: Articolo, cfg: dict) -> tuple[str, str]:
+    """(emoji, nome) della categoria del post, secondo config.yaml."""
+    testo = normalizza(f"{art.titolo} {getattr(art, 'parola', '')}")
+    for c in cfg.get("categorie") or []:
+        if art.fonte in (c.get("fonti") or []) or getattr(art, "nome_fonte_config", "") in (c.get("fonti") or []):
+            return c["emoji"], c["nome"]
+        if any(pezzo in art.url for pezzo in (c.get("link") or [])):
+            return c["emoji"], c["nome"]
+        if any(normalizza(p) in testo for p in (c.get("parole") or [])):
+            return c["emoji"], c["nome"]
+    d = cfg.get("categoria_predefinita") or {"emoji": "📰", "nome": "Notizie"}
+    return d["emoji"], d["nome"]
 
 
 def post_telegram(art: Articolo, cfg: dict) -> str:
     """Post per il canale Telegram (HTML). Il footer rimanda a WhatsApp."""
     c, g = cfg["canale"], cfg["giunta"]
     e = html.escape
+    emoji, nome = categoria(art, cfg)
     return (
-        f"📰 <b>{e(art.titolo)}</b>\n"
+        f"{emoji} {e(nome.upper())}\n"
+        f"<b>{e(art.titolo)}</b>\n"
         f"🔗 <a href=\"{e(art.url, quote=True)}\">Leggi l'articolo</a>\n"
         f"Fonte: {e(art.fonte)}\n"
         f"\n———\n"
@@ -29,8 +46,10 @@ def post_telegram(art: Articolo, cfg: dict) -> str:
 def post_whatsapp(art: Articolo, cfg: dict) -> str:
     """Stesso post in testo semplice per WhatsApp. Il footer rimanda a Telegram."""
     c, g = cfg["canale"], cfg["giunta"]
+    emoji, nome = categoria(art, cfg)
     return (
-        f"📰 *{art.titolo}*\n"
+        f"{emoji} {nome.upper()}\n"
+        f"*{art.titolo}*\n"
         f"{art.url}\n"
         f"Fonte: {art.fonte}\n"
         f"\n———\n"
