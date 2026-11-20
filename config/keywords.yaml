@@ -20,6 +20,17 @@ forti:
   - Robopac
   - Castello di Acquaviva
   - Giunta di Acquaviva
+  # Sport e associazioni
+  - Bocciofila Montecerreto
+  - Bocciofila Monte Cerreto
+  # Scuole del castello
+  - Nido di Acquaviva
+  - Asilo Nido di Acquaviva
+  - Scuola dell'Infanzia di Acquaviva
+  - Infanzia di Acquaviva
+  - Scuola Elementare di Acquaviva
+  - Elementari di Acquaviva
+  - Scuola Primaria di Acquaviva
 
 # Queste parole contano solo se l'articolo viene da un giornale o ente sammarinese,
 # oppure se nel testo c'è anche una parola di "contesto".

@@ -100,3 +100,9 @@ def test_estrai_ordinanze():
     assert o[0].url.startswith("https://www.interni.sm/pub1/")
     testo = "Vista la richiesta della Giunta di Castello di Acquaviva, chiusura di Strada Molino Genga"
     assert f.controlla(testo, True) == "castello di acquaviva"
+
+
+def test_bocce_e_scuole():
+    assert f.controlla("Bocce: la Società Bocciofila Montecerreto vince il torneo", sammarinese=False) == "bocciofila montecerreto"
+    assert f.controlla("Festa di Natale alla scuola dell'infanzia di Acquaviva", sammarinese=False) == "scuola dell infanzia di acquaviva"
+    assert f.controlla("Gita per le elementari di Acquaviva", sammarinese=False) == "elementari di acquaviva"
