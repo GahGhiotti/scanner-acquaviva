@@ -104,5 +104,8 @@ def test_estrai_ordinanze():
 
 def test_bocce_e_scuole():
     assert f.controlla("Bocce: la Società Bocciofila Montecerreto vince il torneo", sammarinese=False) is not None
-    assert f.controlla("Festa di Natale alla scuola dell'infanzia di Acquaviva", sammarinese=False) == "scuola dell infanzia di acquaviva"
-    assert f.controlla("Gita per le elementari di Acquaviva", sammarinese=False) == "elementari di acquaviva"
+    # da un giornale sammarinese basta "Acquaviva"
+    assert f.controlla("Festa di Natale alla scuola dell'infanzia di Acquaviva", sammarinese=True) == "acquaviva"
+    # da un giornale italiano no: potrebbe essere Acquaviva Picena o delle Fonti
+    assert f.controlla("Festa di Natale alla scuola dell'infanzia di Acquaviva", sammarinese=False) is None
+    assert f.controlla("San Marino, recita alla scuola Il Faro Bianco", sammarinese=True) == "faro bianco"

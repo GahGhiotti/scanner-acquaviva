@@ -23,14 +23,6 @@ forti:
   # Sport e associazioni
   - Bocciofila Montecerreto
   - Bocciofila Monte Cerreto
-  # Scuole del castello
-  - Nido di Acquaviva
-  - Asilo Nido di Acquaviva
-  - Scuola dell'Infanzia di Acquaviva
-  - Infanzia di Acquaviva
-  - Scuola Elementare di Acquaviva
-  - Elementari di Acquaviva
-  - Scuola Primaria di Acquaviva
 
 # Queste parole contano solo se l'articolo viene da un giornale o ente sammarinese,
 # oppure se nel testo c'è anche una parola di "contesto".
@@ -45,6 +37,9 @@ deboli:
   - Gaviano
   - bocciodromo di Acquaviva
   - poligono di tiro
+  # Scuola elementare di Acquaviva (nome ufficiale "Il Faro Bianco", via Margheritina 1).
+  # Le scuole che nominano "Acquaviva" sono già coperte dalla regola su "Acquaviva".
+  - Faro Bianco
   - ludoteca di Acquaviva
   - SCM
   - Mini Max
