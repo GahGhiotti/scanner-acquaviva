@@ -1,0 +1,42 @@
+200 44164 https://www.interni.sm/
+CAND https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2026.html
+200 466227 https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2026.html
+  pdf in p0: 319
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:715eae13-fb13-4f3a-965b-c0c5bb82d1db/Ordinanza%20n.319-2026.pdf
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:ed0958eb-2b5e-49b9-a8c1-5ea4dccc0b35/Ordinanza%20n.318-2026.pdf
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:a1c83352-657f-4db9-aeba-6738ccb79afa/Ordinanza%20n.317-2026.pdf
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:a4a503bc-e475-4680-861b-5afa68f8376f/Ordinanza%20n.316-2026.pdf
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:67e1b022-692f-40dc-986f-ec6e8873398b/Ordinanza%20n.315-2026.pdf
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:7e02098b-26de-4a82-a3ba-b60aa0bc0eb0/Ordinanza%20n.314-2026.pdf
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:03669227-ac31-41ef-b935-9aab6a6e0e49/Ordinanza%20n.313-2026.pdf
+   https://www.interni.sm/pub1/InterniSM/dam/jcr:b772debe-1fd7-4172-a54e-3d0e275f3eed/Ordinanza%20n.312-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Fac-simile-richiesta-Ordinanza.html
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2020.html
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2021.html
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2022.html
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2023.html
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2024.html
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2025.html
+   SUB https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze2026.html
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0017129c-d1e6-43cc-acbb-3b312a4a36a5/Ordinanza%20n.42-2026%20.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:003ba58b-ca48-439e-9ba1-69987d3e6157/Ordinanza%20n.181-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:006e32e9-fe6d-4854-b18f-ac6a9e741e15/Ordinanza%20n.301-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:00f06978-1f22-48ac-995f-3520c0bf63fd/Ordinanza%20n.118-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0229204f-2c26-4f72-b763-c827aef742a2/Ordinanza%20n.45-2026%20.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0315eff1-dac0-4e56-b3ad-120f1304dfac/Ordinanza%20n.103-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:03669227-ac31-41ef-b935-9aab6a6e0e49/Ordinanza%20n.313-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:03bcd7a6-5f81-4e9d-8cda-77c004a85874/Ordinanza%20n.131-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:03f77c62-aa88-4b91-95ae-3e6d97927808/Ordinanza%20n.86-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:05df93f6-516a-4238-b080-8086bd3c6441/Ordinanza%20n.24-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:064aada9-361e-40d3-9fdd-6408d0fe0fa3/Ordinanza%20n.104-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:067556dd-0558-4969-b6bf-73158c4b1b8b/Ordinanza%20n.169-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:06813614-2d77-466b-a8d4-75003e885afd/Ordinanza%20n.240-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:06d920df-ebec-42a0-8c15-47cc685289d4/Ordinanza%20n.270-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0702e8e2-877a-4028-93ab-7ea7e1288451/Ordinanza%20n.286-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0751e1d0-38d6-4325-bdf2-3a533fb45f48/Ordinanza%20n.245-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:097497f2-57b4-4b88-8e61-7d95af845403/Ordinanza%20n.53-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0ae2bf5a-f82a-409b-b42f-2c1435bfb094/Ordinanza%20n.197-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0c63b7af-1a27-4b8f-bdbd-c0cd2f770f52/Ordinanza%20n.260-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0ca0ddf8-22c7-4e83-86e1-8c4f083aba3d/Ordinanza%20n.233-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0d9ce737-81f9-4cc7-b8a3-13110ebe4f49/Ordinanza%20n.40-2026.pdf
+   SUB https://www.interni.sm/pub1/InterniSM/dam/jcr:0eac189d-eda5-437c-b3d9-2c9a8e590f06/Ordinanza%20n.166-2026.pdf
