@@ -109,3 +109,13 @@ def test_bocce_e_scuole():
     # da un giornale italiano no: potrebbe essere Acquaviva Picena o delle Fonti
     assert f.controlla("Festa di Natale alla scuola dell'infanzia di Acquaviva", sammarinese=False) is None
     assert f.controlla("San Marino, recita alla scuola Il Faro Bianco", sammarinese=True) == "faro bianco"
+
+
+def test_scuole_e_chiesa():
+    assert f.controlla("San Marino: open day al nido Bruco Verde", sammarinese=True) == "bruco verde"
+    assert f.controlla("Recita di Natale alla scuola dell'infanzia Il Girotondo, San Marino", sammarinese=True) is not None
+    assert f.controlla("Concerto nella chiesa di Sant'Andrea Apostolo, San Marino", sammarinese=True) is not None
+    # senza riferimenti a San Marino non conta (ci sono tante chiese di Sant'Andrea)
+    assert f.controlla("Restauro della chiesa di Sant'Andrea Apostolo a Venezia", sammarinese=False) is None
+    # "girotondo" da solo è una parola comune
+    assert f.controlla("San Marino, un girotondo in piazza per la pace", sammarinese=True) is None

@@ -37,9 +37,15 @@ deboli:
   - Gaviano
   - bocciodromo di Acquaviva
   - poligono di tiro
-  # Scuola elementare di Acquaviva (nome ufficiale "Il Faro Bianco", via Margheritina 1).
-  # Le scuole che nominano "Acquaviva" sono già coperte dalla regola su "Acquaviva".
+  # Scuole e chiesa del castello (nomi indicati da Gah).
+  # Le notizie che nominano anche "Acquaviva" sono già coperte dalla regola su "Acquaviva".
   - Faro Bianco
+  - scuola Girotondo
+  - infanzia Girotondo
+  - Il Girotondo
+  - Bruco Verde
+  - Sant'Andrea Apostolo
+  - chiesa di Sant'Andrea
   - ludoteca di Acquaviva
   - SCM
   - Mini Max
