@@ -1,0 +1,18 @@
+name: sonda temporanea
+on:
+  push:
+    branches: [main]
+    paths: [sonda/sonda.py]
+permissions:
+  contents: write
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests beautifulsoup4 lxml
+      - run: python sonda/sonda.py || true
+      - run: |
+          git config user.name sonda; git config user.email sonda@users.noreply.github.com
+          git add -f sonda/out; git commit -q -m "sonda output [skip ci]"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
