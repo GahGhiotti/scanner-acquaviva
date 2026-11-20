@@ -64,11 +64,37 @@ def raccogli(cfg: dict, memoria: Memoria, forza_arengo: bool) -> list[F.Articolo
     return tutti
 
 
+def test_messaggio(cfg: dict) -> int:
+    """Verifica i segreti: il bot scrive in privato a Gah un esempio di post per WhatsApp."""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    privato = os.environ.get("TELEGRAM_ADMIN_CHAT_ID", "")
+    print("TELEGRAM_BOT_TOKEN:", "presente" if token else "MANCANTE")
+    print("TELEGRAM_CHAT_ID:", "presente" if os.environ.get("TELEGRAM_CHAT_ID") else "MANCANTE")
+    print("TELEGRAM_ADMIN_CHAT_ID:", "presente" if privato else "MANCANTE")
+    if not (token and privato):
+        return 1
+    esempio = F.Articolo(
+        "Esempio: Virtus-Tre Fiori 2-1", "https://www.sanmarinortv.sm/sport", "San Marino RTV", True, parola="virtus"
+    )
+    try:
+        invia(token, privato, "✅ Test riuscito: d'ora in poi ricevi qui la versione per WhatsApp di ogni post.", html_mode=False)
+        invia(token, privato, post_whatsapp(esempio, cfg), html_mode=False)
+    except Exception as e:
+        print(f"Invio non riuscito: {e}")
+        return 1
+    print("Messaggio di prova inviato.")
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--prova", action="store_true", help="non invia e non salva")
     ap.add_argument("--semina", action="store_true", help="segna tutto come visto senza pubblicare")
+    ap.add_argument("--test-messaggio", action="store_true", help="manda un messaggio di prova in privato")
     args = ap.parse_args()
+
+    if args.test_messaggio:
+        return test_messaggio(carica_yaml("config.yaml"))
 
     cfg = carica_yaml("config.yaml")
     filtro = Filtro(carica_yaml("keywords.yaml"))

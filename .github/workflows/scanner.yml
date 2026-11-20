@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       modalita:
-        description: "normale = pubblica davvero · prova = mostra solo cosa pubblicherebbe"
+        description: "normale = pubblica davvero · prova = mostra solo cosa pubblicherebbe · test-messaggio = il bot ti scrive in privato"
         type: choice
-        options: [normale, prova]
+        options: [normale, prova, test-messaggio]
         default: normale
 
 permissions:
@@ -48,12 +48,14 @@ jobs:
         run: |
           if [ "${{ inputs.modalita }}" = "prova" ]; then
             python -m scanner --prova
+          elif [ "${{ inputs.modalita }}" = "test-messaggio" ]; then
+            python -m scanner --test-messaggio
           else
             python -m scanner
           fi
 
       - name: Salva la memoria (articoli già visti)
-        if: inputs.modalita != 'prova'
+        if: inputs.modalita != 'prova' && inputs.modalita != 'test-messaggio'
         run: |
           git config user.name "scanner-acquaviva"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
