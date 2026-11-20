@@ -8,8 +8,8 @@ on:
       modalita:
         description: "normale = pubblica davvero · prova = mostra solo cosa pubblicherebbe"
         type: choice
-        options: [prova, normale]
-        default: prova
+        options: [normale, prova]
+        default: normale
 
 permissions:
   contents: write
