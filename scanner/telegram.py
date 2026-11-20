@@ -16,7 +16,7 @@ def post_telegram(art: Articolo, cfg: dict) -> str:
     e = html.escape
     return (
         f"📰 <b>{e(art.titolo)}</b>\n"
-        f"{e(art.url)}\n"
+        f"🔗 <a href=\"{e(art.url, quote=True)}\">Leggi l'articolo</a>\n"
         f"Fonte: {e(art.fonte)}\n"
         f"\n———\n"
         f"📲 {e(c['nome'])} anche su WhatsApp:\n{e(c['whatsapp'])}\n"

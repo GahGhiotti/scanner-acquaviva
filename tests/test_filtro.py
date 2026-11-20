@@ -119,3 +119,14 @@ def test_scuole_e_chiesa():
     assert f.controlla("Restauro della chiesa di Sant'Andrea Apostolo a Venezia", sammarinese=False) is None
     # "girotondo" da solo è una parola comune
     assert f.controlla("San Marino, un girotondo in piazza per la pace", sammarinese=True) is None
+
+
+def test_post_telegram_link_corto():
+    from scanner.fonti import Articolo
+    from scanner.telegram import post_telegram
+    cfg = yaml.safe_load((Path(__file__).parent.parent / "config" / "config.yaml").read_text(encoding="utf-8"))
+    url = "https://news.google.com/rss/articles/CBMiAAA?oc=5&x=<1>"
+    t = post_telegram(Articolo("Virtus & Fiorentino", url, "Calcio a 5 Anteprima", False), cfg)
+    assert "<a href=\"https://news.google.com/rss/articles/CBMiAAA?oc=5&amp;x=&lt;1&gt;\">Leggi l'articolo</a>" in t
+    assert "<b>Virtus &amp; Fiorentino</b>" in t
+    assert "\nhttps://news.google.com" not in t
