@@ -64,3 +64,21 @@ def test_estrai_istanze_da_html():
     assert len(ist) == 1
     assert ist[0].url.endswith("scheda17195707.html")
     assert f.controlla(ist[0].titolo, True) == "rio re"
+
+
+def test_indirizzo_di_chi_firma_non_conta():
+    from scanner.fonti import togli_dati_personali
+    testo = ("Il sottoscritto Mario Rossi, nato a San Marino il 1 gennaio 1960, residente in via Gualdicciolo "
+             "n. 12, Acquaviva, chiede che venga migliorata la Superstrada.")
+    assert f.controlla(togli_dati_personali(testo), sammarinese=True) is None
+    assert f.controlla(togli_dati_personali("Lavori nel Castello di Acquaviva"), True) == "castello di acquaviva"
+
+
+def test_italo_nome_proprio_non_conta():
+    assert f.controlla("San Marino, firmato: Italo Bianchi", sammarinese=True) is None
+
+
+def test_contenuto_su_vie_e_abitanti_resta():
+    from scanner.fonti import togli_dati_personali
+    testo = "La via Rivo Fontanelle è gravata dal traffico. Gli abitanti di Gualdicciolo chiedono un intervento."
+    assert f.controlla(togli_dati_personali(testo), sammarinese=True) == "gualdicciolo"

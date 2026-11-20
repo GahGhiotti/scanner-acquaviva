@@ -50,3 +50,12 @@ class Filtro:
                 if parola in t:
                     return parola.strip()
         return None
+
+
+def estratto(testo: str, parola: str, larghezza: int = 70) -> str:
+    """Il pezzo di testo intorno alla parola trovata, per capire perché è scattato."""
+    t = normalizza(testo)
+    i = t.find(" " + parola + " ")
+    if i < 0:
+        return ""
+    return "…" + t[max(0, i - larghezza): i + len(parola) + larghezza].strip() + "…"

@@ -18,7 +18,7 @@ from pathlib import Path
 import yaml
 
 from . import fonti as F
-from .filtro import Filtro
+from .filtro import Filtro, estratto
 from .memoria import Memoria
 from .telegram import invia, post_telegram, post_whatsapp
 
@@ -91,13 +91,15 @@ def main() -> int:
         if art.controlla_eta and art.data and art.data < limite_eta:
             memoria.segna(art.url, art.titolo)
             continue
-        parola = filtro.controlla(f"{art.titolo}\n{art.testo}", art.sammarinese)
+        testo = f"{art.titolo}\n{art.testo}"
+        parola = filtro.controlla(testo, art.sammarinese)
         if not parola and art.testo_completo:
             time.sleep(0.5)
-            parola = filtro.controlla(f"{art.titolo}\n{art.testo_completo()}", art.sammarinese)
+            testo = f"{art.titolo}\n{art.testo_completo()}"
+            parola = filtro.controlla(testo, art.sammarinese)
         memoria.segna(art.url, art.titolo)
         if parola:
-            da_pubblicare.append((art, parola))
+            da_pubblicare.append((art, f"{parola}: {estratto(testo, parola)}"))
 
     da_pubblicare.sort(key=lambda x: x[0].data or datetime.min.replace(tzinfo=timezone.utc))
     massimo = cfg.get("max_post_per_giro", 10)

@@ -252,4 +252,26 @@ def _testo_istanza(scheda_url: str) -> str:
     testi = []
     for a in soup.find_all("a", href=re.compile(r"documento\d+")):
         testi.append(testo_pdf(urljoin(scheda_url, a["href"])))
-    return "\n".join(testi)
+    return togli_dati_personali("\n".join(testi))
+
+
+DATI_PERSONALI = re.compile(
+    r"(?i)\b(resident\w*|nat[oa]\s+a|domiciliat\w*|indirizzo|tel\.?|e-?mail)\b"
+)
+
+
+def togli_dati_personali(testo: str) -> str:
+    """Nelle istanze toglie indirizzi e dati di chi firma.
+
+    Senza questo, un'istanza firmata da chi abita a Gualdicciolo verrebbe
+    pubblicata anche se parla d'altro. Toglie i 150 caratteri dopo parole
+    come "residente", "nato a", "domiciliato".
+    """
+    pezzi, inizio = [], 0
+    for m in DATI_PERSONALI.finditer(testo):
+        if m.start() < inizio:
+            continue
+        pezzi.append(testo[inizio:m.start()])
+        inizio = m.end() + 150
+    pezzi.append(testo[inizio:])
+    return " ".join(pezzi)
