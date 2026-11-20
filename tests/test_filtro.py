@@ -1,0 +1,66 @@
+from pathlib import Path
+
+import yaml
+
+from scanner.filtro import Filtro, normalizza
+from scanner.fonti import estrai_istanze
+
+PAROLE = yaml.safe_load((Path(__file__).parent.parent / "config" / "keywords.yaml").read_text(encoding="utf-8"))
+f = Filtro(PAROLE)
+
+
+def test_normalizza_apostrofi_e_accenti():
+    assert normalizza("Cà Martino") == normalizza("Ca' Martino") == normalizza("CA’ MARTINO") == " ca martino "
+
+
+def test_istanza_21_dal_titolo():
+    titolo = ("Istanza d'Arengo n.21 del 04-10-2026 - Al fine di procedere con l’asfaltatura e la messa "
+              "in sicurezza del tratto stradale “Rio Re – Cà Martino – Cà Amadore”")
+    assert f.controlla(titolo, sammarinese=True) is not None
+
+
+def test_istanza_21_dal_testo():
+    testo = ("Nell'anno 2019, all'interno del territorio del Castello di Acquaviva, è stata espropriata "
+             "una porzione di terreno sito in località Gaviano")
+    assert f.controlla(testo, sammarinese=True) == "castello di acquaviva"
+
+
+def test_acquaviva_delle_fonti_scartata():
+    assert f.controlla("Incidente ad Acquaviva delle Fonti, due feriti", sammarinese=False) is None
+    assert f.controlla("Acquaviva delle Fonti: festa patronale a San Marino di Bitonto", sammarinese=True) is None
+
+
+def test_gualdicciolo_basta_da_solo():
+    assert f.controlla("Lavori stradali a Gualdicciolo", sammarinese=False) == "gualdicciolo"
+
+
+def test_acquaviva_da_giornale_sammarinese():
+    assert f.controlla("Nuovo parco giochi ad Acquaviva", sammarinese=True) == "acquaviva"
+
+
+def test_acquaviva_da_giornale_italiano_serve_contesto():
+    assert f.controlla("Concerto ad Acquaviva", sammarinese=False) is None
+    assert f.controlla("San Marino, concerto ad Acquaviva", sammarinese=False) == "acquaviva"
+
+
+def test_parole_deboli():
+    assert f.controlla("Italo, nuove tratte per l'estate", sammarinese=False) is None
+    assert f.controlla("Treno Italo in ritardo, disagi per i sammarinesi", sammarinese=True) is None
+    assert f.controlla("San Marino: gara al poligono di tiro", sammarinese=True) == "poligono di tiro"
+
+
+def test_parola_intera():
+    assert f.controlla("San Marino: italiano e matematica", sammarinese=True) is None
+
+
+def test_estrai_istanze_da_html():
+    html = """<table><tr id="riga1"><td></td><td>04/10/2026</td>
+    <td><div id="card_17195707">Istanza d'Arengo n.21 del 04-10-2026 - Rio Re</div></td>
+    <td>Istanza d'Arengo</td><td><a href="/on-line/home/lavori-consiliari/consultazione-archivi/scheda17195707.html?tornalista=1">x</a></td></tr>
+    <tr id="riga2"><td></td><td>13/11/2026</td><td><div id="card_1">Progetto di legge</div></td>
+    <td>Progetto di Legge</td><td><a href="/scheda1.html">x</a></td></tr></table>"""
+    ist = estrai_istanze(html, {"nome": "Consiglio Grande e Generale"},
+                         "https://www.consigliograndeegenerale.sm/on-line/home/lavori-consiliari/consultazione-archivi.html")
+    assert len(ist) == 1
+    assert ist[0].url.endswith("scheda17195707.html")
+    assert f.controlla(ist[0].titolo, True) == "rio re"

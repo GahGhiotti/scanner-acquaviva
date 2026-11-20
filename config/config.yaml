@@ -1,0 +1,74 @@
+# CONFIGURAZIONE DELLO SCANNER
+# Qui si cambiano nome dei canali, link, firma e fonti senza toccare il codice.
+
+canale:
+  nome: Acquaviva Notizie
+  telegram: https://t.me/acquavivanews
+  whatsapp: https://whatsapp.com/channel/0029Vb7VMV1HltY99EaD2o2w
+
+giunta:
+  nome: Giunta di Castello di Acquaviva
+  facebook: https://www.facebook.com/giuntacastello.diacquaviva
+  instagram: https://www.instagram.com/giuntadicastello_acquaviva/
+
+# Articoli più vecchi di così vengono ignorati (protezione contro i "ripescaggi").
+eta_massima_giorni: 3
+
+# Pausa tra un messaggio e l'altro su Telegram (secondi).
+pausa_messaggi: 3
+
+fonti:
+  # sammarinese: true  -> la parola "Acquaviva" basta da sola
+  # leggi_articolo: true -> se il feed non contiene le parole chiave, legge anche la pagina dell'articolo
+  - nome: San Marino RTV
+    tipo: rss
+    sammarinese: true
+    leggi_articolo: true
+    url:
+      - https://www.sanmarinortv.sm/rss.xml
+      - https://www.sanmarinortv.sm/news/politica-c2.xml
+      - https://www.sanmarinortv.sm/news/cronaca-c3.xml
+      - https://www.sanmarinortv.sm/news/attualita-c4.xml
+      - https://www.sanmarinortv.sm/news/economia-c5.xml
+      - https://www.sanmarinortv.sm/news/cultura-c6.xml
+      - https://www.sanmarinortv.sm/news/comunicati-c9.xml
+      - https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15.xml
+      - https://www.sanmarinortv.sm/sport/sport-sammarinese-c16.xml
+
+  - nome: GiornaleSM
+    tipo: rss
+    sammarinese: true
+    leggi_articolo: true
+    url:
+      - https://giornalesm.com/feed/
+
+  - nome: Insider
+    tipo: rss
+    sammarinese: true
+    leggi_articolo: true
+    url:
+      - https://insider.sm/feed/
+
+  - nome: Libertas
+    tipo: rss
+    sammarinese: true
+    leggi_articolo: true
+    url:
+      - https://www.libertas.sm/feed/
+
+  # Giornali italiani e altre testate, tramite le ricerche di Google News.
+  # Il nome del giornale viene preso dal feed.
+  - nome: Google News
+    tipo: rss
+    sammarinese: false
+    leggi_articolo: false
+    google_news: true
+    url:
+      - https://news.google.com/rss/search?q=Acquaviva+%22San+Marino%22&hl=it&gl=IT&ceid=IT:it
+      - https://news.google.com/rss/search?q=Gualdicciolo+OR+Montecerreto+OR+%22Monte+Cerreto%22+OR+Moricce+OR+%22Costa+dello+Spino%22&hl=it&gl=IT&ceid=IT:it
+
+  - nome: Consiglio Grande e Generale
+    tipo: arengo
+    sammarinese: true
+    # controllate una volta al giorno: si presentano due volte l'anno
+    ogni_ore: 20

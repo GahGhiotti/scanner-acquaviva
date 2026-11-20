@@ -1,0 +1,127 @@
+# PAROLE CHIAVE DELLO SCANNER
+# Modifica questo file per cambiare cosa viene pubblicato.
+# Maiuscole, accenti e apostrofi non contano: "Cà Martino", "Ca' Martino" e "ca martino" sono uguali.
+# Dopo ogni modifica, salva (Commit changes): lo scanner userà le nuove parole al giro successivo.
+
+# Basta una di queste parole per pubblicare l'articolo.
+forti:
+  - Gualdicciolo
+  - Ca' Martino
+  - Montecerreto
+  - Monte Cerreto
+  - Moricce
+  - Costa dello Spino
+  - Rio Re
+  - Fosso del Re
+  - Serra Ventoso
+  - Centro Gualdo
+  - Cartiera Ciacci
+  - Ali Parquet
+  - Robopac
+  - Castello di Acquaviva
+  - Giunta di Acquaviva
+
+# "Acquaviva" da sola conta solo se l'articolo viene da un giornale sammarinese,
+# oppure se nel testo c'è anche una delle parole di "contesto".
+acquaviva:
+  - Acquaviva
+
+# Queste parole contano solo se nel testo c'è anche una parola di "contesto".
+deboli:
+  - La Serra
+  - Gaviano
+  - bocciodromo di Acquaviva
+  - poligono di tiro
+  - ludoteca di Acquaviva
+  - SCM
+  - Mini Max
+  - discoteca La Scala
+  - Italo
+  # Località del castello (da OpenStreetMap)
+  - Brugneto
+  - Caitasso
+  - Costa del Santo
+  - Cà Amadore
+  - Cà Baudasso
+  - Cà Nino
+  - Cà Tabarrino
+  - Cà Taliano
+  - Molino Magi
+  - Molino dei Fratti
+  - Molino della Genga
+  - Valdicella
+  - Baldasserona
+  # Vie del castello (da OpenStreetMap, DA CONTROLLARE: togli quelle sbagliate, aggiungi quelle mancanti)
+  - Strada Ca' Bigio
+  - Strada Ca' Moretti
+  - Strada Cangiola
+  - Strada Capoglietto
+  - Strada Genghe di Atto
+  - Strada Guido Lambertizio
+  - Strada Morcione
+  - Strada Voltavine
+  - Strada del Colombaro
+  - Strada del Poggiaccio
+  - Strada del Re
+  - Strada del Vignale
+  - Strada della Creta Rossa
+  - Strada delle Moricce
+  - Strada di Gaviano
+  - Via Adamo Frisoni
+  - Via Biagio di Santolino
+  - Via Brentolo
+  - Via Enrico Notaio
+  - Via Fabrizio da Montebello
+  - Via Fornacina
+  - Via Forte di Ugolino
+  - Via Foschino Calcigni
+  - Via Genga Petrella
+  - Via Genghettino
+  - Via Giangio di Dorallo
+  - Via Giovanni Da Cerreto
+  - Via Giovanni Guarneiro
+  - Via Giovanni Guiduccio
+  - Via Giovanni di Cicco
+  - Via Guidino di Giovanni
+  - Via Guido Fagnano
+  - Via Marcadante
+  - Via Molino dei Frati
+  - Via Nino Simoncini
+  - Via Nitella
+  - Via Paolino di Simoncino
+  - Via Podere del Cipresso
+  - Via Prato del Moro
+  - Via Prato delle Valli
+  - Via Prato di Paolo
+  - Via Rivo Fontanelle
+  - Via Seconda Gualdaria
+  - Via Tura dal Fiume
+  - Via Ugolino di Giovanni Damoli
+  - Via Vitola degli Olivi
+  - Via degli Aceri
+  - Via del Biancospino
+  - Via del Mercurio
+  - Via della Margheritina
+  - Via delle Lamaticce
+
+contesto:
+  - San Marino
+  - sammarinese
+  - sammarinesi
+  - Repubblica di San Marino
+  - Titano
+  - Giunta di Castello
+  - Capitano di Castello
+
+# Frasi da ignorare sempre: vengono tolte dal testo prima del controllo.
+esclusioni:
+  - Acquaviva delle Fonti
+  - Acquaviva Picena
+  - Acquaviva Platani
+  - Acquaviva Collecroce
+  - Acquaviva d'Isernia
+  - Teatro alla Scala
+  - Scala di Milano
+  - treno Italo
+  - treni Italo
+  - Italo Treno
