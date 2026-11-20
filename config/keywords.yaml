@@ -21,10 +21,12 @@ forti:
   - Castello di Acquaviva
   - Giunta di Acquaviva
 
-# "Acquaviva" da sola conta solo se l'articolo viene da un giornale sammarinese,
-# oppure se nel testo c'è anche una delle parole di "contesto".
+# Queste parole contano solo se l'articolo viene da un giornale o ente sammarinese,
+# oppure se nel testo c'è anche una parola di "contesto".
 acquaviva:
   - Acquaviva
+  # Squadra di calcio del castello (AC Virtus, ex SS Virtus)
+  - Virtus
 
 # Queste parole contano solo se nel testo c'è anche una parola di "contesto".
 deboli:
@@ -127,3 +129,12 @@ esclusioni:
   - treno Italo
   - treni Italo
   - Italo Treno
+  # Altre squadre "Virtus" da non confondere con quella di Acquaviva
+  - Virtus Bike
+  - Virtus Bologna
+  - Virtus Segafredo
+  - Virtus Entella
+  - Virtus Verona
+  - Virtus Roma
+  - Virtus Francavilla
+  - Virtus Lanciano

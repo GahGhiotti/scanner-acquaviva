@@ -33,9 +33,12 @@ def raccogli(cfg: dict, memoria: Memoria, forza_arengo: bool) -> list[F.Articolo
     tutti: list[F.Articolo] = []
     for fonte in cfg["fonti"]:
         nome = fonte["nome"]
+        inizio = time.monotonic()
         try:
             if fonte["tipo"] == "rss":
                 trovati = F.leggi_rss(fonte)
+            elif fonte["tipo"] == "ordinanze":
+                trovati = F.leggi_ordinanze(fonte, datetime.now(timezone.utc).year)
             elif fonte["tipo"] == "arengo":
                 ore = memoria.ore_da("arengo")
                 if not forza_arengo and ore < fonte.get("ogni_ore", 20):
@@ -50,7 +53,12 @@ def raccogli(cfg: dict, memoria: Memoria, forza_arengo: bool) -> list[F.Articolo
         except Exception as e:  # una fonte rotta non ferma le altre
             print(f"! {nome}: errore ({e})")
             continue
-        print(f"- {nome}: {len(trovati)} elementi letti")
+        nuova = f"fonte:{nome}" not in memoria.ultimo
+        for art in trovati:
+            art.fonte_nuova = nuova  # fonte appena aggiunta: al primo giro non pubblica
+        memoria.ultimo[f"fonte:{nome}"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        durata = time.monotonic() - inizio
+        print(f"- {nome}: {len(trovati)} elementi letti in {durata:.0f} s" + (" (fonte nuova: semina)" if nuova else ""))
         tutti.extend(trovati)
     return tutti
 
@@ -76,16 +84,22 @@ def main() -> int:
         print("Mancano i segreti TELEGRAM_BOT_TOKEN e/o TELEGRAM_CHAT_ID.")
         return 1
 
+    # Le fonti presenti fin dal primo giro (20/11/2026) sono già state seminate.
+    if memoria.inizializzata and not any(k.startswith("fonte:") for k in memoria.ultimo):
+        for n in ("San Marino RTV", "GiornaleSM", "Insider", "Libertas", "Google News", "Consiglio Grande e Generale"):
+            memoria.ultimo[f"fonte:{n}"] = "2026-11-20T14:44:12+00:00"
+
     articoli = raccogli(cfg, memoria, forza_arengo=semina or args.prova)
     limite_eta = datetime.now(timezone.utc) - timedelta(days=cfg.get("eta_massima_giorni", 3))
 
+    t0 = time.monotonic()
     da_pubblicare: list[tuple[F.Articolo, str]] = []
     visti_ora: set[str] = set()
     for art in articoli:
         if memoria.gia_visto(art.url, art.titolo) or art.url in visti_ora:
             continue
         visti_ora.add(art.url)
-        if semina:
+        if semina or (art.fonte_nuova and not args.prova):
             memoria.segna(art.url, art.titolo)
             continue
         if art.controlla_eta and art.data and art.data < limite_eta:
@@ -101,6 +115,7 @@ def main() -> int:
         if parola:
             da_pubblicare.append((art, f"{parola}: {estratto(testo, parola)}"))
 
+    print(f"Controllo degli articoli finito in {time.monotonic() - t0:.0f} s")
     da_pubblicare.sort(key=lambda x: x[0].data or datetime.min.replace(tzinfo=timezone.utc))
     massimo = cfg.get("max_post_per_giro", 10)
     if len(da_pubblicare) > massimo:

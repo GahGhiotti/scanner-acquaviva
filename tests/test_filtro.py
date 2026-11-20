@@ -82,3 +82,21 @@ def test_contenuto_su_vie_e_abitanti_resta():
     from scanner.fonti import togli_dati_personali
     testo = "La via Rivo Fontanelle è gravata dal traffico. Gli abitanti di Gualdicciolo chiedono un intervento."
     assert f.controlla(togli_dati_personali(testo), sammarinese=True) == "gualdicciolo"
+
+
+def test_virtus():
+    assert f.controlla("Campionato: Virtus-Tre Fiori 2-1", sammarinese=True) == "virtus"
+    assert f.controlla("Virtus Bike, grande festa per la granfondo", sammarinese=True) is None
+    assert f.controlla("Basket, la Virtus Bologna vince", sammarinese=False) is None
+
+
+def test_estrai_ordinanze():
+    from scanner.fonti import estrai_ordinanze
+    html = ('<a href="/pub1/InterniSM/dam/jcr:abc/Ordinanza%20n.224-2026.pdf" '
+            'aria-label="Ordinanza n.224-2026 Festa di fine estate4 settembre 2026 (opens in a new tab)">x</a>')
+    o = estrai_ordinanze(html, {"nome": "Ordinanze Affari Interni"}, "https://www.interni.sm/x.html")
+    assert len(o) == 1
+    assert o[0].titolo == "Ordinanza n.224-2026 – Festa di fine estate – 4 settembre 2026"
+    assert o[0].url.startswith("https://www.interni.sm/pub1/")
+    testo = "Vista la richiesta della Giunta di Castello di Acquaviva, chiusura di Strada Molino Genga"
+    assert f.controlla(testo, True) == "castello di acquaviva"

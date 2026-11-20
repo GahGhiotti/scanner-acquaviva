@@ -35,6 +35,7 @@ class Articolo:
     # Funzione che, se serve, recupera il testo completo (pagina o PDF).
     testo_completo: Callable[[], str] | None = field(default=None, repr=False)
     controlla_eta: bool = True
+    fonte_nuova: bool = False
 
 
 def scarica(url: str) -> requests.Response:
@@ -277,3 +278,34 @@ def togli_dati_personali(testo: str) -> str:
         inizio = m.end() + 150
     pezzi.append(testo[inizio:])
     return " ".join(pezzi)
+
+
+# ---------------------------------------------------------------- Ordinanze (Segreteria Affari Interni)
+
+ORDINANZE = "https://www.interni.sm/pub1/InterniSM/Ordinanze/Ordinanze{anno}.html"
+
+
+def leggi_ordinanze(fonte: dict, anno: int) -> list[Articolo]:
+    """Ordinanze di chiusura strade e simili: il testo si legge dal PDF."""
+    r = scarica(ORDINANZE.format(anno=anno))
+    return estrai_ordinanze(r.text, fonte, r.url)
+
+
+def estrai_ordinanze(html: str, fonte: dict, base_url: str) -> list[Articolo]:
+    soup = BeautifulSoup(html, "lxml")
+    articoli, visti = [], set()
+    for a in soup.find_all("a", href=re.compile(r"Ordinanza.*\.pdf", re.I)):
+        url = urljoin(base_url, a["href"])
+        if url in visti:
+            continue
+        visti.add(url)
+        titolo = (a.get("aria-label") or a.get_text(" ", strip=True)).replace("(opens in a new tab)", "").strip()
+        titolo = re.sub(r"(\S)(\d{1,2} \w+ \d{4})$", r"\1 – \2", titolo)
+        titolo = re.sub(r"^(Ordinanza n\.\s?\d+-\d{4})\s*", r"\1 – ", titolo)
+        art = Articolo(
+            titolo=titolo, url=url, fonte=fonte.get("nome", "Segreteria Affari Interni"),
+            sammarinese=True, testo=titolo, controlla_eta=False,
+        )
+        art.testo_completo = (lambda u=url: testo_pdf(u))
+        articoli.append(art)
+    return articoli

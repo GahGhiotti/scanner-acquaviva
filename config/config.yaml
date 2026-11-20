@@ -65,7 +65,12 @@ fonti:
     google_news: true
     url:
       - https://news.google.com/rss/search?q=Acquaviva+%22San+Marino%22&hl=it&gl=IT&ceid=IT:it
+      - https://news.google.com/rss/search?q=Virtus+%22San+Marino%22+calcio&hl=it&gl=IT&ceid=IT:it
       - https://news.google.com/rss/search?q=Gualdicciolo+OR+Montecerreto+OR+%22Monte+Cerreto%22+OR+Moricce+OR+%22Costa+dello+Spino%22&hl=it&gl=IT&ceid=IT:it
+
+  - nome: Ordinanze Affari Interni
+    tipo: ordinanze
+    sammarinese: true
 
   - nome: Consiglio Grande e Generale
     tipo: arengo
