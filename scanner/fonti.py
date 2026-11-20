@@ -249,9 +249,11 @@ def _testo_istanza(scheda_url: str) -> str:
         print(f"    scheda non leggibile: {scheda_url} ({e})")
         return ""
     soup = BeautifulSoup(_decodifica(r), "lxml")
-    testi = []
-    for a in soup.find_all("a", href=re.compile(r"documento\d+")):
-        testi.append(testo_pdf(urljoin(scheda_url, a["href"])))
+    # Solo il PDF dell'istanza stessa: le schede possono collegare anche documenti
+    # comuni a più istanze (relazioni, risposte), che darebbero risultati sbagliati.
+    link = soup.find_all("a", href=re.compile(r"documento\d+"))
+    propri = [a for a in link if "istanza" in (a.get("title") or "").lower()] or link[:1]
+    testi = [testo_pdf(urljoin(scheda_url, a["href"])) for a in propri]
     return togli_dati_personali("\n".join(testi))
 
 
