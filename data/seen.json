@@ -2,11 +2,11 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-21T11:01:28+00:00",
-  "fonte:San Marino RTV": "2026-11-21T19:01:14+00:00",
-  "fonte:GiornaleSM": "2026-11-21T19:01:14+00:00",
-  "fonte:Insider": "2026-11-21T19:01:15+00:00",
-  "fonte:Libertas": "2026-11-21T19:01:16+00:00",
-  "fonte:Google News": "2026-11-21T19:01:18+00:00",
+  "fonte:San Marino RTV": "2026-11-21T20:01:13+00:00",
+  "fonte:GiornaleSM": "2026-11-21T20:01:13+00:00",
+  "fonte:Insider": "2026-11-21T20:01:14+00:00",
+  "fonte:Libertas": "2026-11-21T20:01:16+00:00",
+  "fonte:Google News": "2026-11-21T20:01:17+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-21T11:01:28+00:00",
   "fonte:Ordinanze Affari Interni": "2026-11-21T19:01:19+00:00"
  },
@@ -107,6 +107,20 @@
      "nome_fonte_config": "GiornaleSM",
      "parola": "acquaviva",
      "etichette": "San Marino Sport Uncategorized I biancorossoblù accorciano le distanze con Aprea e nel finale costruiscono diverse occasioni per il pareggio, senza però riuscire a completare la rimonta contro i campioni in carica SERRAVALLE (RSM), sabato 21 novembre 2026 – La Juvenes Dogana esce sconfitta per 2-1 dalla sfida con il Tre Fiori, ca"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "data": "2026-11-21T20:02:03+00:00",
+   "articoli": [
+    {
+     "titolo": "Il Sacchificio Industriale Sammarinese celebra 60 anni di attività",
+     "url": "https://www.libertas.sm/il-sacchificio-industriale-sammarinese-celebra-60-anni-di-attivita/",
+     "fonte": "Libertas",
+     "nome_fonte_config": "Libertas",
+     "parola": "gualdicciolo",
+     "etichette": "AA Slide homepage San Marino Società Comieco Dante Capicchioni Eccellenze Sammarinesi emissione filatelica Franco Capicchioni Gerardo Giovagnoli Gualdicciolo industria sammarinese Poste San Marino rossano fabbri Sacchificio Industriale Sammarinese SIS William Casali SAN MARINO – Sessant’anni di attività industriale, innovazione e crescita sui mercati internazionali. Il Sacchificio Industriale Sammarinese (SIS) ha celebrato L'articolo Il Sacchificio Industriale Sammarinese celebra 60 anni di attività proviene da libertas ."
     }
    ]
   }
@@ -378,6 +392,7 @@
   "t:il latina vince 1 0 a vado in una partita con poche emozioni": "2026-11-21",
   "t:il meglio delle bocce europee arriva a san marino col 1 trofeo internazionale montecerreto": "2026-11-20",
   "t:il rito in un opera desertica franco cilena": "2026-11-20",
+  "t:il sacchificio industriale sammarinese celebra 60 anni di attivita": "2026-11-21",
   "t:il san marino rinuncia al campo di acquaviva": "2026-11-20",
   "t:il segretario beccari incontra volodymyr zelensky": "2026-11-20",
   "t:il supermercato diventa teatro di denuncia con ancora in cerca di guai no grazie amore mio": "2026-11-20",
@@ -2253,6 +2268,7 @@
   "u:https://www.libertas.sm/gen-sm-a-roma-con-i-giovani-democratici-per-il-futuro-europeo/": "2026-11-20",
   "u:https://www.libertas.sm/generazione-libera-lancia-generamente-incontri-aperti-alla-cittadinanza/": "2026-11-20",
   "u:https://www.libertas.sm/giornata-mondiale-dellinfanzia-unicef-italia-dedica-il-2026-al-diritto-alla-pace/": "2026-11-20",
+  "u:https://www.libertas.sm/il-sacchificio-industriale-sammarinese-celebra-60-anni-di-attivita/": "2026-11-21",
   "u:https://www.libertas.sm/incendio-allalba-a-santa-mustiola-a-fuoco-un-mezzo-per-il-trasporto-del-pane/": "2026-11-20",
   "u:https://www.libertas.sm/inline-freestyle-quattro-podi-per-san-marino-alla-busto-battle-11-matilde-terenzi-vince-nello-slide/": "2026-11-20",
   "u:https://www.libertas.sm/intelligenza-artificiale-e-lavoro-la-cdls-chiede-un-confronto-tra-istituzioni-e-parti-sociali/": "2026-11-21",
