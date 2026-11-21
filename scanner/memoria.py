@@ -33,6 +33,8 @@ class Memoria:
         self.inizializzata: bool = dati.get("inizializzata", False)
         # Post usciti negli ultimi giorni: servono a riconoscere i doppioni.
         self.pubblicati: list[dict] = dati.get("pubblicati", [])
+        # Notizie trovate di notte (o oltre il limite per giro), da pubblicare al prossimo giro utile.
+        self.in_attesa: list[dict] = dati.get("in_attesa", [])
 
     def gia_visto(self, url: str, titolo: str) -> bool:
         return any(k in self.visti for k in chiavi(url, titolo))
@@ -65,6 +67,7 @@ class Memoria:
             "inizializzata": self.inizializzata,
             "ultimo": self.ultimo,
             "pubblicati": self.pubblicati,
+            "in_attesa": self.in_attesa,
             "visti": dict(sorted(self.visti.items())),
         }
         self.percorso.write_text(json.dumps(dati, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

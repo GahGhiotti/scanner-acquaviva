@@ -30,3 +30,15 @@ def test_post_con_altre_fonti():
     ins = Articolo("Altro titolo", "https://insider/y", "Insider", True)
     t = post_telegram(rtv, CFG, [ins])
     assert "Fonte: San Marino RTV\nAnche su: <a href=\"https://insider/y\">Insider</a>\n" in t
+
+
+def test_silenzio_notturno():
+    from datetime import datetime
+    from scanner.__main__ import e_notte
+    cfg = {"silenzio_notturno": {"dalle": 22, "alle": 7}}
+    assert e_notte(cfg, datetime(2026, 11, 21, 23, 30))
+    assert e_notte(cfg, datetime(2026, 11, 21, 3, 0))
+    assert e_notte(cfg, datetime(2026, 11, 21, 6, 59))
+    assert not e_notte(cfg, datetime(2026, 11, 21, 7, 0))
+    assert not e_notte(cfg, datetime(2026, 11, 21, 21, 59))
+    assert not e_notte({}, datetime(2026, 11, 21, 3, 0))

@@ -21,6 +21,12 @@ priorita_fonti:
   - Insider
   - Libertas
 
+# Di notte non si pubblica: le notizie trovate escono tutte al primo giro del mattino.
+# Ore di San Marino. Per disattivare, cancella queste tre righe.
+silenzio_notturno:
+  dalle: 22
+  alle: 7
+
 # Articoli più vecchi di così vengono ignorati (protezione contro i "ripescaggi").
 eta_massima_giorni: 3
 

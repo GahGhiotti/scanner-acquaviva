@@ -13,6 +13,7 @@ import os
 import sys
 import time
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 import yaml
@@ -63,6 +64,17 @@ def raccogli(cfg: dict, memoria: Memoria, forza_arengo: bool) -> list[F.Articolo
         print(f"- {nome}: {len(trovati)} elementi letti in {durata:.0f} s" + (" (fonte nuova: semina)" if nuova else ""))
         tutti.extend(trovati)
     return tutti
+
+
+def e_notte(cfg: dict, ora: datetime | None = None) -> bool:
+    """True nelle ore di silenzio (config: silenzio_notturno), all'ora di San Marino."""
+    sn = cfg.get("silenzio_notturno")
+    if not sn:
+        return False
+    ora = ora or datetime.now(ZoneInfo("Europe/San_Marino"))
+    h = ora.hour
+    da, a = sn["dalle"], sn["alle"]
+    return (da <= h or h < a) if da > a else (da <= h < a)
 
 
 def in_dizionario(art: F.Articolo) -> dict:
@@ -156,11 +168,24 @@ def main() -> int:
 
     print(f"Controllo degli articoli finito in {time.monotonic() - t0:.0f} s")
     da_pubblicare.sort(key=lambda x: x[0].data or datetime.min.replace(tzinfo=timezone.utc))
+
+    if e_notte(cfg) and not args.prova:
+        for art, _ in da_pubblicare:
+            memoria.in_attesa.append(in_dizionario(art))
+        print(f"Silenzio notturno: {len(da_pubblicare)} notizie messe da parte, "
+              f"in attesa in tutto: {len(memoria.in_attesa)}. Escono al mattino.")
+        da_pubblicare = []
+    elif memoria.in_attesa:
+        print(f"Pubblico anche {len(memoria.in_attesa)} notizie rimaste in attesa.")
+        da_pubblicare = [(da_dizionario(d), d.get("parola", "in attesa")) for d in memoria.in_attesa] + da_pubblicare
+        if not args.prova:
+            memoria.in_attesa = []
+
     massimo = cfg.get("max_post_per_giro", 10)
     if len(da_pubblicare) > massimo:
         print(f"Trovati {len(da_pubblicare)} articoli: ne pubblico {massimo}, gli altri al prossimo giro.")
-        for art, _ in da_pubblicare[massimo:]:
-            memoria.dimentica(art.url, art.titolo)
+        if not args.prova:
+            memoria.in_attesa.extend(in_dizionario(art) for art, _ in da_pubblicare[massimo:])
         da_pubblicare = da_pubblicare[:massimo]
 
     print(f"\nDa pubblicare: {len(da_pubblicare)}")
