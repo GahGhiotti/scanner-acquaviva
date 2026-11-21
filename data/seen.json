@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-21T11:01:28+00:00",
-  "fonte:San Marino RTV": "2026-11-21T14:01:16+00:00",
-  "fonte:GiornaleSM": "2026-11-21T14:01:16+00:00",
-  "fonte:Insider": "2026-11-21T14:01:17+00:00",
-  "fonte:Libertas": "2026-11-21T14:01:19+00:00",
-  "fonte:Google News": "2026-11-21T14:01:20+00:00",
+  "fonte:San Marino RTV": "2026-11-21T15:01:16+00:00",
+  "fonte:GiornaleSM": "2026-11-21T15:01:17+00:00",
+  "fonte:Insider": "2026-11-21T15:01:21+00:00",
+  "fonte:Libertas": "2026-11-21T15:01:22+00:00",
+  "fonte:Google News": "2026-11-21T15:01:23+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-21T11:01:28+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-21T14:01:21+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-21T15:01:25+00:00"
  },
  "pubblicati": [
   {
@@ -199,6 +199,7 @@
   "t:coppa italia ad acquaviva la sfida con il verona": "2026-11-21",
   "t:coppa italia la sampdoria vince 3 a 0 ad acquaviva": "2026-11-20",
   "t:cordoglio per la scomparsa di corrado augias il ricordo del segretario di stato per il turismo e l informazione federico pedini amati": "2026-11-20",
+  "t:coriano ha aperto i battenti la 39 fiera dell oliva e dei prodotti autunnali": "2026-11-21",
   "t:corsa scudetto virtus col calendario peggiore tre fiori e tre penne sognano": "2026-11-21",
   "t:cosmos virtus guida la 19 giornata": "2026-11-21",
   "t:costa rica viaggio fotografico tra foreste e biodiversita a dogana": "2026-11-20",
@@ -472,6 +473,7 @@
   "t:la repubblica di san marino porta la propria visione di turismo sostenibile agli stati generali di roma": "2026-11-20",
   "t:la rinascita dell ecomostro di acquaviva": "2026-11-21",
   "t:la scuola di acquaviva si fa piu grande la reggenza ha partecipato alla posa della prima pietra del nuovo edificio": "2026-11-20",
+  "t:la spirale dell estranea senza amore": "2026-11-21",
   "t:la srl piu cara d europa forse ce l abbiamo a san marino": "2026-11-20",
   "t:la supercoppa tra virtus e tre fiori si giochera il 23 dicembre": "2026-11-21",
   "t:la virtus batte la fiorita 2 1 e chiude al secondo posto": "2026-11-20",
@@ -2215,6 +2217,7 @@
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/banca-centrale-vendita-di-realizzo-di-abbigliamento-scarpe-arredi-componentistica-biciclette-macchinari-elettromedicali-e-beni-vari-a298771": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/cop31-il-disability-climate-caucus-non-si-arrende-e-rilancia-la-sfida-dell-inclusione-a298792": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/cordoglio-per-la-scomparsa-di-corrado-augias-il-ricordo-del-segretario-di-stato-per-il-turismo-e-l-informazione-federico-pedini-amati-a298765": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/coriano-ha-aperto-i-battenti-la-39-fiera-dell-oliva-e-dei-prodotti-autunnali-a298843": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/da-nuove-idee-nuove-imprese-alle-partnership-con-i-grandi-gruppi-industriali-25-anni-di-startup-che-crescono-e-attraggono-investimenti-e-riconoscimenti-a298762": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/icee-doveva-garantire-equita-ora-rischia-di-diventare-uno-strumento-di-controllo-sui-cittadini-a298815": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/infermieristica-pediatrica-al-via-il-corso-di-alta-formazione-dell-universita-di-san-marino-in-collaborazione-con-l-iss-a298840": "2026-11-21",
@@ -2269,6 +2272,7 @@
   "u:https://www.sanmarinortv.sm/news/cultura-c6/l-amore-anziano-a-tangeri-a298506": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/l-uomo-rischia-di-diventare-superfluo-l-allarme-di-marcello-veneziani-a-mementi-a298697": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/la-caritas-si-racconta-nel-libro-custodi-del-domani-a298823": "2026-11-21",
+  "u:https://www.sanmarinortv.sm/news/cultura-c6/la-spirale-dell-estranea-senza-amore-a298842": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/museo-di-stato-nel-ciclo-i-mai-visti-l-allegoria-della-pittura-di-simone-cantarini-a298528": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/parlare-di-guerra-vuol-dire-parlare-di-pace-presentato-alla-reggenza-libro-sulla-linea-gotica-a298639": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/prada-come-disney-a298650": "2026-11-20",
