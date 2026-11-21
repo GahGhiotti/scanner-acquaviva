@@ -11,6 +11,16 @@ giunta:
   facebook: https://www.facebook.com/giuntacastello.diacquaviva
   instagram: https://www.instagram.com/giuntadicastello_acquaviva/
 
+# Se la stessa notizia esce su più giornali, il post usa la prima fonte di questo elenco
+# e mette le altre sotto "Anche su". Le fonti non elencate (es. Google News) vengono per ultime.
+priorita_fonti:
+  - San Marino RTV
+  - Consiglio Grande e Generale
+  - Ordinanze Affari Interni
+  - GiornaleSM
+  - Insider
+  - Libertas
+
 # Articoli più vecchi di così vengono ignorati (protezione contro i "ripescaggi").
 eta_massima_giorni: 3
 

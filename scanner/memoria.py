@@ -9,6 +9,7 @@ from pathlib import Path
 from .filtro import normalizza
 
 GIORNI_MEMORIA = 180
+GIORNI_DOPPIONI = 3
 
 
 def chiavi(url: str, titolo: str) -> list[str]:
@@ -30,6 +31,8 @@ class Memoria:
         self.visti: dict[str, str] = dati.get("visti", {})
         self.ultimo: dict[str, str] = dati.get("ultimo", {})
         self.inizializzata: bool = dati.get("inizializzata", False)
+        # Post usciti negli ultimi giorni: servono a riconoscere i doppioni.
+        self.pubblicati: list[dict] = dati.get("pubblicati", [])
 
     def gia_visto(self, url: str, titolo: str) -> bool:
         return any(k in self.visti for k in chiavi(url, titolo))
@@ -56,5 +59,12 @@ class Memoria:
         limite = (datetime.now(timezone.utc) - timedelta(days=GIORNI_MEMORIA)).date().isoformat()
         self.visti = {k: v for k, v in self.visti.items() if v >= limite}
         self.percorso.parent.mkdir(parents=True, exist_ok=True)
-        dati = {"inizializzata": self.inizializzata, "ultimo": self.ultimo, "visti": dict(sorted(self.visti.items()))}
+        da = (datetime.now(timezone.utc) - timedelta(days=GIORNI_DOPPIONI)).isoformat()
+        self.pubblicati = [p for p in self.pubblicati if p.get("data", "") >= da]
+        dati = {
+            "inizializzata": self.inizializzata,
+            "ultimo": self.ultimo,
+            "pubblicati": self.pubblicati,
+            "visti": dict(sorted(self.visti.items())),
+        }
         self.percorso.write_text(json.dumps(dati, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

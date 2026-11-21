@@ -18,6 +18,7 @@ from pathlib import Path
 import yaml
 
 from . import fonti as F
+from .doppioni import priorita, stessa_notizia
 from .filtro import Filtro, estratto
 from .memoria import Memoria
 from .telegram import invia, post_telegram, post_whatsapp
@@ -62,6 +63,16 @@ def raccogli(cfg: dict, memoria: Memoria, forza_arengo: bool) -> list[F.Articolo
         print(f"- {nome}: {len(trovati)} elementi letti in {durata:.0f} s" + (" (fonte nuova: semina)" if nuova else ""))
         tutti.extend(trovati)
     return tutti
+
+
+def in_dizionario(art: F.Articolo) -> dict:
+    return {"titolo": art.titolo, "url": art.url, "fonte": art.fonte,
+            "nome_fonte_config": art.nome_fonte_config, "parola": art.parola}
+
+
+def da_dizionario(d: dict) -> F.Articolo:
+    return F.Articolo(d["titolo"], d["url"], d["fonte"], True,
+                      parola=d.get("parola", ""), nome_fonte_config=d.get("nome_fonte_config", ""))
 
 
 def test_messaggio(cfg: dict) -> int:
@@ -153,12 +164,37 @@ def main() -> int:
         da_pubblicare = da_pubblicare[:massimo]
 
     print(f"\nDa pubblicare: {len(da_pubblicare)}")
-    for art, parola in da_pubblicare:
-        print(f"  [{parola}] {art.fonte}: {art.titolo}\n    {art.url}")
+    # Le fonti più importanti per prime: se la stessa notizia arriva da più giornali,
+    # il post è quello della fonte principale e gli altri compaiono come "Anche su".
+    da_pubblicare.sort(key=lambda x: priorita(x[0].nome_fonte_config, cfg))
+    adesso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for art, motivo in da_pubblicare:
+        print(f"  [{motivo}] {art.fonte}: {art.titolo}\n    {art.url}")
+        gia = next(
+            (p for p in memoria.pubblicati if any(stessa_notizia(a["titolo"], art.titolo) for a in p["articoli"])),
+            None,
+        )
+        if gia:
+            gia["articoli"].append(in_dizionario(art))
+            gia["articoli"].sort(key=lambda a: priorita(a.get("nome_fonte_config", ""), cfg))
+            print(f"    stessa notizia di un post già uscito: aggiungo la fonte \"{art.fonte}\" a quel post")
+            if args.prova:
+                continue
+            articoli_post = [da_dizionario(a) for a in gia["articoli"]]
+            principale = articoli_post[0]
+            try:
+                invia(token, canale, post_telegram(principale, cfg, articoli_post[1:]),
+                      anteprima=principale.url, modifica_id=gia["id"])
+            except Exception as e:  # es. post cancellato a mano: non riprovare all'infinito
+                print(f"  ! non riesco a modificare il post esistente ({e})")
+            time.sleep(cfg.get("pausa_messaggi", 3))
+            continue
         if args.prova:
+            memoria.pubblicati.append({"id": None, "data": adesso, "articoli": [in_dizionario(art)]})
             continue
         try:
-            invia(token, canale, post_telegram(art, cfg), anteprima=art.url)
+            mid = invia(token, canale, post_telegram(art, cfg), anteprima=art.url)
+            memoria.pubblicati.append({"id": mid, "data": adesso, "articoli": [in_dizionario(art)]})
             if privato:
                 invia(token, privato, post_whatsapp(art, cfg), html_mode=False)
         except Exception as e:
