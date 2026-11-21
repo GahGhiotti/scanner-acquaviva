@@ -182,5 +182,11 @@ def test_sport_conta_la_squadra():
     assert f.controlla("Calcio, la Nazionale gioca a Serravalle", True, sportivo=True) is None
     # luoghi forti valgono anche nello sport
     assert f.controlla("Rally, prova speciale da Gualdicciolo a Montecerreto", True, sportivo=True) is not None
-    # Virtus Bike resta esclusa
-    assert f.controlla("Virtus Bike, granfondo ad Acquaviva", True, sportivo=True) is None
+    # Virtus Bike: no, a meno che la gara passi per Acquaviva
+    assert f.controlla("Virtus Bike, granfondo a Domagnano", True, sportivo=True) is None
+    assert f.controlla("Virtus Bike, la granfondo passa per Acquaviva e Gualdicciolo", True, sportivo=True)
+    assert f.controlla("Virtus Bike, il percorso attraversa Acquaviva", True, sportivo=True) == "acquaviva"
+    # eventi non ufficiali ad Acquaviva: sì
+    assert f.controlla("Partita di beneficenza allo stadio di Acquaviva", True, sportivo=True)
+    assert f.controlla("Nazionale cantanti in campo ad Acquaviva per la raccolta fondi", True, sportivo=True)
+    assert f.controlla("Partita di beneficenza a Serravalle", True, sportivo=True) is None

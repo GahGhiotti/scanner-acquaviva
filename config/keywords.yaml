@@ -144,6 +144,7 @@ esclusioni:
   # Indirizzo della redazione di Insider, scritto in fondo a ogni sua pagina
   - Via Rivo Fontanelle 125 - 47892 Acquaviva
   # Altre squadre "Virtus" da non confondere con quella di Acquaviva
+  # Virtus Bike non è più di Acquaviva: esce solo se la gara passa per il castello
   - Virtus Bike
   - Virtus Bologna
   - Virtus Segafredo
@@ -167,3 +168,29 @@ sport:
     - Nazionale
     - Nazionali
     - Academy
+    # Partite ed eventi non ufficiali (beneficenza, cantanti, vecchie glorie...)
+    - beneficenza
+    - benefica
+    - benefico
+    - solidarieta
+    - solidale
+    - raccolta fondi
+    - partita del cuore
+    - cantanti
+    - vecchie glorie
+    - memorial
+    - amichevole
+  # Frasi che indicano solo DOVE si gioca: da sole non bastano.
+  # Se dopo averle tolte "Acquaviva" compare ancora (es. una gara che passa per
+  # Acquaviva), la notizia esce.
+  solo_campo:
+    - stadio di Acquaviva
+    - stadio Acquaviva
+    - campo di Acquaviva
+    - campo sportivo di Acquaviva
+    - campo da calcio di Acquaviva
+    - palestra di Acquaviva
+    - bocciodromo di Acquaviva
+    - si gioca ad Acquaviva
+    - giocata ad Acquaviva
+    - in campo ad Acquaviva
