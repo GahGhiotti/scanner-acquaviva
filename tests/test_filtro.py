@@ -161,3 +161,9 @@ def test_categoria_da_descrizione_e_categorie_rss():
     assert categoria(a, cfg)[1] == "Sport · Calcio"
     b = Articolo("Atletica, buoni risultati", "https://insider.sm/y", "Insider", True, etichette="Sport")
     assert categoria(b, cfg)[1] == "Sport"
+
+
+def test_indirizzo_insider_non_conta():
+    pie_di_pagina = "Insider.sm – Via Rivo Fontanelle 125 – 47892 Acquaviva (RSM)"
+    assert f.controlla("Borsa, giornata positiva. " + pie_di_pagina, sammarinese=True) is None
+    assert f.controlla("Si gioca allo stadio di Acquaviva. " + pie_di_pagina, sammarinese=True) == "acquaviva"
