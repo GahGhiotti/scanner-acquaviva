@@ -167,3 +167,20 @@ def test_indirizzo_insider_non_conta():
     pie_di_pagina = "Insider.sm – Via Rivo Fontanelle 125 – 47892 Acquaviva (RSM)"
     assert f.controlla("Borsa, giornata positiva. " + pie_di_pagina, sammarinese=True) is None
     assert f.controlla("Si gioca allo stadio di Acquaviva. " + pie_di_pagina, sammarinese=True) == "acquaviva"
+
+
+def test_sport_conta_la_squadra():
+    # partita di altre squadre allo stadio di Acquaviva: no
+    assert f.controlla("Tre Fiori-Libertas 1-1, si gioca allo stadio di Acquaviva", True, sportivo=True) is None
+    # squadra di casa: sì, ovunque giochi
+    assert f.controlla("Virtus-Tre Fiori 2-1 a Serravalle", True, sportivo=True) == "virtus"
+    assert f.controlla("Bocce: la Bocciofila Montecerreto vince a Rimini, San Marino", False, sportivo=True) is not None
+    # Nazionale e Academy solo se giocano ad Acquaviva
+    assert f.controlla("Under 22 della San Marino Academy, si gioca allo stadio di Acquaviva", True, sportivo=True)
+    assert f.controlla("San Marino Academy, trasferta a Forlì", True, sportivo=True) is None
+    assert f.controlla("Futsal, la Nazionale si allena ad Acquaviva", True, sportivo=True)
+    assert f.controlla("Calcio, la Nazionale gioca a Serravalle", True, sportivo=True) is None
+    # luoghi forti valgono anche nello sport
+    assert f.controlla("Rally, prova speciale da Gualdicciolo a Montecerreto", True, sportivo=True) is not None
+    # Virtus Bike resta esclusa
+    assert f.controlla("Virtus Bike, granfondo ad Acquaviva", True, sportivo=True) is None

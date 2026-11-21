@@ -152,3 +152,18 @@ esclusioni:
   - Virtus Roma
   - Virtus Francavilla
   - Virtus Lanciano
+
+# REGOLE PER LE NOTIZIE DI SPORT (calcio, futsal, bocce, ecc.)
+# Per lo sport non basta che si giochi ad Acquaviva: conta la squadra.
+sport:
+  # Le squadre del castello: la notizia esce sempre (da un giornale sammarinese
+  # o se nel testo c'è un riferimento a San Marino).
+  squadre_di_casa:
+    - Virtus
+    - Bocciofila Montecerreto
+    - Bocciofila Monte Cerreto
+  # Queste escono solo se giocano ad Acquaviva (nel testo c'è anche "Acquaviva").
+  ospiti_ammessi:
+    - Nazionale
+    - Nazionali
+    - Academy

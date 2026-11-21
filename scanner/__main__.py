@@ -22,7 +22,7 @@ from . import fonti as F
 from .doppioni import priorita, stessa_notizia
 from .filtro import Filtro, estratto
 from .memoria import Memoria
-from .telegram import invia, post_telegram, post_whatsapp
+from .telegram import categoria, invia, post_telegram, post_whatsapp
 
 RADICE = Path(__file__).resolve().parent.parent
 
@@ -156,12 +156,13 @@ def main() -> int:
         if art.controlla_eta and art.data and art.data < limite_eta:
             memoria.segna(art.url, art.titolo)
             continue
+        sportivo = categoria(art, cfg)[1].startswith("Sport")
         testo = f"{art.titolo}\n{art.testo}"
-        parola = filtro.controlla(testo, art.sammarinese)
+        parola = filtro.controlla(testo, art.sammarinese, sportivo)
         if not parola and art.testo_completo:
             time.sleep(0.5)
             testo = f"{art.titolo}\n{art.testo_completo()}"
-            parola = filtro.controlla(testo, art.sammarinese)
+            parola = filtro.controlla(testo, art.sammarinese, sportivo)
         memoria.segna(art.url, art.titolo)
         if parola:
             art.parola = parola
