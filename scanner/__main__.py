@@ -79,12 +79,13 @@ def e_notte(cfg: dict, ora: datetime | None = None) -> bool:
 
 def in_dizionario(art: F.Articolo) -> dict:
     return {"titolo": art.titolo, "url": art.url, "fonte": art.fonte,
-            "nome_fonte_config": art.nome_fonte_config, "parola": art.parola}
+            "nome_fonte_config": art.nome_fonte_config, "parola": art.parola, "etichette": art.etichette}
 
 
 def da_dizionario(d: dict) -> F.Articolo:
     return F.Articolo(d["titolo"], d["url"], d["fonte"], True,
-                      parola=d.get("parola", ""), nome_fonte_config=d.get("nome_fonte_config", ""))
+                      parola=d.get("parola", ""), nome_fonte_config=d.get("nome_fonte_config", ""),
+                      etichette=d.get("etichette", ""))
 
 
 def test_messaggio(cfg: dict) -> int:

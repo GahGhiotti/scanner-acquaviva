@@ -13,7 +13,7 @@ from .fonti import Articolo
 
 def categoria(art: Articolo, cfg: dict) -> tuple[str, str]:
     """(emoji, nome) della categoria del post, secondo config.yaml."""
-    testo = normalizza(f"{art.titolo} {getattr(art, 'parola', '')}")
+    testo = normalizza(f"{art.titolo} {art.parola} {art.etichette}")
     for c in cfg.get("categorie") or []:
         if art.fonte in (c.get("fonti") or []) or getattr(art, "nome_fonte_config", "") in (c.get("fonti") or []):
             return c["emoji"], c["nome"]

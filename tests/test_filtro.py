@@ -150,3 +150,14 @@ def test_categorie():
     assert cat("Atletica, buoni risultati", url="https://www.sanmarinortv.sm/sport/altri-c19/x") == "Sport"
     assert cat("Recita al nido Bruco Verde") == "Scuola"
     assert cat("Nuovo parco giochi ad Acquaviva") == "Notizie"
+
+
+def test_categoria_da_descrizione_e_categorie_rss():
+    from scanner.fonti import Articolo
+    from scanner.telegram import categoria
+    cfg = yaml.safe_load((Path(__file__).parent.parent / "config" / "config.yaml").read_text(encoding="utf-8"))
+    a = Articolo("San Marino Academy, gli Under 22 ripartono contro la Libertas", "https://insider.sm/x", "Insider", True,
+                 etichette="Sport Dopo due settimane di pausa, gli Under 22 della San Marino Academy tornano in campo")
+    assert categoria(a, cfg)[1] == "Sport · Calcio"
+    b = Articolo("Atletica, buoni risultati", "https://insider.sm/y", "Insider", True, etichette="Sport")
+    assert categoria(b, cfg)[1] == "Sport"

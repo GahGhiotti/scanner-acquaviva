@@ -38,6 +38,8 @@ class Articolo:
     fonte_nuova: bool = False
     parola: str = ""
     nome_fonte_config: str = ""
+    # Categorie del feed (es. "Sport", "Calcio") e inizio della descrizione: servono a scegliere la categoria del post.
+    etichette: str = ""
 
 
 def scarica(url: str) -> requests.Response:
@@ -121,10 +123,14 @@ def leggi_rss(fonte: dict) -> list[Articolo]:
                     if titolo.endswith(" - " + giornale):
                         titolo = titolo[: -len(" - " + giornale)]
                 testo = ""  # la descrizione di Google News ripete solo il titolo
+            categorie_rss = " ".join(
+                (c.text or "").strip() for c in it if c.tag.split("}")[-1] == "category" and c.text
+            )
             art = Articolo(
                 titolo=titolo,
                 url=link,
                 fonte=nome_fonte,
+                etichette=f"{categorie_rss} {testo[:300]}",
                 sammarinese=bool(fonte.get("sammarinese")),
                 testo=testo,
                 data=_data(_figlio(it, "pubDate") or _figlio(it, "published") or _figlio(it, "updated")),

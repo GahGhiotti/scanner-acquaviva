@@ -97,8 +97,8 @@ fonti:
 # CATEGORIE: l'intestazione sopra il titolo di ogni post.
 # Vale la prima categoria che corrisponde, nell'ordine scritto qui.
 # Una categoria corrisponde se: la notizia viene da una delle "fonti", oppure il link
-# contiene uno dei pezzi di "link", oppure il titolo (o la parola che ha fatto
-# scattare la notizia) contiene una delle "parole".
+# contiene uno dei pezzi di "link", oppure una delle "parole" compare nel titolo,
+# nelle categorie date dal giornale o nelle prime righe della descrizione.
 categorie:
   - nome: Viabilità
     emoji: 🚧
@@ -109,7 +109,7 @@ categorie:
     fonti: [Consiglio Grande e Generale]
   - nome: Sport · Calcio
     emoji: ⚽
-    parole: [virtus, calcio, calcio a 5, futsal, campionato sammarinese]
+    parole: [virtus, calcio, calcio a 5, futsal, campionato sammarinese, academy, under 17, under 19, under 21, under 22, under 23, gol, partita, calciatore, calciatori, allenatore, serie d]
   - nome: Sport · Bocce
     emoji: 🎳
     parole: [bocce, bocciofila, bocciodromo]
