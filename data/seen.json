@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-20T14:44:12+00:00",
-  "fonte:San Marino RTV": "2026-11-21T08:01:14+00:00",
-  "fonte:GiornaleSM": "2026-11-21T08:01:14+00:00",
-  "fonte:Insider": "2026-11-21T08:01:15+00:00",
-  "fonte:Libertas": "2026-11-21T08:01:17+00:00",
-  "fonte:Google News": "2026-11-21T08:01:18+00:00",
+  "fonte:San Marino RTV": "2026-11-21T09:01:15+00:00",
+  "fonte:GiornaleSM": "2026-11-21T09:01:15+00:00",
+  "fonte:Insider": "2026-11-21T09:01:16+00:00",
+  "fonte:Libertas": "2026-11-21T09:01:17+00:00",
+  "fonte:Google News": "2026-11-21T09:01:18+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-20T14:44:12+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-21T08:01:19+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-21T09:01:27+00:00"
  },
  "pubblicati": [
   {
@@ -28,6 +28,14 @@
    "id": 15,
    "data": "2026-11-21T08:01:27+00:00",
    "articoli": [
+    {
+     "titolo": "La Fiorita batte la Folgore nel recupero, vince anche il Tre Fiori",
+     "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/la-fiorita-batte-la-folgore-nel-recupero-vince-anche-il-tre-fiori-a298831",
+     "fonte": "San Marino RTV",
+     "nome_fonte_config": "San Marino RTV",
+     "parola": "virtus",
+     "etichette": "Calcio Samm. Primo ko in campionato per la capolista, che a 90° scaduto incassa le reti di Bonetti e Serges e cede 3-1. I gialloblu di Fiorentino battono 2-1 la Juvenes/Dogana."
+    },
     {
      "titolo": "La Fiorita piega la Folgore nel recupero, il Tre Fiori accorcia sulla vetta",
      "url": "https://insider.sm/la-fiorita-piega-la-folgore-nel-recupero-il-tre-fiori-accorcia-sulla-vetta/",
@@ -422,6 +430,7 @@
   "t:la capolista mostra i muscoli le titane salutano acquaviva con il gran gol di cuciniello": "2026-11-21",
   "t:la caritas si racconta nel libro custodi del domani": "2026-11-21",
   "t:la fed sammarinese a valanga sulla virtus san mauro a mare termina 8 1": "2026-11-20",
+  "t:la fiorita batte la folgore nel recupero vince anche il tre fiori": "2026-11-21",
   "t:la fiorita piega la folgore nel recupero il tre fiori accorcia sulla vetta": "2026-11-21",
   "t:la lezione di toni capuozzo il giornalista sia mentalmente indipendente": "2026-11-20",
   "t:la moda si compra a peso e diventa solidarieta con ri kilo torna la battaglia all usa e getta": "2026-11-21",
@@ -435,6 +444,7 @@
   "t:la virtus batte la fiorita 2 1 e chiude al secondo posto": "2026-11-20",
   "t:la virtus ha un piede e mezzo in finale tra la fiorita e il tre penne regna l equilibrio": "2026-11-21",
   "t:ladri alla filiale bsm di gualdicciolo bottino di 45mila euro": "2026-11-20",
+  "t:las vegas antonelli il piu veloce in qualifica ma la pole va a verstappen": "2026-11-21",
   "t:lavoro a san marino i dipendenti privati superano quota 19 000": "2026-11-20",
   "t:lavoro cdls chiede un confronto su nuovi modelli organizzativi": "2026-11-20",
   "t:lavoro migrazioni e dignita la sfida di universita e sindacati oltre il 25 novembre": "2026-11-20",
@@ -843,6 +853,7 @@
   "t:rassegna stampa la prima pagina dei quotidiani sportivi": "2026-11-21",
   "t:referendum sull accordo ue i promotori ricevuti dai capitani reggenti chiesto di tutelare il voto dei cittadini": "2026-11-20",
   "t:reggenza in visita ufficiale ad acquaviva": "2026-11-21",
+  "t:regno unito e unione europea piu vicini raggiunti nuovi accordi su commercio e giovani": "2026-11-21",
   "t:repubblica futura servono interventi su banche pensioni e spesa pubblica": "2026-11-20",
   "t:restano gli ultimi 3 posti per il corso di michael felici come si comunica nel 2027": "2026-11-20",
   "t:rete l emergenza casa sta mordendo la carne dei sammarinesi il 12 novembre l incontro pubblico": "2026-11-20",
@@ -850,6 +861,7 @@
   "t:riapre l ambulatorio di acquaviva": "2026-11-20",
   "t:riapre la casa ipa di montecerreto": "2026-11-20",
   "t:riccione lungomare sud piano da 17 1 milioni con vendita posti auto": "2026-11-20",
+  "t:riccione mercedes in bilico sul parapetto del porto canale": "2026-11-21",
   "t:riccione multa da 20mila euro a un bar ristorante sul lungomare per abusi edilizi il tar annulla la sanzione": "2026-11-20",
   "t:riflettere e mettersi in gioco contro la violenza sulle donne il 21 e 22 novembre a san marino c e il percorso del rispetto": "2026-11-21",
   "t:riforme istituzionali il confronto entra nel vivo sull efficacia dei tempi": "2026-11-20",
@@ -1186,6 +1198,7 @@
   "u:https://insider.sm/pinocchio-sul-francobollo-di-san-marino-per-i-200-anni-di-collodi/": "2026-11-20",
   "u:https://insider.sm/pinocchio-sul-francobollo-per-i-200-anni-di-collodi/": "2026-11-20",
   "u:https://insider.sm/protesta-studentesca-a-roma-petardi-e-bottiglie-contro-le-forze-dellordine/": "2026-11-21",
+  "u:https://insider.sm/riccione-mercedes-in-bilico-sul-parapetto-del-porto-canale/": "2026-11-21",
   "u:https://insider.sm/rimini-furto-in-una-profumeria-alle-befane/": "2026-11-21",
   "u:https://insider.sm/san-marino-academy-a-brescia-per-tornare-a-fare-punti/": "2026-11-21",
   "u:https://insider.sm/san-marino-academy-gli-under-22-ripartono-contro-la-libertas/": "2026-11-21",
@@ -2092,6 +2105,7 @@
   "u:https://www.sanmarinortv.sm/news/italia-c7/a-roberto-sergio-il-premio-italia-informa-2026-a298793": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/italia-c7/riviera-un-negozio-su-cinque-ha-chiuso-il-commercio-di-vicinato-rischia-di-scomparire-a298827": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/italia-c7/sciopero-generale-landini-una-manovra-di-marchette-non-serve-al-paese-a298807": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/mondo-c8/regno-unito-e-unione-europea-piu-vicini-raggiunti-nuovi-accordi-su-commercio-e-giovani-a298829": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/politica-c2/accordo-di-associazione-san-marino-si-prepara-alla-nuova-dimensione-europea-confronto-in-commissione-esteri-a298308": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/politica-c2/accordo-ue-la-ratifica-in-programma-la-prossima-settimana-a298682": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/politica-c2/beccari-a-dublino-per-il-summit-della-comunita-politica-europea-a298416": "2026-11-20",
@@ -2122,6 +2136,7 @@
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/finlandia-san-marino-7-2-storica-doppietta-di-nanni-a298555": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/futsal-i-risulti-della-decima-giornata-a298700": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/futsal-pari-nel-posticipo-della-decima-giornata-a298803": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/la-fiorita-batte-la-folgore-nel-recupero-vince-anche-il-tre-fiori-a298831": "2026-11-21",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/lazzari-pagata-ogni-disattenzione-giacopetti-mi-trovo-molto-bene-con-nanni-aiuta-tanto-a298560": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/lorenzo-capicchioni-finlandia-squadra-che-ci-ha-messo-piu-in-difficolta-nelle-rotazioni-proveremo-a-prenderli-alti-a298524": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nanni-fa-doppietta-un-emozione-ancora-da-realizzare-record-di-selva-e-un-obiettivo-a298558": "2026-11-20",
@@ -2137,6 +2152,7 @@
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/under19-la-georgia-passa-di-misura-a298641": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/verso-finlandia-san-marino-mister-cevoli-vuole-chiudere-in-bellezza-a298527": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/motori-c17/f1-las-vegas-russell-il-piu-veloce-delle-fp2-80-antonelli-a298802": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/motori-c17/las-vegas-antonelli-il-piu-veloce-in-qualifica-ma-la-pole-va-a-verstappen-a298830": "2026-11-21",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/beach-park-lo-scontro-salvezza-e-tuo-battuto-3-1-il-volley-castello-a298553": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/bilancio-positivo-per-la-juvenes-nella-quarta-giornata-dei-campionati-a-squadre-a298592": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/canicross-per-san-marino-2-ori-e-1-bronzo-ai-campionati-del-mondo-a298334": "2026-11-20",
