@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-21T11:01:28+00:00",
-  "fonte:San Marino RTV": "2026-11-21T16:01:13+00:00",
-  "fonte:GiornaleSM": "2026-11-21T16:01:14+00:00",
-  "fonte:Insider": "2026-11-21T16:01:15+00:00",
-  "fonte:Libertas": "2026-11-21T16:01:16+00:00",
-  "fonte:Google News": "2026-11-21T16:01:17+00:00",
+  "fonte:San Marino RTV": "2026-11-21T17:01:18+00:00",
+  "fonte:GiornaleSM": "2026-11-21T17:01:18+00:00",
+  "fonte:Insider": "2026-11-21T17:01:19+00:00",
+  "fonte:Libertas": "2026-11-21T17:01:20+00:00",
+  "fonte:Google News": "2026-11-21T17:01:21+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-21T11:01:28+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-21T16:01:18+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-21T17:01:58+00:00"
  },
  "pubblicati": [
   {
@@ -43,6 +43,48 @@
      "nome_fonte_config": "Insider",
      "parola": "acquaviva",
      "etichette": "In evidenza San Marino Sport La Fiorita batte 3-1 la Folgore con due gol nel recupero. A Montecchio, nell’anticipo della nona giornata del Campionato Sammarinese, decidono Bonetti e Serges. La squadra… L'articolo La Fiorita piega la Folgore nel recupero, il Tre Fiori accorcia sulla vetta proviene da Insider.sm . La Fiorita batt"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "data": "2026-11-21T17:02:06+00:00",
+   "articoli": [
+    {
+     "titolo": "La Virtus si prende la vetta momentanea, successi importanti per Cosmos e Fiorentino",
+     "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/la-virtus-si-prende-la-vetta-momentanea-successi-importanti-per-cosmos-e-fiorentino-a298849",
+     "fonte": "San Marino RTV",
+     "nome_fonte_config": "San Marino RTV",
+     "parola": "virtus",
+     "etichette": "Calcio Samm. "
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "data": "2026-11-21T17:02:06+00:00",
+   "articoli": [
+    {
+     "titolo": "Futsal, La Fiorita e Pennarossa si giocano il primato: Murata a riposo",
+     "url": "https://insider.sm/futsal-la-fiorita-e-pennarossa-si-giocano-il-primato-murata-a-riposo/",
+     "fonte": "Insider",
+     "nome_fonte_config": "Insider",
+     "parola": "virtus",
+     "etichette": "Attualità In evidenza San Marino Sport La Fiorita contro Pennarossa, con il primo posto in palio. È il big match dell’undicesima giornata del campionato sammarinese di futsal, che mette di fronte la… L'articolo Futsal, La Fiorita e Pennarossa si giocano il primato: Murata a riposo proviene da Insider.sm . La Fiorita contro Pennarossa, co"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "data": "2026-11-21T17:02:06+00:00",
+   "articoli": [
+    {
+     "titolo": "Insider delle 18 | Il TG di sabato 21 novembre",
+     "url": "https://insider.sm/insider-delle-18-2026-11-21/",
+     "fonte": "Insider",
+     "nome_fonte_config": "Insider",
+     "parola": "nazionale ad acquaviva",
+     "etichette": "In evidenza Insider delle 18 San Marino Novanta secondi con le notizie di sabato 21 novembre a San Marino: Collocamento mirato: la riforma torna in Consiglio; Riforma dello sport in prima lettura; Santa Cecilia, docenti e allievi in concerto. L'articolo Insider delle 18 | Il TG di sabato 21 novembre proviene da Insider.sm . Il telegiornal"
     }
    ]
   }
@@ -141,6 +183,7 @@
   "t:borse europee in calo milano perde il 2 48": "2026-11-21",
   "t:cade con lo scooter a bellaria grave un sedicenne": "2026-11-20",
   "t:calcio e l ora del campionato si riparte ancora da virtus la fiorita": "2026-11-21",
+  "t:calcio faetano e batticinque una collaborazione che mette al centro l inclusione": "2026-11-21",
   "t:calcio workshop sull integrita sportiva per le nazionali sammarinesi under 17 e under 19": "2026-11-20",
   "t:calciomercato virtus vicina a nunzella amati prosegue a domagnano il faetano sceglie il ds e la libertas pesca un nazionale": "2026-11-21",
   "t:calendario virtus dilettanti campionato sanmarinese san marino": "2026-11-20",
@@ -212,6 +255,7 @@
   "t:da nuove idee nuove imprese alle partnership con i grandi gruppi industriali 25 anni di startup che crescono e attraggono investimenti e riconoscimenti": "2026-11-20",
   "t:dal 22 novembre a gennaio il cartellone votes for women a santarcangelo spettacoli proiezioni e iniziative contro la violenza sulle donne": "2026-11-21",
   "t:dalla riviera al successo internazionale nella ristorazione il 26 dicembre a riccione il debutto di generazione under 35": "2026-11-21",
+  "t:dalla tradizione al futuro la s u m s accompagna i giovani sammarinesi in visita al padiglione nazionale della repubblica di san mariino alla 61 biennale d arte di venezia": "2026-11-21",
   "t:daniele deoma la situazione del campo di acquaviva e inaccettabile": "2026-11-21",
   "t:dimissioni online via libera del congresso di stato a san marino": "2026-11-20",
   "t:dimissioni volontarie anche online via libera del congresso di stato": "2026-11-20",
@@ -262,6 +306,7 @@
   "t:futsal i risulti della decima giornata": "2026-11-20",
   "t:futsal il murata supera la virtus": "2026-11-21",
   "t:futsal il pennarossa mette la sesta la fiorita supera la virtus": "2026-11-21",
+  "t:futsal la fiorita e pennarossa si giocano il primato murata a riposo": "2026-11-21",
   "t:futsal la virtus si ferma sul piu bello e il murata allunga": "2026-11-21",
   "t:futsal pari nel posticipo della decima giornata": "2026-11-20",
   "t:futsal sammarinese il faetano rimonta la juvenes dogana e strappa il 3 3": "2026-11-20",
@@ -324,6 +369,7 @@
   "t:infermieristica pediatrica al via il corso di alta formazione dell universita di san marino in collaborazione con l iss": "2026-11-21",
   "t:infortunio ad acquaviva 30 giorni di prognosi per una sammarinese che si ferisce a una mano": "2026-11-21",
   "t:inline freestyle quattro podi per san marino alla busto battle 11 matilde terenzi vince nello slide": "2026-11-20",
+  "t:insider delle 18 il tg di sabato 21 novembre": "2026-11-21",
   "t:insider delle 18 il tg di venerdi 20 novembre": "2026-11-21",
   "t:installazione antenna lettera aperta del gruppo di cittadini di gualdicciolo per la difesa della salute e dell ambiente": "2026-11-20",
   "t:intelligenza artificiale due anni dopo il confronto cdls sulle scelte strategiche per il titano": "2026-11-20",
@@ -469,6 +515,7 @@
   "t:la lezione di toni capuozzo il giornalista sia mentalmente indipendente": "2026-11-20",
   "t:la moda si compra a peso e diventa solidarieta con ri kilo torna la battaglia all usa e getta": "2026-11-21",
   "t:la nuova tribuna dello stadio di acquaviva": "2026-11-20",
+  "t:la pace vista con gli occhi dei ragazzi il disegno di arianna vola a chicago": "2026-11-21",
   "t:la reggenza alla scoperta del territorio di chiesanuova e acquaviva": "2026-11-21",
   "t:la repubblica di san marino a expo belgrado 2027 annunciata ufficialmente la partecipazione alla presenza del segretario generale bie dimitri kerkentzes": "2026-11-20",
   "t:la repubblica di san marino porta la propria visione di turismo sostenibile agli stati generali di roma": "2026-11-20",
@@ -483,6 +530,7 @@
   "t:la virtus la vince con i cambi domagnano beffato nel finale": "2026-11-21",
   "t:la virtus riparte 2 1 al tre penne": "2026-11-21",
   "t:la virtus si garantisce giammario piscitella": "2026-11-21",
+  "t:la virtus si prende la vetta momentanea successi importanti per cosmos e fiorentino": "2026-11-21",
   "t:la virtus torna capolista ora ci sono 3 squadre in 5 punti": "2026-11-21",
   "t:ladri alla filiale bsm di gualdicciolo bottino di 45mila euro": "2026-11-20",
   "t:las vegas antonelli il piu veloce in qualifica ma la pole va a verstappen": "2026-11-21",
@@ -997,6 +1045,8 @@
   "t:san marino e ouro preto firmano un memorandum d intesa per la cooperazione culturale e turistica": "2026-11-20",
   "t:san marino e polonia a confronto sulla disinformazione e sulle interferenze straniere": "2026-11-20",
   "t:san marino e polonia a confronto sulle strategie contro la disinformazione": "2026-11-20",
+  "t:san marino e venezia nasce un opera d arte che unira la pietra del titano al vetro di murano": "2026-11-21",
+  "t:san marino e venezia unite dall arte firmata una dichiarazione d intenti per la realizzazione di un opera": "2026-11-21",
   "t:san marino ex conceria di acquaviva in consegna i primi appartamenti e open day in arrivo": "2026-11-21",
   "t:san marino femminile l esordio internazionale sara ad acquaviva": "2026-11-20",
   "t:san marino fermati in auto con droga e armi quattro denunciati e allontanati dal territorio": "2026-11-20",
@@ -1031,6 +1081,7 @@
   "t:san marino meteo sabato soleggiato ma freddo domenica torna la pioggia inizio settimana variabile con rialzo termico": "2026-11-20",
   "t:san marino meteo vento da moderato a forte fino a venerdi sabato soleggiato e gradevole sul titano domenica torna la pioggia": "2026-11-20",
   "t:san marino ne fa tre al liechtenstein nell amichevole di acquaviva": "2026-11-20",
+  "t:san marino oltre 40 studenti alla biennale di venezia grazie alla sums": "2026-11-21",
   "t:san marino ospita il mondiale csit di danza sportiva oltre 700 atleti al multieventi": "2026-11-21",
   "t:san marino partecipera a expo belgrado 2027 filippo francini sara il commissario": "2026-11-20",
   "t:san marino pauroso incidente ad acquaviva": "2026-11-21",
@@ -1183,6 +1234,8 @@
   "t:villino bonelli tre incontri con il salotto letterario tra poesia musica e storie di vita": "2026-11-20",
   "t:vincono virtus e cosmos la folgore affonda il pennarossa": "2026-11-20",
   "t:violento scontro tra scooter e auto a rimini due giovani trasportati al bufalini foto e video": "2026-11-20",
+  "t:violenza contro le donne a san marino due giornate di colloqui gratuiti senza prenotazione": "2026-11-21",
+  "t:violenza contro le donne colloqui e informazione nelle iniziative dell iss": "2026-11-21",
   "t:violenza sessuale contro minori san marino coordina una dichiarazione congiunta al consiglio d europa": "2026-11-20",
   "t:violenza sulle donne alla titancoop torna lo spettacolo ancora in cerca di guai no grazie amore mio": "2026-11-20",
   "t:virtus acquaviva brei ablik la fine del sogno europeo": "2026-11-21",
@@ -1291,9 +1344,11 @@
   "u:https://insider.sm/crollo-alla-borsa-di-tokyo-il-nikkei-perde-il-506-e-torna-ai-minimi-da-aprile/": "2026-11-20",
   "u:https://insider.sm/disabilita-e-lavoro-la-riforma-arriva-in-consiglio/": "2026-11-21",
   "u:https://insider.sm/due-milioni-di-visitatori-lanno-san-marino-si-racconta-a-roma/": "2026-11-20",
+  "u:https://insider.sm/futsal-la-fiorita-e-pennarossa-si-giocano-il-primato-murata-a-riposo/": "2026-11-21",
   "u:https://insider.sm/futsal-sammarinese-il-faetano-rimonta-la-juvenes-dogana-e-strappa-il-3-3/": "2026-11-20",
   "u:https://insider.sm/gerard-depardieu-e-michel-houellebecq-indagine-a-parigi-per-stupro-di-gruppo/": "2026-11-21",
   "u:https://insider.sm/insider-delle-18-2026-11-20/": "2026-11-21",
+  "u:https://insider.sm/insider-delle-18-2026-11-21/": "2026-11-21",
   "u:https://insider.sm/intelligenza-artificiale-e-lavoro-a-san-marino-la-cdls-chiede-un-tavolo-con-istituzioni-e-parti-sociali/": "2026-11-20",
   "u:https://insider.sm/kimi-antonelli-compra-un-capannone-per-la-sua-collezione-di-auto/": "2026-11-21",
   "u:https://insider.sm/la-fiorita-piega-la-folgore-nel-recupero-il-tre-fiori-accorcia-sulla-vetta/": "2026-11-21",
@@ -1318,6 +1373,7 @@
   "u:https://insider.sm/san-marino-baseball-arriva-manuel-zazza-nuovo-rinforzo-dal-nettuno/": "2026-11-21",
   "u:https://insider.sm/san-marino-docenti-e-allievi-in-concerto-per-santa-cecilia/": "2026-11-21",
   "u:https://insider.sm/san-marino-e-polonia-a-confronto-sulla-disinformazione-e-sulle-interferenze-straniere/": "2026-11-20",
+  "u:https://insider.sm/san-marino-e-venezia-nasce-unopera-darte-che-unira-la-pietra-del-titano-al-vetro-di-murano/": "2026-11-21",
   "u:https://insider.sm/san-marino-gen-sm-propone-una-srl-con-un-euro-di-capitale-per-facilitare-lavvio-di-nuove-imprese/": "2026-11-20",
   "u:https://insider.sm/san-marino-in-commissione-finanze-lintesa-con-litalia-sulla-vigilanza-bancaria-e-il-nodo-delle-patenti/": "2026-11-20",
   "u:https://insider.sm/san-marino-in-consiglio-la-riforma-per-lassunzione-delle-persone-con-disabilita/": "2026-11-21",
@@ -1325,6 +1381,7 @@
   "u:https://insider.sm/san-marino-irish-de-biagi-eletto-presidente-di-osla-il-dialogo-fra-le-istituzioni-fra-le-associazioni-di-categoria-e-i-sindacati/": "2026-11-20",
   "u:https://insider.sm/san-marino-la-riforma-dello-sport-in-prima-lettura-in-consiglio/": "2026-11-21",
   "u:https://insider.sm/san-marino-laccordo-con-lue-arriva-in-consiglio-per-la-ratifica-ecco-il-testo-che-sara-discusso/": "2026-11-20",
+  "u:https://insider.sm/san-marino-oltre-40-studenti-alla-biennale-di-venezia-grazie-alla-sums/": "2026-11-21",
   "u:https://insider.sm/san-marino-partecipera-a-expo-belgrado-2027-filippo-francini-sara-il-commissario/": "2026-11-20",
   "u:https://insider.sm/san-marino-quattro-francobolli-per-i-60-anni-del-sacchificio-industriale-sammarinese/": "2026-11-21",
   "u:https://insider.sm/san-marino-ritirata-lordinanza-sullacqua-repubblica-futura-attacca-bevitori-sul-lago-del-torello/": "2026-11-20",
@@ -1338,6 +1395,7 @@
   "u:https://insider.sm/ucraina-putin-invita-i-rappresentanti-europei-a-mosca-dopo-il-vertice-di-shenzhen/": "2026-11-20",
   "u:https://insider.sm/ucraina-si-punta-a-un-accordo-di-pace-con-mosca-entro-linizio-di-gennaio/": "2026-11-21",
   "u:https://insider.sm/vigilanza-bancaria-con-litalia-e-patenti-la-finanze-si-riunisce/": "2026-11-20",
+  "u:https://insider.sm/violenza-contro-le-donne-a-san-marino-due-giornate-di-colloqui-gratuiti-senza-prenotazione/": "2026-11-21",
   "u:https://insider.sm/xi-putin-e-trump-al-vertice-di-shenzhen-ue-ucraina-e-giappone-fuori-dal-tavolo/": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcG05QXNJUUpPWTZja2g4OWJNS19vOWVCZ1JLRkhvLWtUMUR3WkQ2Y1BzY0hWZkhiTXdCcXFXQlZOM3ZSZFJMaFAya2tScldGNU9oXzBuNlVOSDc2cWJPMXpSSDRaUFo2NHhxOWxta0lVQi1CZkh2WEJWSVpsb3pFdWNuY0ZVX2VhT1lfN19QZ2FGamF6VFZld1BoTDhIOWFJNGRwalpUMDB5Wm9zQ0Frbm9zdHBBdzZXWTNMTFF5Y2Y4RHAtRUZCRXFsbHdOeEtk?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZiX2xmekZMaG5PdlNpNE5kWXFUMWNqMkZDMWgtRTA0Q1RtSzR4MzBidTBmNndGcDlOWXg3SzJVajhSVGo3eDF5RHpFSHZfbm9iTnVDcW5kai1SckdGcWQyOW93WmwwYVFYOTJhUC1tY180SkpwQkRLMkRHOGtjaHRIb3Q3cjV6RkduUGNNUnU5OThVSG9SZXZPQWRKMmh4QVA5cVRuOFFUQkNWamRfOERqM2R1VzBUYV9TRks0Y1k2OXljRldSYm1obDYwR09s?oc=5": "2026-11-21",
@@ -2223,6 +2281,7 @@
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/cordoglio-per-la-scomparsa-di-corrado-augias-il-ricordo-del-segretario-di-stato-per-il-turismo-e-l-informazione-federico-pedini-amati-a298765": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/coriano-ha-aperto-i-battenti-la-39-fiera-dell-oliva-e-dei-prodotti-autunnali-a298843": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/da-nuove-idee-nuove-imprese-alle-partnership-con-i-grandi-gruppi-industriali-25-anni-di-startup-che-crescono-e-attraggono-investimenti-e-riconoscimenti-a298762": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/dalla-tradizione-al-futuro-la-s-u-m-s-accompagna-i-giovani-sammarinesi-in-visita-al-padiglione-nazionale-della-repubblica-di-san-mariino-alla-61-biennale-d-arte-di-venezia-a298851": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/icee-doveva-garantire-equita-ora-rischia-di-diventare-uno-strumento-di-controllo-sui-cittadini-a298815": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/infermieristica-pediatrica-al-via-il-corso-di-alta-formazione-dell-universita-di-san-marino-in-collaborazione-con-l-iss-a298840": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/intelligenza-artificiale-due-anni-dopo-la-cdls-rilancia-il-futuro-del-lavoro-si-costruisce-insieme-a298816": "2026-11-20",
@@ -2238,11 +2297,13 @@
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/pisanu-e-torelli-alla-rassegna-musicale-d-autunno-a298763": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/rf-bevitori-si-fa-bello-con-il-lago-del-torello-a298794": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/rinnovati-i-vertici-di-osla-irish-de-biagi-eletto-nuovo-presidente-dialogo-necessario-per-la-crescita-del-paese-a298811": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/san-marino-e-venezia-unite-dall-arte-firmata-una-dichiarazione-d-intenti-per-la-realizzazione-di-un-opera-a298850": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/san-marino-ue-spinelli-l-accordo-e-un-punto-di-partenza-ora-italia-e-san-marino-devono-camminare-insieme-a298806": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/settimana-mondiale-dell-antibiotico-resistenza-preservare-l-efficacia-di-farmaci-essenziali-a298810": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/sfida-impossibile-a-san-marino-protagonista-della-nuova-puntata-l-ex-calciatore-nicola-ventola-a298773": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/tour-music-fest-san-marino-capitale-europea-della-musica-emergente-dal-21-novembre-nove-giorni-di-eventi-e-talenti-internazionali-a298768": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/usl-i-bambini-sono-i-fiori-piu-belli-domenica-22-vi-aspettiamo-in-galleria-carisp-a298774": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/violenza-contro-le-donne-colloqui-e-informazione-nelle-iniziative-dell-iss-a298847": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/wusme-conclude-la-sua-partecipazione-alla-cop31-intervenendo-ad-un-evento-al-padiglione-nazionale-cinese-a298769": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cronaca-c3/banca-cis-processo-associazione-a-delinquere-8-condanne-e-5-assoluzioni-a298133": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cronaca-c3/cade-con-lo-scooter-a-bellaria-grave-un-sedicenne-a297961": "2026-11-20",
@@ -2277,6 +2338,7 @@
   "u:https://www.sanmarinortv.sm/news/cultura-c6/l-amore-anziano-a-tangeri-a298506": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/l-uomo-rischia-di-diventare-superfluo-l-allarme-di-marcello-veneziani-a-mementi-a298697": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/la-caritas-si-racconta-nel-libro-custodi-del-domani-a298823": "2026-11-21",
+  "u:https://www.sanmarinortv.sm/news/cultura-c6/la-pace-vista-con-gli-occhi-dei-ragazzi-il-disegno-di-arianna-vola-a-chicago-a298845": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/la-spirale-dell-estranea-senza-amore-a298842": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/museo-di-stato-nel-ciclo-i-mai-visti-l-allegoria-della-pittura-di-simone-cantarini-a298528": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/parlare-di-guerra-vuol-dire-parlare-di-pace-presentato-alla-reggenza-libro-sulla-linea-gotica-a298639": "2026-11-20",
@@ -2346,6 +2408,7 @@
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/futsal-i-risulti-della-decima-giornata-a298700": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/futsal-pari-nel-posticipo-della-decima-giornata-a298803": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/la-fiorita-batte-la-folgore-nel-recupero-vince-anche-il-tre-fiori-a298831": "2026-11-21",
+  "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/la-virtus-si-prende-la-vetta-momentanea-successi-importanti-per-cosmos-e-fiorentino-a298849": "2026-11-21",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/lazzari-pagata-ogni-disattenzione-giacopetti-mi-trovo-molto-bene-con-nanni-aiuta-tanto-a298560": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/lorenzo-capicchioni-finlandia-squadra-che-ci-ha-messo-piu-in-difficolta-nelle-rotazioni-proveremo-a-prenderli-alti-a298524": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nanni-fa-doppietta-un-emozione-ancora-da-realizzare-record-di-selva-e-un-obiettivo-a298558": "2026-11-20",
@@ -2360,6 +2423,7 @@
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/under-19-vanni-peccato-non-aver-strappato-almeno-un-punto-ma-i-ragazzi-mi-sono-piaciuti-a298657": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/under19-la-georgia-passa-di-misura-a298641": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/verso-finlandia-san-marino-mister-cevoli-vuole-chiudere-in-bellezza-a298527": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/comunicati-sport-c22/calcio-faetano-e-batticinque-una-collaborazione-che-mette-al-centro-l-inclusione-a298848": "2026-11-21",
   "u:https://www.sanmarinortv.sm/sport/motori-c17/colpo-di-scena-a-portimao-marquez-cade-e-rinvia-l-appuntamento-con-il-titolo-prima-sprint-stagionale-per-bezzecchi-a298844": "2026-11-21",
   "u:https://www.sanmarinortv.sm/sport/motori-c17/f1-las-vegas-russell-il-piu-veloce-delle-fp2-80-antonelli-a298802": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/motori-c17/las-vegas-antonelli-il-piu-veloce-in-qualifica-ma-la-pole-va-a-verstappen-a298830": "2026-11-21",
