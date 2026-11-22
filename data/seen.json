@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-22T08:01:23+00:00",
-  "fonte:San Marino RTV": "2026-11-22T17:53:26+00:00",
-  "fonte:GiornaleSM": "2026-11-22T17:53:26+00:00",
-  "fonte:Insider": "2026-11-22T17:53:28+00:00",
-  "fonte:Libertas": "2026-11-22T17:53:28+00:00",
-  "fonte:Google News": "2026-11-22T17:53:29+00:00",
+  "fonte:San Marino RTV": "2026-11-22T18:01:13+00:00",
+  "fonte:GiornaleSM": "2026-11-22T18:01:14+00:00",
+  "fonte:Insider": "2026-11-22T18:01:15+00:00",
+  "fonte:Libertas": "2026-11-22T18:01:16+00:00",
+  "fonte:Google News": "2026-11-22T18:01:17+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-22T08:01:23+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-22T17:53:42+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-22T18:01:19+00:00"
  },
  "pubblicati": [
   {
@@ -137,6 +137,20 @@
      "nome_fonte_config": "Libertas",
      "parola": "gualdicciolo",
      "etichette": "AA Slide homepage San Marino Società Comieco Dante Capicchioni Eccellenze Sammarinesi emissione filatelica Franco Capicchioni Gerardo Giovagnoli Gualdicciolo industria sammarinese Poste San Marino rossano fabbri Sacchificio Industriale Sammarinese SIS William Casali SAN MARINO – Sessant’anni di attività industriale, innovazione e crescita sui mercati internazionali. Il Sacchificio Industriale Sammarinese (SIS) ha celebrato L'articolo Il Sacchificio Industriale Sammarinese celebra 60 anni di attività proviene da libertas ."
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "data": "2026-11-22T18:01:19+00:00",
+   "articoli": [
+    {
+     "titolo": "Il Tre Penne batte 6-3 il Pennarossa e resta solo in vetta",
+     "url": "https://insider.sm/il-tre-penne-batte-6-3-il-pennarossa-e-resta-solo-in-vetta/",
+     "fonte": "Insider",
+     "nome_fonte_config": "Insider",
+     "parola": "virtus",
+     "etichette": "In evidenza San Marino Sport Il Tre Penne supera il Pennarossa per 6-3 a Domagnano e chiude la nona giornata del Campionato sammarinese da solo al comando, con un punto di… L'articolo Il Tre Penne batte 6-3 il Pennarossa e resta solo in vetta proviene da Insider.sm . Il Tre Penne supera il Pennarossa per 6-3 a Domagnano e chiud"
     }
    ]
   }
@@ -446,6 +460,7 @@
   "t:il tre fiori frena ma mantiene la vetta la virtus e a 1 e il tre penne a 3": "2026-11-21",
   "t:il tre fiori mostra i muscoli 4 1 alla virtus nella sfida scudetto": "2026-11-21",
   "t:il tre fiori torna schiacciasassi alla virtus il big match del 12 turno": "2026-11-21",
+  "t:il tre penne batte 6 3 il pennarossa e resta solo in vetta": "2026-11-22",
   "t:il villino bonelli ricomincia dall arte al via la collettiva nuovo spazio per la cultura": "2026-11-20",
   "t:il virtus acquaviva di san marino giochera domani in conference in islanda volera oggi da rimini con un aereo vvip di oryx jet comlux": "2026-11-21",
   "t:in giro per i castelli nella repubblica di san marino": "2026-11-20",
@@ -1562,6 +1577,7 @@
   "u:https://insider.sm/gianni-de-gennaro-trovato-morto-in-maremma-la-procura-indaga-per-istigazione-al-suicidio/": "2026-11-22",
   "u:https://insider.sm/il-fiorentino-piega-il-domagnano-la-virtus-aggancia-la-folgore-in-vetta/": "2026-11-22",
   "u:https://insider.sm/il-titano-regge-fino-al-42-pari-poi-il-francesco-francia-scappa/": "2026-11-22",
+  "u:https://insider.sm/il-tre-penne-batte-6-3-il-pennarossa-e-resta-solo-in-vetta/": "2026-11-22",
   "u:https://insider.sm/insider-delle-18-2026-11-20/": "2026-11-21",
   "u:https://insider.sm/insider-delle-18-2026-11-21/": "2026-11-21",
   "u:https://insider.sm/insider-delle-18-2026-11-22/": "2026-11-22",
