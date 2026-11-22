@@ -1,14 +1,14 @@
 {
  "inizializzata": true,
  "ultimo": {
-  "arengo": "2026-11-21T11:01:28+00:00",
-  "fonte:San Marino RTV": "2026-11-22T07:01:16+00:00",
-  "fonte:GiornaleSM": "2026-11-22T07:01:16+00:00",
-  "fonte:Insider": "2026-11-22T07:01:17+00:00",
-  "fonte:Libertas": "2026-11-22T07:01:18+00:00",
-  "fonte:Google News": "2026-11-22T07:01:19+00:00",
-  "fonte:Consiglio Grande e Generale": "2026-11-21T11:01:28+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-22T07:01:21+00:00"
+  "arengo": "2026-11-22T08:01:23+00:00",
+  "fonte:San Marino RTV": "2026-11-22T08:01:13+00:00",
+  "fonte:GiornaleSM": "2026-11-22T08:01:14+00:00",
+  "fonte:Insider": "2026-11-22T08:01:15+00:00",
+  "fonte:Libertas": "2026-11-22T08:01:16+00:00",
+  "fonte:Google News": "2026-11-22T08:01:16+00:00",
+  "fonte:Consiglio Grande e Generale": "2026-11-22T08:01:23+00:00",
+  "fonte:Ordinanze Affari Interni": "2026-11-22T08:01:18+00:00"
  },
  "pubblicati": [
   {
@@ -73,6 +73,14 @@
      "nome_fonte_config": "GiornaleSM",
      "parola": "virtus",
      "etichette": "Prima Pagina San Marino Sport Nel Campionato Sammarinese di calcio la Virtus aggancia la Folgore al comando della classifica mentre il Fiorentino supera il Domagnano e il Cosmos batte il Faetano. La giornata del Campionato Sammarinese di calcio registra i successi di Virtus, Fiorentino e Cosmos. La Virtus supera il San Giovanni "
+    },
+    {
+     "titolo": "Il Fiorentino piega il Domagnano, la Virtus aggancia la Folgore in vetta",
+     "url": "https://insider.sm/il-fiorentino-piega-il-domagnano-la-virtus-aggancia-la-folgore-in-vetta/",
+     "fonte": "Insider",
+     "nome_fonte_config": "Insider",
+     "parola": "virtus",
+     "etichette": "Attualità In evidenza San Marino Sport Al Fiorentino bastano due gol per vincere lo scontro diretto con il Domagnano. Ad Acquaviva finisce 2-1, con un espulso per parte e i Lupi a… L'articolo Il Fiorentino piega il Domagnano, la Virtus aggancia la Folgore in vetta proviene da Insider.sm . Al Fiorentino bastano due gol per vincere lo scon"
     }
    ]
   },
@@ -410,6 +418,7 @@
   "t:il cfp cambia volto dal 2027 percorso quinquennale serata di orientamento con le famiglie": "2026-11-20",
   "t:il cielo di questa notte da acquaviva san marino": "2026-11-20",
   "t:il cosmos batte 4 1 un faetano rimasto senza portiere": "2026-11-21",
+  "t:il fiorentino piega il domagnano la virtus aggancia la folgore in vetta": "2026-11-22",
   "t:il latina vince 1 0 a vado in una partita con poche emozioni": "2026-11-21",
   "t:il meglio delle bocce europee arriva a san marino col 1 trofeo internazionale montecerreto": "2026-11-20",
   "t:il rito in un opera desertica franco cilena": "2026-11-20",
@@ -1092,6 +1101,7 @@
   "t:san marino acquaviva serie di furti 6 7 nella notte di sabato sino a sotto casa dell ex consigliere alessandro rossi": "2026-11-20",
   "t:san marino al teatro titano la morte ovvero il pranzo della domenica": "2026-11-20",
   "t:san marino al via il corso di alta formazione in infermieristica pediatrica": "2026-11-21",
+  "t:san marino al via la sessione consiliare di novembre verso la ratifica dell accordo di associazione con l unione europea": "2026-11-22",
   "t:san marino al via lo screening per la diagnosi precoce del tumore al polmone": "2026-11-20",
   "t:san marino allerta gialla per martedi 17 novembre previsto vento forte": "2026-11-20",
   "t:san marino arengo chiude gli incontri ad acquaviva il 5 marzo": "2026-11-20",
@@ -1163,6 +1173,7 @@
   "t:san marino la ludoteca di acquaviva presenta bandiere in gioco in occasione della sesta edizione di un monte di libri": "2026-11-21",
   "t:san marino la prima pagina de la serenissima": "2026-11-21",
   "t:san marino la riforma dello sport in prima lettura in consiglio": "2026-11-21",
+  "t:san marino la scuola superiore apre le porte a studenti e famiglie tre open day per scegliere il futuro": "2026-11-22",
   "t:san marino la segreteria al territorio rilancia la cultura della prevenzione": "2026-11-20",
   "t:san marino la virtus batte il fiorentino nel primo posticipo del day10 decisivo beccari nel finale": "2026-11-20",
   "t:san marino ladri ad acquaviva il comunicato della gendarmeria": "2026-11-21",
@@ -1207,6 +1218,7 @@
   "t:san marino ultima apertura per la collettiva del villino bonelli": "2026-11-21",
   "t:san marino una mostra di riccardo zani faetanini per i 50 anni de la repubblica": "2026-11-20",
   "t:san marino under 19 sfiora il colpo estonia vince 1 0 nel finale ad acquaviva": "2026-11-21",
+  "t:san marino universita e sindacati insieme contro la violenza sul lavoro": "2026-11-22",
   "t:san marino usl i bambini sono i fiori piu belli domenica 22 vi aspettiamo in galleria carisp": "2026-11-22",
   "t:san marino verso l unione europea il confronto prosegue ad acquaviva": "2026-11-20",
   "t:san marino virtus acquaviva cena di natale e riconoscimenti": "2026-11-21",
@@ -1338,6 +1350,7 @@
   "t:violenza contro le donne a san marino due giornate di colloqui gratuiti senza prenotazione": "2026-11-21",
   "t:violenza contro le donne colloqui e informazione nelle iniziative dell iss": "2026-11-21",
   "t:violenza contro le donne l iss organizza due giornate di ascolto a borgo maggiore": "2026-11-21",
+  "t:violenza di genere a san marino 73 segnalazioni e 49 casi giudiziari nel 2025": "2026-11-22",
   "t:violenza sessuale contro minori san marino coordina una dichiarazione congiunta al consiglio d europa": "2026-11-20",
   "t:violenza sulle donne alla titancoop torna lo spettacolo ancora in cerca di guai no grazie amore mio": "2026-11-20",
   "t:violenza sulle donne oceano blu lancia il video corpi che parlano per rompere il silenzio": "2026-11-21",
@@ -1479,6 +1492,7 @@
   "u:https://insider.sm/futsal-sammarinese-il-faetano-rimonta-la-juvenes-dogana-e-strappa-il-3-3/": "2026-11-20",
   "u:https://insider.sm/gerard-depardieu-e-michel-houellebecq-indagine-a-parigi-per-stupro-di-gruppo/": "2026-11-21",
   "u:https://insider.sm/gianni-de-gennaro-trovato-morto-in-maremma-la-procura-indaga-per-istigazione-al-suicidio/": "2026-11-22",
+  "u:https://insider.sm/il-fiorentino-piega-il-domagnano-la-virtus-aggancia-la-folgore-in-vetta/": "2026-11-22",
   "u:https://insider.sm/insider-delle-18-2026-11-20/": "2026-11-21",
   "u:https://insider.sm/insider-delle-18-2026-11-21/": "2026-11-21",
   "u:https://insider.sm/intelligenza-artificiale-e-lavoro-a-san-marino-la-cdls-chiede-un-tavolo-con-istituzioni-e-parti-sociali/": "2026-11-20",
@@ -1504,6 +1518,7 @@
   "u:https://insider.sm/san-marino-academy-a-brescia-per-tornare-a-fare-punti/": "2026-11-21",
   "u:https://insider.sm/san-marino-academy-gli-under-22-ripartono-contro-la-libertas/": "2026-11-21",
   "u:https://insider.sm/san-marino-al-via-il-corso-di-alta-formazione-in-infermieristica-pediatrica/": "2026-11-21",
+  "u:https://insider.sm/san-marino-al-via-la-sessione-consiliare-di-novembre-verso-la-ratifica-dellaccordo-di-associazione-con-lunione-europea/": "2026-11-22",
   "u:https://insider.sm/san-marino-baseball-arriva-manuel-zazza-nuovo-rinforzo-dal-nettuno/": "2026-11-21",
   "u:https://insider.sm/san-marino-docenti-e-allievi-in-concerto-per-santa-cecilia/": "2026-11-21",
   "u:https://insider.sm/san-marino-e-polonia-a-confronto-sulla-disinformazione-e-sulle-interferenze-straniere/": "2026-11-20",
@@ -1514,6 +1529,7 @@
   "u:https://insider.sm/san-marino-in-consiglio-laccordo-ue-il-bilancio-2027-le-molestie-sul-lavoro-e-il-caso-degli-abusi-sui-minori/": "2026-11-20",
   "u:https://insider.sm/san-marino-irish-de-biagi-eletto-presidente-di-osla-il-dialogo-fra-le-istituzioni-fra-le-associazioni-di-categoria-e-i-sindacati/": "2026-11-20",
   "u:https://insider.sm/san-marino-la-riforma-dello-sport-in-prima-lettura-in-consiglio/": "2026-11-21",
+  "u:https://insider.sm/san-marino-la-scuola-superiore-apre-le-porte-a-studenti-e-famiglie-tre-open-day-per-scegliere-il-futuro/": "2026-11-22",
   "u:https://insider.sm/san-marino-laccordo-con-lue-arriva-in-consiglio-per-la-ratifica-ecco-il-testo-che-sara-discusso/": "2026-11-20",
   "u:https://insider.sm/san-marino-oltre-40-studenti-alla-biennale-di-venezia-grazie-alla-sums/": "2026-11-21",
   "u:https://insider.sm/san-marino-partecipera-a-expo-belgrado-2027-filippo-francini-sara-il-commissario/": "2026-11-20",
@@ -1521,6 +1537,7 @@
   "u:https://insider.sm/san-marino-ritirata-lordinanza-sullacqua-repubblica-futura-attacca-bevitori-sul-lago-del-torello/": "2026-11-20",
   "u:https://insider.sm/san-marino-tre-open-day-alla-scuola-superiore-dal-prossimo-anno-debutta-il-liceo-delle-scienze-umane/": "2026-11-20",
   "u:https://insider.sm/san-marino-ultima-apertura-per-la-collettiva-del-villino-bonelli/": "2026-11-21",
+  "u:https://insider.sm/san-marino-universita-e-sindacati-insieme-contro-la-violenza-sul-lavoro/": "2026-11-22",
   "u:https://insider.sm/sciopero-generale-cortei-in-tutta-italia-landini-siamo-ampiamente-piu-di-un-milione-nelle-oltre-cento-piazze/": "2026-11-20",
   "u:https://insider.sm/sciopero-generale-lavoratori-e-studenti-in-piazza-la-cgil-chiede-di-cambiare-la-manovra/": "2026-11-20",
   "u:https://insider.sm/tesla-via-libera-alla-guida-assistita-in-italia/": "2026-11-21",
@@ -1531,6 +1548,7 @@
   "u:https://insider.sm/ucraina-si-punta-a-un-accordo-di-pace-con-mosca-entro-linizio-di-gennaio/": "2026-11-21",
   "u:https://insider.sm/vigilanza-bancaria-con-litalia-e-patenti-la-finanze-si-riunisce/": "2026-11-20",
   "u:https://insider.sm/violenza-contro-le-donne-a-san-marino-due-giornate-di-colloqui-gratuiti-senza-prenotazione/": "2026-11-21",
+  "u:https://insider.sm/violenza-di-genere-a-san-marino-73-segnalazioni-e-49-casi-giudiziari-nel-2025/": "2026-11-22",
   "u:https://insider.sm/xi-putin-e-trump-al-vertice-di-shenzhen-ue-ucraina-e-giappone-fuori-dal-tavolo/": "2026-11-20",
   "u:https://insider.sm/zazza-al-san-marino-baseball-colpo-dal-nettuno/": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcG05QXNJUUpPWTZja2g4OWJNS19vOWVCZ1JLRkhvLWtUMUR3WkQ2Y1BzY0hWZkhiTXdCcXFXQlZOM3ZSZFJMaFAya2tScldGNU9oXzBuNlVOSDc2cWJPMXpSSDRaUFo2NHhxOWxta0lVQi1CZkh2WEJWSVpsb3pFdWNuY0ZVX2VhT1lfN19QZ2FGamF6VFZld1BoTDhIOWFJNGRwalpUMDB5Wm9zQ0Frbm9zdHBBdzZXWTNMTFF5Y2Y4RHAtRUZCRXFsbHdOeEtk?oc=5": "2026-11-21",
