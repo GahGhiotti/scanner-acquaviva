@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-23T05:02:23+00:00",
-  "fonte:San Marino RTV": "2026-11-23T23:01:11+00:00",
-  "fonte:GiornaleSM": "2026-11-23T23:01:11+00:00",
-  "fonte:Insider": "2026-11-23T23:01:12+00:00",
-  "fonte:Libertas": "2026-11-23T23:01:13+00:00",
-  "fonte:Google News": "2026-11-23T23:01:14+00:00",
+  "fonte:San Marino RTV": "2026-11-24T00:02:36+00:00",
+  "fonte:GiornaleSM": "2026-11-24T00:02:36+00:00",
+  "fonte:Insider": "2026-11-24T00:02:38+00:00",
+  "fonte:Libertas": "2026-11-24T00:02:39+00:00",
+  "fonte:Google News": "2026-11-24T00:02:40+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-23T05:02:23+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-23T23:01:16+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-24T00:02:42+00:00"
  },
  "pubblicati": [
   {
@@ -202,6 +202,7 @@
   "t:accordo ue il voto arriva in consiglio": "2026-11-21",
   "t:accordo ue in aula ma il referendum resta fuori": "2026-11-23",
   "t:accordo ue la ratifica in programma la prossima settimana": "2026-11-20",
+  "t:accorpamento temporaneo dell ambulatorio di acquaviva al centro per la salute di borgo": "2026-11-24",
   "t:accusato di aver truffato i correntisti chiede di patteggiare e scontro in aula": "2026-11-20",
   "t:acea e repubblica di san marino partnership strategica nei settori idrico energetico ambientale e smart cities": "2026-11-23",
   "t:acqua a san marino libera replica a repubblica futura la politica degli slogan non disseta il paese": "2026-11-20",
@@ -2050,6 +2051,7 @@
   "u:https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1dyN0xSSlZjdDIyS0YzdmUwUFdoOW1ERFBabUJtcWVLYldmRHRMbThnemZKZVpoNmE5Q3ZqWV9sQlZmLTE1OWhUd3VYU0FWZWVjWEJzVjdidHJxSFFldXVOemh6aGttekZmR3ZiSVdBUi1TRzJaOWIxdEFLZUZzbWkxZVhyTXZ0X05mVWVjZkRaRDZKN09pb2xaeHhkeGRaZy1YQi1vblk4cmd6OHZVRW9fcWZxTV9SQ3N5Mm1QV21icTlmVkNXUE96b21NZ0ZwSC1xT2dydk0?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDN2UmRERWlSdE80OWduQjFVZjNGWXJnb2xlbWxRanJxU2h1LXZoYmhyeFhTWXNsODZLb3ZMVjVpRXJ2aU9yU01OaXZkbXFkTWJDcXQ2WU0zbTRpc0ctNzd2ODc5MFZpVlE4RTV5aVQtRU5LMTQ1LVRhNUpuTnNXbUU4TG0yTUFkVmVmSk1IRjFuSnZEcnFISlpjRzFmaHl1bkhMNG1lU2lfeEdQeVBET3NsQ0FzQXpwUERsLW03YVlhSjVVR3laTmkwNGlnMDdPNGlnMFBxb1k?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTktIc0JPMWpUV2dEZzJUcWg5OENaY1JYVzJMbFlUcDVubzgwdllCWFlmSTZSU3hiM1R3cE5TeXhVVWVhUXE5c1FFazVEUTAxdldBaWxFZHN6eEktSnlrUkRCbVlrTFk1N0dxYkFLX2hHUkU1VF9mQUpmaGRibzNQZHJiSFR6Y1B2VVBtYnpBUlQ0Ry1aVDQ0bW5nYjJ4VnJYWlRXQzNsNmZMTFF4czA4THNOaWJ3Qk5SaWlpelJTVnd2YUNOcEg0RzZZaUF4TEdOb0QyTVIzQnc?oc=5": "2026-11-20",
+  "u:https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVk2YlVPWEtuR2NnQlhZVGw5alotV3JtSVBHcHNPeXBXMmpMNVVLSFZRZ09mSC12NUU1UnRsalFVMlY3MFlCOGRHYTlNRkRNZEpPdE5rTmw3UHpmaW51YS10NEYzUG5oMFVjcFFOS2FkN3RCd2VWTGczRWJITGNaYWd0WU80MTRQU2dMVFh2RmZWOTBMeF9QNTdLc1FvN3VSMnozazktbXZfVXBRVFIyai1LRXNnZFJKaWc1VDJRa3YzQW4wVEd6TjhiY194R3ZnNmZuSFlTNXM?oc=5": "2026-11-24",
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ09mVVdteHdjanpOeWJRQ3pMd0ViN2J2X2FLbV9fVFJPSmd6RTNBYm5kcDJDdThRb1lSd1NwQXlMeG5NWWFTQjd2WFFORUFIUUZkRlU0N3VSZ0NKZnNra2VMdUdIT25ITG5RVk1XQmp3R1FJUDBqbjhlQno1aG52UmtXYlJkX3FTN2JKd2xhSG14dndYQWZ1Tk5LLUEwak5YVTFhOUFoWXB2TE5kSHRUcGlUalYwZWo5dXRRRXRlTU42QmJjVUFNTUo5VkVrNU5GbDdvaXA5ZVA5UQ?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxORlpOR0VBT1dwNFFpZGNzMUtPdVRmdC1rUDA4M0JYRUROMzM2SFVyMXJBbFJsZFB1MTlvTjR6RHV4WDhtQzIyMDVBRFBmdG02TDd2b1J0LXh4QkdGSElhOG5CMU1tekNRY1BrZy1hNzdNbDNMb0h3Q2lodERZZFdWdVFlYUtyR1NIMElLWG10UHRDT2ZqU1U3a0dSTGV4SXlnMGlxUk1LTWRvYlVmSDlJR2dYMEZ5NUJTY3N6SXVETDZjOUpoMEN2TTdmTFotRUFvMUY4RndoYk16UQ?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlRHbENHMUdHWmR2X3RGVkxDU091NVQ3MDdkblpObC1pNGFicXdKUXA1ZU0zc2hLTnpINWJ1eC1fNGxxSWpvOTFDMjBqZUlPdEw5R3FNRGs2UlFvd3E2a1JkVlJnTy1nbnBpSFMtZmZkRzY3RjJmWk10SWxnR1RTYW1Bck1LSzZwdF8zNW03U1FFSTdLbk1CdVNNMFo1dTJLUi0yMkJGVkpTdXM5MXhraDN1TnRPWkl5WTd2VVpDS3pQQ2t0U2ZHd2tkQ1F5d1ZteUZ6cWFkVGE1dw?oc=5": "2026-11-20",
