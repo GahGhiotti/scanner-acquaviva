@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-23T05:02:23+00:00",
-  "fonte:San Marino RTV": "2026-11-24T00:02:36+00:00",
-  "fonte:GiornaleSM": "2026-11-24T00:02:36+00:00",
-  "fonte:Insider": "2026-11-24T00:02:38+00:00",
-  "fonte:Libertas": "2026-11-24T00:02:39+00:00",
-  "fonte:Google News": "2026-11-24T00:02:40+00:00",
+  "fonte:San Marino RTV": "2026-11-24T01:01:18+00:00",
+  "fonte:GiornaleSM": "2026-11-24T01:01:18+00:00",
+  "fonte:Insider": "2026-11-24T01:01:19+00:00",
+  "fonte:Libertas": "2026-11-24T01:01:20+00:00",
+  "fonte:Google News": "2026-11-24T01:01:21+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-23T05:02:23+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-24T00:02:42+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-24T01:01:30+00:00"
  },
  "pubblicati": [
   {
@@ -537,6 +537,7 @@
   "t:grave incidente a gualdicciolo centauro 16enne non si ferma all alt e si scontra con un auto": "2026-11-20",
   "t:grave incidente a gualdicciolo ciclista sammarinese trasferito al bufalini": "2026-11-20",
   "t:grave incidente a gualdicciolo seriamente ferito 14enne": "2026-11-20",
+  "t:grave incidente stradale nel pomeriggio ad acquaviva": "2026-11-24",
   "t:gregoroni soddisfatta di dakar 2026 ma gia concentrata sui prossimi obiettivi": "2026-11-20",
   "t:gruppo cittadini gualdicciolo a chi serve il termovalorizzatore": "2026-11-20",
   "t:gruppo di cittadini di gualdicciolo a chi serve il termovalorizzatore": "2026-11-20",
@@ -2223,6 +2224,7 @@
   "u:https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGloSVZnWk9tTUhsaG1WdFZxVmpvZ0xKWW9RcnE4X3l1Z1NnSjdQOTl1d3hTbUt2T0hVWW9SRW1GSEpNdkRDMjBLYmpmMDJGU1NMNzFrUERUM2JPMGxZVmlGQjVzaFktUHBPT21tRXN4V2FvcDhUU3lOQldHSjlwVVdydFpaYWFJOGJRNWp0OUd2cnh4ZVBXRzZ6eWVIeGE3elhZ?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjNrOUE2YmNWSzNBZEF3VHpLOU55QWZzUDlpSW51dFdVUm9oYlRHUjh1VVRpRFhMME1KZHl2TW1zT1dBRUFXMjY2S1h3MnhteXBqTk1PTEttMS11OTlobTZwbDVYaWN3WkZyQWtISVB3VGtLTmpZbENCZWdweGxJc3dpVmc4MXZGNV9sb0Z1dExQbUxwLVJtbEszandORklseVhSWXh4ckxDRHJRdGdpUENIdUJiQW1ic1pjb0d6d1JRNTNYeDRRWkstZnZuQkxVR1F5dXRCcGM0dlV4SzZ2SWg4YnlOSEVDdEZKd0N1RVhjeE9TWXhkTTgzR1dLenpLa2NjeTE3VGZRaENQS3czLUZJNFZnMjNCSC1WemZuQ25fMkE?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMipAFBVV95cUxNVE5fNzFmalozd096U2VBM0J0OFFadGFQOVQ1TWItUm1qTkJTQVFaNjFoS3Z4azJvUGt6ZFNKeHFRdm1mWVBRZ0J5Wk1yN2pWcFBzR0ZUeWpXSHJiRzFvZGlKeDN0eG5Ed2Q3T1o4WTZ5MXh6dTZBRjhBR1I3NjZPbFB6RkhQQ2JNendvUDlsME1KVjlqYXRuQXRjcFdzcTIyZk11VQ?oc=5": "2026-11-20",
+  "u:https://news.google.com/rss/articles/CBMipAFBVV95cUxON2dkRXVIc0VYYld0aGlLZm5aeTl0a0dZOElucmg1Zy14V2VxMElKWjdMRVY5aVcxU3dkMnVIUDI0dWVpWkgta3NIT3BwS0taM0VlSUtENUtWRlpzU3Y0d1pJaE5kd0VNSlBuWk93ZXJYVkNGMHpMcm5xcTlTT09CQW9aUXhERnBOUDExcGFhVlhwYUw5RDluak1zWU1uZXpoSFQ2Nw?oc=5": "2026-11-24",
   "u:https://news.google.com/rss/articles/CBMipAFBVV95cUxOYng4WnhyeVh1WEVhVnlpMldKdnp1emRXVzhxUU1lS2ZyQk5kSzlzNGN3dEtlWXVQbFlZQkRqS3dXQ0hwQlo5U05YQzlySWNXem5MeXdzVjFtOE9WWExEZGNqR1ZibEpCNUExdEdEVkJUdEFfSHBNVVlmRDMxTllRaEowemItSUl1UWZzTW9ucjhNRVc1d1FDWjFhby14c0k2LVAyeA?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1hVbV9ka20zZ2p1Ym9vejlXeUNSQmhSVVR3NEROdzBrZWZwWWJiRy1wWWNtdXdDMWV0a1VqS0s4V0c0WjZ6cjRTb1AzajJOb3FHR1VOV1lGU20wQ1pkRlhmczJadUVyWnljb2pzNVlHamF2cmlQUWhQTUZzeXd6S0xsVnE5UmpRVlF2d0N6TEFiQnFzOWtoMlpoWnlSai1RTWU3V9IBoAFBVV95cUxQSVVsRG1JMFBXMnh4VmM3NmFjQklqcnlMdl9rWHkydEVqQlc2dVRiYk9aMG4yODNRNVc0eFJwczJvczJNR1VrZGx5Qk9NeEh3SU5MLXlzTkhRdlBtYXFBR25VdE5vWTd4a284Nnl3djZFY1NyRHZrWl9WcTVmTnRVdmFRMEJzekVhX3RseFpORTBHMzBLX1dIQWZuU3pzQmo4?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMipAFBVV95cUxPb3VxSkxIaHFlVmJvRWQ4LUpaSTJBOEJ1UG1jTURuUTNfQjhJcGFaeTlGdTUyS1hIOUFCSHlLcklENDRXeHBNYUxCLUlSOXdjVFlPSWROWlFsVkRQM1dkYUhUTE9LLU5HazdvUVdXeUZjb2ZOM0hCYXdybTZEV2ZyYWVmaUZPV202TEpGdXI1LXBxLVplLXpKU3Q1RHVrTUUycVhGag?oc=5": "2026-11-20",
