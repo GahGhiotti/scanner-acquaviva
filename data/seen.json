@@ -2,81 +2,15 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-24T02:01:50+00:00",
-  "fonte:San Marino RTV": "2026-11-24T17:01:19+00:00",
-  "fonte:GiornaleSM": "2026-11-24T17:01:19+00:00",
-  "fonte:Insider": "2026-11-24T17:01:21+00:00",
-  "fonte:Libertas": "2026-11-24T17:01:22+00:00",
-  "fonte:Google News": "2026-11-24T17:01:23+00:00",
+  "fonte:San Marino RTV": "2026-11-24T18:01:10+00:00",
+  "fonte:GiornaleSM": "2026-11-24T18:01:10+00:00",
+  "fonte:Insider": "2026-11-24T18:01:11+00:00",
+  "fonte:Libertas": "2026-11-24T18:01:12+00:00",
+  "fonte:Google News": "2026-11-24T18:01:14+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-24T02:01:50+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-24T17:01:24+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-24T18:01:16+00:00"
  },
  "pubblicati": [
-  {
-   "id": 16,
-   "data": "2026-11-21T17:02:06+00:00",
-   "articoli": [
-    {
-     "titolo": "La Virtus si prende la vetta momentanea, successi importanti per Cosmos e Fiorentino",
-     "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/la-virtus-si-prende-la-vetta-momentanea-successi-importanti-per-cosmos-e-fiorentino-a298849",
-     "fonte": "San Marino RTV",
-     "nome_fonte_config": "San Marino RTV",
-     "parola": "virtus",
-     "etichette": "Calcio Samm. "
-    },
-    {
-     "titolo": "Campionato San Marino. Virtus in vetta, vincono Fiorentino e Cosmos",
-     "url": "https://giornalesm.com/campionato-san-marino-virtus-in-vetta-vincono-fiorentino-e-cosmos/",
-     "fonte": "GiornaleSM",
-     "nome_fonte_config": "GiornaleSM",
-     "parola": "virtus",
-     "etichette": "Prima Pagina San Marino Sport Nel Campionato Sammarinese di calcio la Virtus aggancia la Folgore al comando della classifica mentre il Fiorentino supera il Domagnano e il Cosmos batte il Faetano. La giornata del Campionato Sammarinese di calcio registra i successi di Virtus, Fiorentino e Cosmos. La Virtus supera il San Giovanni "
-    },
-    {
-     "titolo": "Il Fiorentino piega il Domagnano, la Virtus aggancia la Folgore in vetta",
-     "url": "https://insider.sm/il-fiorentino-piega-il-domagnano-la-virtus-aggancia-la-folgore-in-vetta/",
-     "fonte": "Insider",
-     "nome_fonte_config": "Insider",
-     "parola": "virtus",
-     "etichette": "Attualità In evidenza San Marino Sport Al Fiorentino bastano due gol per vincere lo scontro diretto con il Domagnano. Ad Acquaviva finisce 2-1, con un espulso per parte e i Lupi a… L'articolo Il Fiorentino piega il Domagnano, la Virtus aggancia la Folgore in vetta proviene da Insider.sm . Al Fiorentino bastano due gol per vincere lo scon"
-    },
-    {
-     "titolo": "Campionato Sammarinese, Tre Penne in vetta da solo: vincono anche Cailungo e Academy",
-     "url": "https://www.libertas.sm/campionato-sammarinese-tre-penne-in-vetta-da-solo-vincono-anche-cailungo-e-academy/",
-     "fonte": "Libertas",
-     "nome_fonte_config": "Libertas",
-     "parola": "virtus",
-     "etichette": "AA homepage dx calcio San Marino Sport Alfano cailungo calcio sammarinese campionato sammarinese Folgore Libertas murata nona giornata Pennarossa Pieri Podeschi San Marino Academy Tre Penne virtus SAN MARINO – La nona giornata del Campionato Sammarinese 2026-27 si chiude con il Tre Penne al comando solitario della L'articolo Campionato Sammarinese, Tre Penne in vetta da solo: vincono anche Cailungo e Academy proviene da libertas ."
-    }
-   ]
-  },
-  {
-   "id": 17,
-   "data": "2026-11-21T17:02:06+00:00",
-   "articoli": [
-    {
-     "titolo": "Futsal, La Fiorita e Pennarossa si giocano il primato: Murata a riposo",
-     "url": "https://insider.sm/futsal-la-fiorita-e-pennarossa-si-giocano-il-primato-murata-a-riposo/",
-     "fonte": "Insider",
-     "nome_fonte_config": "Insider",
-     "parola": "virtus",
-     "etichette": "Attualità In evidenza San Marino Sport La Fiorita contro Pennarossa, con il primo posto in palio. È il big match dell’undicesima giornata del campionato sammarinese di futsal, che mette di fronte la… L'articolo Futsal, La Fiorita e Pennarossa si giocano il primato: Murata a riposo proviene da Insider.sm . La Fiorita contro Pennarossa, co"
-    }
-   ]
-  },
-  {
-   "id": 18,
-   "data": "2026-11-21T17:02:06+00:00",
-   "articoli": [
-    {
-     "titolo": "Insider delle 18 | Il TG di sabato 21 novembre",
-     "url": "https://insider.sm/insider-delle-18-2026-11-21/",
-     "fonte": "Insider",
-     "nome_fonte_config": "Insider",
-     "parola": "nazionale ad acquaviva",
-     "etichette": "In evidenza Insider delle 18 San Marino Novanta secondi con le notizie di sabato 21 novembre a San Marino: Collocamento mirato: la riforma torna in Consiglio; Riforma dello sport in prima lettura; Santa Cecilia, docenti e allievi in concerto. L'articolo Insider delle 18 | Il TG di sabato 21 novembre proviene da Insider.sm . Il telegiornal"
-    }
-   ]
-  },
   {
    "id": 19,
    "data": "2026-11-21T18:01:32+00:00",
@@ -484,6 +418,7 @@
   "t:federico piovaccari bello tornare in champions ringrazio la virtus il san marino calcio un trampolino della mia carriera": "2026-11-20",
   "t:femminile c e l inter ad acquaviva per l ultima del 2021": "2026-11-21",
   "t:festa del calcio annunciati nuovi impianti a serravalle e acquaviva": "2026-11-24",
+  "t:festa del castello di acquaviva": "2026-11-24",
   "t:festa del castello di acquaviva 4 serate tra musica gastronomia e giochi per bimbi": "2026-11-21",
   "t:fiarc altri sei podi per i lunghi archi di san marino": "2026-11-20",
   "t:finlandia san marino 7 2 storica doppietta di nanni": "2026-11-20",
@@ -604,6 +539,7 @@
   "t:inaugurata a gualdicciolo la nuova sede della denver": "2026-11-23",
   "t:inaugurata la casa dell acqua di acquaviva": "2026-11-24",
   "t:inaugurata panchina rossa nel castello di acquaviva e gualdicciolo": "2026-11-22",
+  "t:inaugurazione anno accademico sammarinese la prima per paolo pascucci": "2026-11-24",
   "t:inaugurazione del nuovo portale d ingresso al confine di acquaviva": "2026-11-21",
   "t:inaugurazione e visita della pista ciclabile a gualdicciolo": "2026-11-22",
   "t:incendio a gualdicciolo a fuoco camion carico di rotoballe": "2026-11-22",
@@ -835,6 +771,7 @@
   "t:marlu inaugura a melilli nuovo store al parco commerciale belvedere l undicesimo in sicilia": "2026-11-21",
   "t:marlu presenta l assenza ha un nome un podcast che da voce alle storie alla memoria e all amore di chi resta": "2026-11-24",
   "t:marquez il titolo numero 10 e un passo nella leggenda": "2026-11-23",
+  "t:matteo tambone lascia pesaro e va a pistoia": "2026-11-24",
   "t:meno paura e piu manutenzione la sicurezza informatica di san marino si gioca sulle cose noiose": "2026-11-23",
   "t:mercato ufficiali badalassi e nunzella alla virtus 10 colpi per il cosmos si muovono murata libertas e fiorentino": "2026-11-21",
   "t:meteo piogge sulle regioni tirreniche e tregua intorno al 21 novembre": "2026-11-21",
@@ -1452,6 +1389,7 @@
   "t:san marino festa del castello di acquaviva 18 21 giugno 2026": "2026-11-20",
   "t:san marino firmata a venezia l intesa tra aaslp e fornace schiavon": "2026-11-21",
   "t:san marino gen sm propone una srl con un euro di capitale per facilitare l avvio di nuove imprese": "2026-11-20",
+  "t:san marino ginnastica fsss vince la coppa di squadra a genova": "2026-11-24",
   "t:san marino giunta di castello di acquaviva tradizionale fuoco martedi 18 marzo ore 20 00": "2026-11-20",
   "t:san marino gli stadi di acquaviva e montecchio rinnovano l illuminazione in chiave sostenibile con signify": "2026-11-20",
   "t:san marino grassroots league al via le fasi finali del torneo u12": "2026-11-20",
@@ -1506,6 +1444,7 @@
   "t:san marino lunedi la presentazione del libro sulla storia di acquaviva": "2026-11-20",
   "t:san marino matteo zeppa rete sulla vicenda banca cis il colpo di stato era vero ed e stato certificato in tribunale sul caso casali non ci sto a usare le persone come arma per fare battaglia politica": "2026-11-24",
   "t:san marino mercoledi 25 novembre la trappola di venere torna a domagnano": "2026-11-23",
+  "t:san marino mercoledi 25 novembre serata degustazione primi al piccolo prenota subito 366 845 2991": "2026-11-24",
   "t:san marino meteo sabato soleggiato ma freddo domenica torna la pioggia inizio settimana variabile con rialzo termico": "2026-11-20",
   "t:san marino meteo vento da moderato a forte fino a venerdi sabato soleggiato e gradevole sul titano domenica torna la pioggia": "2026-11-20",
   "t:san marino motus accordo ue la maggioranza procede con la ratifica e blocca il referendum": "2026-11-23",
@@ -1932,6 +1871,7 @@
   "u:https://giornalesm.com/san-marino-domenica-ultima-occasione-per-visitare-la-mostra-della-collettiva-del-villino-bonelli/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-ecco-il-menu-di-oggi-di-amici-fun-station-68/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-firmata-a-venezia-lintesa-tra-aaslp-e-fornace-schiavon/": "2026-11-21",
+  "u:https://giornalesm.com/san-marino-ginnastica-fsss-vince-la-coppa-di-squadra-a-genova/": "2026-11-24",
   "u:https://giornalesm.com/san-marino-i-capifamiglia-1848-2026-leuropa-ha-nuovamente-bisogno-della-primavera-dei-popoli/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-i-capifamiglia-referendum-fissate-le-udienze-davanti-al-collegio-garante/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-il-26-novembre-si-accende-il-natale-delle-meraviglie/": "2026-11-24",
@@ -1951,6 +1891,7 @@
   "u:https://giornalesm.com/san-marino-luniversita-degli-studi-della-repubblica-di-san-marino-e-listituto-per-la-sicurezza-sociale-avviano-il-corso-di-alta-formazione-pediatrica/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-matteo-zeppa-rete-sulla-vicenda-banca-cis-il-colpo-di-stato-era-vero-ed-e-stato-certificato-in-tribunale-sul-caso-casali-non-ci-sto-a-usare-le-persone-come-arma-per-fare-battaglia-po/": "2026-11-24",
   "u:https://giornalesm.com/san-marino-mercoledi-25-novembre-la-trappola-di-venere-torna-a-domagnano/": "2026-11-23",
+  "u:https://giornalesm.com/san-marino-mercoledi-25-novembre-serata-degustazione-primi-al-piccolo-prenota-subito-366-845-2991/": "2026-11-24",
   "u:https://giornalesm.com/san-marino-motus-accordo-ue-la-maggioranza-procede-con-la-ratifica-e-blocca-il-referendum/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-naturalizzazioni-elenco-106-nuove-cittadinanze-sammarinesi-tutti-i-112-beneficiari-letti-in-aula-dal-segretario-di-stato-andrea-belluzzi/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-non-esistono-scuole-di-serie-b-e-nemmeno-ragazzi-di-serie-b-di-prof-ssa-alba-montanari/": "2026-11-24",
@@ -2312,6 +2253,7 @@
   "u:https://news.google.com/rss/articles/CBMijAFBVV95cUxQUG9XSHk1NC1ZMGhZRnNabDNoVXpaVU5wNlIyajBoaWNlQ0tGUTQ1WHJpaDZjbUJRek5YdHhyWGl4dmd2YzJNZ2NrTzhoNFNsX2tWTWg1eWp2ZWE1NTVjX0R0MEpycjktVGFyUHZoNkdNVE5RWktqUHowQUtwR0EwZThjN1VOVFZPRTdDaw?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnFMM3J3NWxiNHdJRWR2d1E4aHp1cjJIUkxaUmRNeUNMVWxrUnVhR1dXcHRfNG8zTTFOQ3dzUE42ZFpqdkRua2JralFoa0dEU3ZhNjd1bkhQaVMtT2liNjYwOGFEd2JydGo2enBha2Z2cUtDaVpTRHFVblBUSjY2RHdQT2o0Wm94MXlvTjBn?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0pXSkEyaWU3OTlUbU9OTUstRDZOMkYzMlptTHA2cXlBemNQVEZfU0taeFl2ak5ncDZ2ZUVUZ2RqSFN0V09MRThCNUlzdWhkWU95Wk9fUWNsNHA1UlVFbUxuSThTSWFWdkdqT3o4WHU1X2gxWF9pZm9oaXQ4QWJHeXNVSURxWjVsYUpReEhn?oc=5": "2026-11-21",
+  "u:https://news.google.com/rss/articles/CBMijgFBVV95cUxPRklzNWZ5aVd3XzZXZ3NFMHFtV295aWs4eEhIR3BnSk9lNENvN2lGeWt3RW9HcWhEckZmQnZPWVVYQnMtVVdLT0RDSE1KOE1JOGZNS2VybTZpTEVIMnMyMjFjVW1VQVNvUGZQZzhIcFBOQlRKSWdKYVd5SDREdWF5RThpNmlyOThXNFl5Nl9B?oc=5": "2026-11-24",
   "u:https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjktcDRZN3dQbHh3QWlKcURia2RiTXNaOWYyOHgwOHBhLVVGUWpzaGp5SUxEamc5dGpNNTdIS1NWeEdPeGlJeDJYSEMyX05namZNVUlnWVUtZTlEMkhta3RVdlNxZ21kQThHcjRCTGM5ckVoZG1NSVZzbmw2S3VuOHhocVZvXy02T21aVTB3?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMijgJBVV95cUxPbEh0ckJHWW1MTlRWclhicDJfcmJiZFRzU00tSTB0SGxtaEtFM1NqTUNZWjlTVExZN2VhZktUaDRMbzdlY0FORDFLd1A3T0lsaUtLMHk5Rm1KWnYyTi1xOE10eEFESkhDVnBLa1M0cklwZERYbUtIOHZWcjFLazhtanlXODBzQUFUN2tBaG5pTWhjOXBEc1ZyMXNFbjlwRzc4Tk92M1pSSHhqSHUtVV9FSDc4TzROc3lmcjVUdDQ4c2kyNVdvV3VmVWpXRmZkcVppZ1BOYUw5eWF3dWlqRUZLcDFOeTNWcUdnb0dzV2VCQUNHU2ZtLUJfakgtNHhGWVhaeDVPSEZXM3VESGtKV2c?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMijwJBVV95cUxNWXdLazM2V2xoOHZ0RlVBZ3l4a2F2Tjd6ZVNwTjFhVFpmVzBJbTlLeUFvMk4zRXJ5ZDNiQW5qcHVBT0xSaW9kTEFHajJKSXVfdWZkYy1va0N0VWJhaG5MaHllQ0ROMTlOTjdyRV9zUnREaFRSeHpjYVd2c2xXbXlnbUtxR2NBdmNxaVlKbkd2Q2h2T3lnakZtRU9PczEzQlltZXFWM1VRdEdLMUNjd1ZUeE1oZnlrbGJTT1ZLTVYxeTk5TTNJdk56ZlBZc3JvMllUcGVieGhSVGtuMldtLWxaTlVxUzZkTVg5QWVSdlNkUG9mY2M5SHRxME9WWnVBODZMUjRpNVZBSEFVOGxRczhN?oc=5": "2026-11-21",
@@ -3305,6 +3247,7 @@
   "u:https://www.sanmarinortv.sm/news/cultura-c6/il-rito-in-un-opera-desertica-franco-cilena-a298797": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/il-villino-bonelli-ricomincia-dall-arte-al-via-la-collettiva-nuovo-spazio-per-la-cultura-a298550": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/in-giro-per-i-castelli-nella-repubblica-di-san-marino-a298783": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/cultura-c6/inaugurazione-anno-accademico-sammarinese-la-prima-per-paolo-pascucci-a298979": "2026-11-24",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/io-san-marino-70-anni-di-storia-a-partire-dagli-anni-50-a298785": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/l-amore-anziano-a-tangeri-a298506": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/l-odore-acre-del-cuore-a298975": "2026-11-24",
@@ -3404,6 +3347,7 @@
   "u:https://www.sanmarinortv.sm/sport/altri-sport-c19/alcaraz-conquista-le-sue-prime-atp-finals-zverev-battuto-in-due-set-a298903": "2026-11-23",
   "u:https://www.sanmarinortv.sm/sport/altri-sport-c19/prima-vittoria-in-carriera-per-lara-colturi-nello-slalom-di-grugl-e-in-testa-alla-classifica-di-coppa-del-mondo-a298858": "2026-11-21",
   "u:https://www.sanmarinortv.sm/sport/altri-sport-c19/sinner-vola-in-finlandia-per-operarsi-al-ginocchio-saltera-gli-australian-open-a298929": "2026-11-23",
+  "u:https://www.sanmarinortv.sm/sport/basket-c18/matteo-tambone-lascia-pesaro-e-va-a-pistoia-a298977": "2026-11-24",
   "u:https://www.sanmarinortv.sm/sport/basket-c18/pallacanestro-titano-sconfitta-in-trasferta-75-56-contro-la-francesco-francia-a298872": "2026-11-22",
   "u:https://www.sanmarinortv.sm/sport/basket-c18/pesaro-crisi-senza-fine-corrono-rimini-e-bologna-a298927": "2026-11-23",
   "u:https://www.sanmarinortv.sm/sport/basket-c18/vl-pesaro-ufficiale-l-addio-di-tambone-sabato-comincia-l-110-turno-a298821": "2026-11-21",
