@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-24T02:01:50+00:00",
-  "fonte:San Marino RTV": "2026-11-24T05:01:27+00:00",
-  "fonte:GiornaleSM": "2026-11-24T05:01:27+00:00",
-  "fonte:Insider": "2026-11-24T05:01:29+00:00",
-  "fonte:Libertas": "2026-11-24T05:01:30+00:00",
-  "fonte:Google News": "2026-11-24T05:01:31+00:00",
+  "fonte:San Marino RTV": "2026-11-24T06:01:15+00:00",
+  "fonte:GiornaleSM": "2026-11-24T06:01:16+00:00",
+  "fonte:Insider": "2026-11-24T06:01:17+00:00",
+  "fonte:Libertas": "2026-11-24T06:01:18+00:00",
+  "fonte:Google News": "2026-11-24T06:01:19+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-24T02:01:50+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-24T05:01:32+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-24T06:01:21+00:00"
  },
  "pubblicati": [
   {
@@ -554,6 +554,7 @@
   "t:gualdicciolo incontro pubblico sulla nuova infrastruttura di telefonia mobile": "2026-11-22",
   "t:gualdicciolo no all antenna in centro cercate un altro posto": "2026-11-22",
   "t:gualdicciolo piazza del centro gualdo cambia volto": "2026-11-20",
+  "t:gualdicciolo rapina alla cassa di risparmio": "2026-11-24",
   "t:gualdicciolo san marino tentato incendio alla stazione di servizio bloccato dalle forze dell ordine e condotto al carcere dei cappuccini": "2026-11-22",
   "t:gualdicciolo scontro fra auto e moto minorenne all ospedale": "2026-11-20",
   "t:gualdicciolo si apre una voragine": "2026-11-23",
@@ -864,6 +865,7 @@
   "t:nazionale un 2026 con una doppietta storica e un impresa sfiorata a tirana": "2026-11-20",
   "t:nazionali giovanili il 2026 regala speranze per il futuro del calcio sammarinese": "2026-11-20",
   "t:nido del falco il governo cambia strategia per farlo rinascere": "2026-11-20",
+  "t:nt capital sg finanza semplice cos e un fondo comune d investimento": "2026-11-24",
   "t:nt holding punta sulla crescita nasce un advisory board con quattro esperti": "2026-11-20",
   "t:nuoto pinnato 13 podi per san marino alla nevera cup di rijeka": "2026-11-20",
   "t:nuoto pinnato 20 medaglie per san marino al 10o trofeo titano": "2026-11-20",
@@ -1794,6 +1796,7 @@
   "u:https://giornalesm.com/morciano-di-romagna-il-22-novembre-vintage-sotto-i-portici/": "2026-11-22",
   "u:https://giornalesm.com/nasce-il-liceo-delle-scienze-umane-e-si-completa-il-triennio-tecnico-tecnologico-tutte-le-novita-agli-open-day-della-scuola-superiore-di-san-marino/": "2026-11-20",
   "u:https://giornalesm.com/natale-2026-catalogo-dei-prodotti-delle-monache-delladorazione-perpetua-di-pietrarubbia-e-san-marino/": "2026-11-23",
+  "u:https://giornalesm.com/nt-capital-sg-%c2%b7-finanza-semplice-cose-un-fondo-comune-dinvestimento/": "2026-11-24",
   "u:https://giornalesm.com/nuova-rubrica-tutta-la-cronaca-di-oggi-in-un-solo-articolo-guarda-cosa-e-successo/": "2026-11-21",
   "u:https://giornalesm.com/omicidio-willy-monteiro-duarte-definitivo-lergastolo-anche-per-gabriele-bianchi-la-cassazione-rigetta-il-ricorso-della-difesa/": "2026-11-21",
   "u:https://giornalesm.com/palazzo-del-turismo-e-rotatorie-in-arancione-il-25-novembre-riccione-aderisce-alla-campagna-onu-orange-the-world-contro-la-violenza-di-genere/": "2026-11-21",
@@ -2192,6 +2195,7 @@
   "u:https://news.google.com/rss/articles/CBMilwJBVV95cUxQTUtNejlGcXhUT2ZrTWZ6c3c3cXlQMWRReDlXU0dqS0lZUGc3RjdUS1lEaGFLTW9rc2FqSEtKaVBlUXljRGFzVmtmTmN6WmxRNEZXQmluNWdJZ3ptLW1lVThsTGtqSnVOU3ZkR2tLbHVFeVhzRkt6NEp2cnZCRTF3TVVUZDZiU2pJQndydlh5MjJKZFpRWWJUdnFHdEdGOVprWWpwWDJxMWMwVVh2U214RjVEYXJ6bmFqQUpabTNGMEM4bWQycFBualhHR2Z6Wjl5eDRJb3BDMUVfWVl1ZzdWZmlvRkZyYnQ1RThFOU9WR3hycHVzM0F1cFBuMF9EZUx6TGV5TDZnOWVoS2M1cFo0cmlfT2U2Wjg?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEJRMGJkRWFrU1NBR2lHUHBGbUJYOEpYdE96ZUlvSWpqN2VqSEZPTmMxeWNLTHBsVXFhclpkNFF4b1BCX2lCUktHNVBoVkRVZWpIZ192eDRLdmtrYTUtZlVLS19CdDUwXzJGbFZPRU9KZ0ZPSFhsYWtIa3J5MUtET3IwNWp1YVowZmR2R1ZUYUpxYk9NU01WVg?oc=5": "2026-11-23",
   "u:https://news.google.com/rss/articles/CBMimAFBVV95cUxNRGtUUTMteTFLVFgxMGlKNXhrZUtMVTZiT0dJRVZEd1doRWp4aHVSVHdaQ3Vkd2tXRUNvQ05yc1NXbDNtdDd3TENoWmNIazhVTlJWck1nR1VpU0VGNEtpRUE5N19GaUlhTEtvUXZsekJrd1lxbGY0cS0zTmQxVEtyOHhBakhSdVpqXy1ENlcxMTNwX1NXRU1OSQ?oc=5": "2026-11-21",
+  "u:https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzkzTXhTYlZjcjlqeGNZbDlmT0MyZm01NUIzQTl3NjRhNkZLN0VubW91SlNoOGNON01WYnF1NlYtSTFLRkdBUHNvY2lJZk1lVzhKaFBfc1J4LTI3d2xzbVpDNEVGcVRaMXhNd0RpQlh5V3JPMEw4djIwc2lVdUQzZ3JiTEZOenhPNVNmaVRkU041MHlkekhWWg?oc=5": "2026-11-24",
   "u:https://news.google.com/rss/articles/CBMimAFBVV95cUxOb1Y3ZG1lWHkxUUJldDJSN05ZeVdLTWpxUDVMZkpmYnRiWkt2eHRJZHpaRUpBUXBpT3E2OGgtbmdvNm5Jc0xJaU9saHVFTzROcTItd1NVSU82SjRvTW5PWmxmUzJYcC1wS2NFcDlQYnA5VExvaG54WllpV2RvVUpiaDZkVVFXelg0NUNHOVl1YTVSa0x5eXBwTg?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHQzWndWWlRpcmZ5aVFzRGNDcU43a0FOTHB4YV9lSmZRbFlfNXJRY2V0TnpPOTV2aGJ0Y2JEMTdySm9KdzFfVHR2SW9sQ1VnRVJpTURIdDQ1dmZ4QmN3b3hHLWFQN21NV3ppQ0gxX2FDeWRxUWRMd3E0Y0hBeTBiYmZ3bGlzcGxjTXQ2Y0RsSnF4cUEtbFZLNw?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjVTa3pfZTRvS0xZTEtrSjVaYWtYaGUxb0FENF9JUFZJNUxnTWVuUHFESERhYng5a0lXM0dPTUl0U2JnUWxPYVZNRzRIQUZ3cDRCVUIzOFp1Y2doVmxrOTBuelNjRzV0QUtMWjl6R1BkNGtlSTRlenVycFpwaDZ2UzVjY25nNUpOeTZ4aUIwMzdCR3EzY0M4QQ?oc=5": "2026-11-22",
