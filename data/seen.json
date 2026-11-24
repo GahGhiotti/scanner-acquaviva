@@ -1,14 +1,14 @@
 {
  "inizializzata": true,
  "ultimo": {
-  "arengo": "2026-11-23T05:02:23+00:00",
-  "fonte:San Marino RTV": "2026-11-24T01:01:18+00:00",
-  "fonte:GiornaleSM": "2026-11-24T01:01:18+00:00",
-  "fonte:Insider": "2026-11-24T01:01:19+00:00",
-  "fonte:Libertas": "2026-11-24T01:01:20+00:00",
-  "fonte:Google News": "2026-11-24T01:01:21+00:00",
-  "fonte:Consiglio Grande e Generale": "2026-11-23T05:02:23+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-24T01:01:30+00:00"
+  "arengo": "2026-11-24T02:01:50+00:00",
+  "fonte:San Marino RTV": "2026-11-24T02:01:18+00:00",
+  "fonte:GiornaleSM": "2026-11-24T02:01:18+00:00",
+  "fonte:Insider": "2026-11-24T02:01:20+00:00",
+  "fonte:Libertas": "2026-11-24T02:01:21+00:00",
+  "fonte:Google News": "2026-11-24T02:01:22+00:00",
+  "fonte:Consiglio Grande e Generale": "2026-11-24T02:01:50+00:00",
+  "fonte:Ordinanze Affari Interni": "2026-11-24T02:01:43+00:00"
  },
  "pubblicati": [
   {
@@ -1612,6 +1612,7 @@
   "t:tour music fest san marino ospita le finali europee dal 21 novembre": "2026-11-20",
   "t:tragedia al confine di san marino 34enne trovato morto in un parcheggio": "2026-11-22",
   "t:traversata monte cerreto dal valico di chiunzi al chianiello angri monti lattari campania": "2026-11-22",
+  "t:traverse espulsioni e proteste ma zero goal e pari tra virtus e juvenes dogana": "2026-11-24",
   "t:tre fiori altro stop virtus a 1 ma il tre penne non ne approfitta": "2026-11-21",
   "t:tre fiori e virtus non si fermano vince anche il fiorentino buon pari per la san marino academy": "2026-11-21",
   "t:tre fiori e virtus si contendono il primo trofeo stagionale c e la supercoppa": "2026-11-21",
@@ -1711,6 +1712,7 @@
   "t:virtus san giovanni in diretta alle 15 su san marino rtv": "2026-11-20",
   "t:virtus san marino academy elia ciacci ritrovata solidita difensiva borasco giocato al massimo": "2026-11-20",
   "t:virtus tre fiori sirri e ciacci in coro pareggio giusto due grandi squadre": "2026-11-21",
+  "t:virtus verso il dila gori giulianelli sono gia in forma campionato non sara facile ma ci crediamo": "2026-11-24",
   "t:virtus zrinjski mostar in diretta dalle 21 su san marino rtv": "2026-11-20",
   "t:vl pesaro ufficiale l addio di tambone sabato comincia l 11 turno": "2026-11-21",
   "t:volkswagen id polo arriva da reggini porte aperte sabato 21 e domenica 22 novembre": "2026-11-20",
@@ -2057,6 +2059,7 @@
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxORlpOR0VBT1dwNFFpZGNzMUtPdVRmdC1rUDA4M0JYRUROMzM2SFVyMXJBbFJsZFB1MTlvTjR6RHV4WDhtQzIyMDVBRFBmdG02TDd2b1J0LXh4QkdGSElhOG5CMU1tekNRY1BrZy1hNzdNbDNMb0h3Q2lodERZZFdWdVFlYUtyR1NIMElLWG10UHRDT2ZqU1U3a0dSTGV4SXlnMGlxUk1LTWRvYlVmSDlJR2dYMEZ5NUJTY3N6SXVETDZjOUpoMEN2TTdmTFotRUFvMUY4RndoYk16UQ?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlRHbENHMUdHWmR2X3RGVkxDU091NVQ3MDdkblpObC1pNGFicXdKUXA1ZU0zc2hLTnpINWJ1eC1fNGxxSWpvOTFDMjBqZUlPdEw5R3FNRGs2UlFvd3E2a1JkVlJnTy1nbnBpSFMtZmZkRzY3RjJmWk10SWxnR1RTYW1Bck1LSzZwdF8zNW03U1FFSTdLbk1CdVNNMFo1dTJLUi0yMkJGVkpTdXM5MXhraDN1TnRPWkl5WTd2VVpDS3pQQ2t0U2ZHd2tkQ1F5d1ZteUZ6cWFkVGE1dw?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNVhKeUtualpfUDUwaGJoWi1DVEJUa3Y3UFhDajEwZ1kwbVF5dHF4SmswMkFDUTk0ZTFoS1c2VE9fTWp6V25YOVJvaE1aMkV0cXBPeHNGYlg0bEkta0dqQ1FBdFduZGxUTUlGMjFoWmV3ZWpOMXhYQ290QTZlTXlNcW16WnhEYWRtYlNfUnExWTIxR1VIb3lkUWZ4LWgxODExdVcxWm5nV2VDZkdHY2lGYjBMSEg3XzJKRm5pcU9kb0Z3VWNZLWpwVEZRNXJnaFNUdnVMWWtkYWJwRG8?oc=5": "2026-11-21",
+  "u:https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXVydmJUSVVyNDBaSmwtNHpGOVBZcVcxVE81TVY5dU5xcTJIdThUR3lETTZDMEt4WHlUOTNVVkFsZEZXS1Z6clR2SEdZZUo1VUFxMU1zRjhqeHRGTXRqUUJRaTNDVUIyN0ZrSlZ0SG1sOGZJN3JXVmRGcUdOUk5qWjBZV2R6c2g4N1BMaGdPQnZDZkdXM3owN1V3c3hIbzM0aWF5OHN3TXM1NTBaQ2tRc3hmQ0pieG9DVnJmUUpqZGVWZzRzNlR0SzByYUlDR0JYUEF3VGxZT2NsTGs?oc=5": "2026-11-24",
   "u:https://news.google.com/rss/articles/CBMi2wFBVV95cUxONmlwMjZsYU01Wmg5eXdLT3BYLU9zTmxxYTEyX1cxNE5SV3RrNGVkSUFaSHg0cHJhVUNHM0dQT3hjZERBWDM2eVhEellQNVE2UGlLeFJyVjVmRFBTSG5GcGxnQmE2S0dlVnJpZVNaSW5HdHBfSFZxdGUyNXd3T0RQREdtelZVdFBkTDl3TEthclBmb1dhVGtBamVUbEc0OFktQml1blNpNFUwTi1zMmVCbXFkdmtnc1Z2Rmp6UVN0QW5XSlY1THNXblV0VHdMVVl5MUU4ZFV2eFY4VTA?oc=5": "2026-11-23",
   "u:https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa0JFNU82dDRtMXVPOHRMWkdVT2YwZnBzemZwSVVQT09sRkl6WmdHQlEtdlVhRUlZRktiU0N0SGlLUy1UUHAxZlpoMlZneTNiSFYyekZQbDY2NFZ1MEZQU19VSEJ4Sk1kTGtLRnA3dVE3OXhLSTFDdlpfVDdINmczS21kdHoyWlNROGtPMVA3eDZxUWo3Y29OMWVBYlZmZjc3S0Nzd2xVaHpWV3h2U1pwUG9VRFNJVVN0S3hOQTFkSjA2ZjBVUnhGZGVpc1hFSFB4OHNrTzJhZVEtaFE?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdlpLOUNOaTN5R3ZuTTdYS0x1cVA4UDYwTTc5QjlpU1d0eDRXbjJKcXBxYUdJNkNIYWk1RjBTbkY1cjZtSzVheGRhRDRCTG1nMENxMjVTb2d1LURFdDIteDBmVUNaV3JrbDBpMEJjQUdUMUNDdVl3dHBuYWNoMjZ6VlBVZkFsUmpOWms2dG10eDRvQnNpZW11bGVxTzRXb2U1d19SUGNwcVZCRHozdmVjUDV3UVhVRGQ4bEFCaTJiSDJfcHcxaGZVQnVRSHdxXzE4Wm5RalRaUXF1X0k?oc=5": "2026-11-21",
@@ -2100,6 +2103,7 @@
   "u:https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFo1VHBsOENwX0hKeS1FZjZhckx1NG9GeHhPSkd3bm9QUjZjWXE3Y3FoeFV0MWxJWmlsVzhPdFEwaE11ekotWl8zNTNjeWVFZGI3TXBUNmF4M0pGclVZelRBaFQ3XzQ5MlBDdVpFV3Q2LXhOdEd1akZpd0V0c3BqV1BkYldTNU55NUFvcEJQTDVmSVotMmdjVS11VUI0VHNTNTV4MnFmMk9PSmg2MURNVkhPYndLb1VWUVhCZ3ZaMDkxUHlFN2wtWU5yY2UyUnZnOG1jMkktQlgwNkFIMm00NUhXQkFwakV3bklRN3psMXA?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdFBJMkRIQTBtMFhCUGFDMXVOLWFjalhzc2N6dHVQR1p6VF93SFlNajZDYTdCU2F6VlVCQzdfU0JQeGFpWjQ4XzEtMF9uLWZSYmxHNlROLUxWYTNCTzltQ1RNT0tkbG9pX0lGMWJnSF9wQUpZM1k3X1BIejNSU1ltQ09VY0g4Y0FRTTc0LUxhMjBjRW10OVE3SE81eUs0V200WDkwRlZ5ZHByNE1LOHlCZXRST05rUkRwMFR2UzhoTkFQYjk4NXRHcnZpT1BjRTBCdTFmLUx6Mmc2VVNSMElIVDNJUjZQN3Y2OGRJQlNJNGs?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdjNyQi10eFppWEhYVEhCVnhJRGRqSHljT19neTV6UUpyYVQ1VHZXdVQ5eDdpOWthRUEyUFByX0JLb3V1a2hyeklfbjdzbTVTQ092NDlvOU9Vekd4dGZsY2lxUjdBTExjRl9EWEJBRUZfeU95ektmMGRMOTBRaVdzdUhPZ1VzMlVyMFpGbHJzVEJJMW5KelNrcngyS2dKc3BLa3AxOG9nRHFpVEhZZUk4M3BVaEFFaGxhNE1kNDFqekYtY1Zkc2t6WlV2aGNNblpuX1Eyc2w2T1R5QW1NakloOEwwMl81dWN0RTZtOGtwV2NrQQ?oc=5": "2026-11-21",
+  "u:https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRTFMX3BzVnlZbkZyOTVqazhMd1JXckdBOFRyQ2VXd2NpdFYtY0pTamwzNnRCNU1XVnlITHFYcWpBaFVNQkFONURMR3NOYWRsNkxYTk1DS1d3TmZpQzJaRlVYYWJYWWxDbXNUYVExazVISDl2MXE2b1ZrbjJWTkJZbXJldkltNlVqQTl5QzFuVGZkUWFnb0pNeTBkMG9tcnNXbzJOQmVxRzM4TXJWWGRiLTFodnlWS0g0ZHNRMXNOaTExdExXZEs5R1BXb0NGZGh3clRVdWJyRlhhdW42ME5jNnF2X1lRU2hHYkdEYnVfTC1iNGV6?oc=5": "2026-11-24",
   "u:https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV3ZUTFVLeXdGMXg2Yk9HVzVER2Y4NjAxenBVQVRLc0RQVWJ3MUFqUm5EZVJhM2JMTm5YYTVRd0h5ZjN0QmRBc2J3djNublg5RjlULUZETjFUTGJWNE0zV1N2OFQ0YlRCLUMtcThNSXo5VGpKTDA1VlNVeG51aWxQaHFlQVZQQjlYVHhxaV9IYTN6b0VHdURRYmZPdDAySzdkY0hkT3ctWkNXODQtY21EOTVKLWRJcFhQcEZPUHhfODRMVi02LXV3UEdHVlJPcDNkX3pSaHhwZTlaM0hMeWMyOWx0WS1vMDBib1hzZWlLTWV6MWdSemc?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UOEp6RnB3UE9QVUo0NzhMQW1XRzJVWjdWNkFORU1kXzJEUmZ1SnZfWGVRSTNBVnVVVlpBUnh1TnktTkkzUGVQTA?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTWFhZSmg0d1haMnh1bzMtUEhBVVJ3RDFlWVlEZzJTbUVXdFBpcXAxYzljcENqa1djcmVCdEw5NERoX0dDOVZKODg1NWVuNVc5dXdhMmF2QQ?oc=5": "2026-11-23",
