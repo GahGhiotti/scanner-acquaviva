@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-24T02:01:50+00:00",
-  "fonte:San Marino RTV": "2026-11-24T04:01:30+00:00",
-  "fonte:GiornaleSM": "2026-11-24T04:01:30+00:00",
-  "fonte:Insider": "2026-11-24T04:01:32+00:00",
-  "fonte:Libertas": "2026-11-24T04:01:33+00:00",
-  "fonte:Google News": "2026-11-24T04:01:35+00:00",
+  "fonte:San Marino RTV": "2026-11-24T04:50:57+00:00",
+  "fonte:GiornaleSM": "2026-11-24T04:50:57+00:00",
+  "fonte:Insider": "2026-11-24T04:50:59+00:00",
+  "fonte:Libertas": "2026-11-24T04:50:59+00:00",
+  "fonte:Google News": "2026-11-24T04:51:00+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-24T02:01:50+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-24T04:01:37+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-24T04:51:02+00:00"
  },
  "pubblicati": [
   {
@@ -438,6 +438,7 @@
   "t:da nuove idee nuove imprese alle partnership con i grandi gruppi industriali 25 anni di startup che crescono e attraggono investimenti e riconoscimenti": "2026-11-20",
   "t:dagli sbuffi all entusiasmo di don luca bernardi": "2026-11-23",
   "t:dal 22 novembre a gennaio il cartellone votes for women a santarcangelo spettacoli proiezioni e iniziative contro la violenza sulle donne": "2026-11-21",
+  "t:dalla cop31 ai veti dell onu perche san marino si accontenta della vetrina invece di guidare la rivolta contro i carrozzoni internazionali di enrico lazzari": "2026-11-24",
   "t:dalla riviera al successo internazionale nella ristorazione il 26 dicembre a riccione il debutto di generazione under 35": "2026-11-21",
   "t:dalla telefonata al lavoro finito come lavora il passepartout": "2026-11-23",
   "t:dalla tradizione al futuro la s u m s accompagna i giovani sammarinesi in visita al padiglione nazionale della repubblica di san mariino alla 61 biennale d arte di venezia": "2026-11-21",
@@ -1440,6 +1441,7 @@
   "t:san marino l accordo con l ue alla ratifica beccari il diritto a essere considerati alla pari dei cittadini e delle imprese europee": "2026-11-23",
   "t:san marino l accordo con l ue arriva in consiglio per la ratifica ecco il testo che sara discusso": "2026-11-20",
   "t:san marino l approfondimento cronaca un anno e mezzo inflitto a steven james dagli abusi su quattro bambini al caso del lavoro negli asili nido dal serenissima sera": "2026-11-23",
+  "t:san marino l ipocondriaco del terzo millennio e il costo della sanita pretese e conti non coincidono di ruggero ii": "2026-11-24",
   "t:san marino l opposizione assetata di polemiche e l acqua che bevitori ha finalmente portato a casa e nelle fabbriche": "2026-11-21",
   "t:san marino l universita degli studi della repubblica di san marino e l istituto per la sicurezza sociale avviano il corso di alta formazione pediatrica": "2026-11-21",
   "t:san marino la gendarmeria interviene nel garage dei pitoni ad acquaviva": "2026-11-21",
@@ -1764,6 +1766,7 @@
   "u:https://giornalesm.com/cronaca-santa-sofia-lite-in-casa-degenera-in-aggressione-con-un-coltello-da-cucina-arrestato-un-46enne-per-tentato-femminicidio/": "2026-11-23",
   "u:https://giornalesm.com/cronaca-santarcangelo-tenta-di-rubare-uno-scooter-arrestato-18enne/": "2026-11-23",
   "u:https://giornalesm.com/dal-22-novembre-a-gennaio-il-cartellone-votes-for-women-a-santarcangelo-spettacoli-proiezioni-e-iniziative-contro-la-violenza-sulle-donne/": "2026-11-21",
+  "u:https://giornalesm.com/dalla-cop31-ai-veti-dellonu-perche-san-marino-si-accontenta-della-vetrina-invece-di-guidare-la-rivolta-contro-i-carrozzoni-internazionali-di-enrico-lazzari/": "2026-11-24",
   "u:https://giornalesm.com/dalla-riviera-al-successo-internazionale-nella-ristorazione-il-26-dicembre-a-riccione-il-debutto-di-generazione-under-35/": "2026-11-21",
   "u:https://giornalesm.com/dalla-telefonata-al-lavoro-finito-come-lavora-il-passepartout/": "2026-11-23",
   "u:https://giornalesm.com/domenica-22-novembre-2026-mondaino-ospita-fossa-tartufo-venere-mostra-mercato-del-tartufo-bianco-apertura-delle-fosse-musica-mostre-e-visite-ai-musei/": "2026-11-22",
@@ -1846,6 +1849,7 @@
   "u:https://giornalesm.com/san-marino-lapprofondimento-cronaca-un-anno-e-mezzo-inflitto-a-steven-james-dagli-abusi-su-quattro-bambini-al-caso-del-lavoro-negli-asili-nido-dal-serenissima-sera/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-le-condanne-per-il-caso-banca-cis-e-le-ombre-sul-presente-il-duro-atto-daccusa-di-emanuele-santi-rete-in-aula/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-libera-acqua-la-politica-degli-slogan-non-disseta-il-paese/": "2026-11-20",
+  "u:https://giornalesm.com/san-marino-lipocondriaco-del-terzo-millennio-e-il-costo-della-sanita-pretese-e-conti-non-coincidono/": "2026-11-24",
   "u:https://giornalesm.com/san-marino-lopposizione-assetata-di-polemiche-e-lacqua-che-bevitori-ha-finalmente-portato-a-casa-e-nelle-fabbriche/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-lunedi-23-novembre-firma-del-protocollo-dintesa-tra-aass-e-acea/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-luniversita-degli-studi-della-repubblica-di-san-marino-e-listituto-per-la-sicurezza-sociale-avviano-il-corso-di-alta-formazione-pediatrica/": "2026-11-21",
