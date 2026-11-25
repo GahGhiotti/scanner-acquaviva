@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-25T19:59:40+00:00",
-  "fonte:San Marino RTV": "2026-11-25T22:01:15+00:00",
-  "fonte:GiornaleSM": "2026-11-25T22:01:16+00:00",
-  "fonte:Insider": "2026-11-25T22:01:17+00:00",
-  "fonte:Libertas": "2026-11-25T22:01:18+00:00",
-  "fonte:Google News": "2026-11-25T22:01:19+00:00",
+  "fonte:San Marino RTV": "2026-11-25T23:01:17+00:00",
+  "fonte:GiornaleSM": "2026-11-25T23:01:17+00:00",
+  "fonte:Insider": "2026-11-25T23:01:18+00:00",
+  "fonte:Libertas": "2026-11-25T23:01:19+00:00",
+  "fonte:Google News": "2026-11-25T23:01:20+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-25T19:59:40+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-25T22:01:20+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-25T23:01:22+00:00"
  },
  "pubblicati": [
   {
@@ -118,7 +118,16 @@
    ]
   }
  ],
- "in_attesa": [],
+ "in_attesa": [
+  {
+   "titolo": "Coppa Titano: ok Tre Penne e Virtus, Domagnano-Tre Fiori sospesa per nebbia",
+   "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/coppa-titano-ok-tre-penne-e-virtus-domagnano-tre-fiori-sospesa-per-nebbia-a299031",
+   "fonte": "San Marino RTV",
+   "nome_fonte_config": "San Marino RTV",
+   "parola": "virtus",
+   "etichette": "Calcio Samm. lo 0-0 tra La Fiorita e Cosmos è l'unico pari dell'andata dei quarti: Città e Acquaviva di misura su Pennarossa e Folgore, a Domagnano si chiude al 29° sull'1-0 per i giallorossi."
+  }
+ ],
  "visti": {
   "t:1 trofeo internazionale montecerreto san marino capitale internazionale della raffa": "2026-11-22",
   "t:1848 2026 i capifamiglia l europa ha nuovamente bisogno della primavera dei popoli": "2026-11-23",
@@ -434,6 +443,7 @@
   "t:coppa italia ad acquaviva la sfida con il verona": "2026-11-21",
   "t:coppa italia la sampdoria vince 3 a 0 ad acquaviva": "2026-11-20",
   "t:coppa titano folgore virtus accende i quarti di finale": "2026-11-25",
+  "t:coppa titano ok tre penne e virtus domagnano tre fiori sospesa per nebbia": "2026-11-25",
   "t:coppa titano semifinali di andata ad acquaviva": "2026-11-24",
   "t:coppa titano una bella sfida tra virtus e tre fiori finisce solo 0 0": "2026-11-23",
   "t:cordoglio per la scomparsa di corrado augias il ricordo del segretario di stato per il turismo e l informazione federico pedini amati": "2026-11-20",
@@ -3805,6 +3815,7 @@
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/boccucci-la-nazionale-ha-bisogno-di-step-di-crescita-san-marino-calcio-una-fine-annunciata-a298658": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/calcio-femminile-le-convocate-del-liechtenstein-per-l-amichevole-di-san-marino-a299013": "2026-11-25",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/cevoli-troppe-ingenuita-ma-la-squadra-e-cresciuta-molto-e-puo-diventare-davvero-forte-a298559": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/coppa-titano-ok-tre-penne-e-virtus-domagnano-tre-fiori-sospesa-per-nebbia-a299031": "2026-11-25",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/finlandia-san-marino-7-2-storica-doppietta-di-nanni-a298555": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/futsal-i-risulti-della-decima-giornata-a298700": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/futsal-pari-nel-posticipo-della-decima-giornata-a298803": "2026-11-20",
