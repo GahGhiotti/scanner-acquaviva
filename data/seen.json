@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-25T19:59:40+00:00",
-  "fonte:San Marino RTV": "2026-11-25T23:01:17+00:00",
-  "fonte:GiornaleSM": "2026-11-25T23:01:17+00:00",
-  "fonte:Insider": "2026-11-25T23:01:18+00:00",
-  "fonte:Libertas": "2026-11-25T23:01:19+00:00",
-  "fonte:Google News": "2026-11-25T23:01:20+00:00",
+  "fonte:San Marino RTV": "2026-11-26T00:01:20+00:00",
+  "fonte:GiornaleSM": "2026-11-26T00:01:20+00:00",
+  "fonte:Insider": "2026-11-26T00:01:21+00:00",
+  "fonte:Libertas": "2026-11-26T00:01:22+00:00",
+  "fonte:Google News": "2026-11-26T00:01:24+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-25T19:59:40+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-25T23:01:22+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-26T00:01:26+00:00"
  },
  "pubblicati": [
   {
@@ -126,6 +126,14 @@
    "nome_fonte_config": "San Marino RTV",
    "parola": "virtus",
    "etichette": "Calcio Samm. lo 0-0 tra La Fiorita e Cosmos è l'unico pari dell'andata dei quarti: Città e Acquaviva di misura su Pennarossa e Folgore, a Domagnano si chiude al 29° sull'1-0 per i giallorossi."
+  },
+  {
+   "titolo": "Quarti Coppa Titano, scialbo 0-0 tra La Fiorita e Cosmos",
+   "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/quarti-coppa-titano-scialbo-0-0-tra-la-fiorita-e-cosmos-a299032",
+   "fonte": "San Marino RTV",
+   "nome_fonte_config": "San Marino RTV",
+   "parola": "virtus",
+   "etichette": "Calcio Samm. Poche emozioni a Dogana, il meglio sono la traversa di Ulloa e il salvataggio sulla linea di Matteoni."
   }
  ],
  "visti": {
@@ -160,6 +168,7 @@
   "t:aass e acea firmano un protocollo d intesa per raggiungere la sovranita ambientale": "2026-11-23",
   "t:abusi sui minori la relazione ancora in fondo ma ci prendiamo in giro": "2026-11-21",
   "t:abusi sui minori nuova condanna ma in consiglio la relazione resta in coda basta rinvii servono fatti": "2026-11-21",
+  "t:ac libertas virtus acquaviva risultati in diretta e h2h": "2026-11-26",
   "t:acciacchi da pensionati di ranfo": "2026-11-20",
   "t:accordo con l ue belluzzi la pubblica amministrazione e pronta": "2026-11-24",
   "t:accordo con l ue berti ar al governo in quest aula arrivi un piano di attuazione con priorita scadenze responsabilita e una stima delle risorse necessarie": "2026-11-23",
@@ -1400,6 +1409,7 @@
   "t:psd dalla ratifica all accordo ue ad un nuovo progetto di paese san marino": "2026-11-25",
   "t:psd dalla ratifica dell accordo ue a un nuovo progetto di paese": "2026-11-25",
   "t:quanto costa dire basta a una molestia sul lavoro di giulia muratori": "2026-11-23",
+  "t:quarti coppa titano scialbo 0 0 tra la fiorita e cosmos": "2026-11-26",
   "t:quattro stagioni a rischio chiusura c e mercato ma ci serve aiuto": "2026-11-21",
   "t:questa sera la finale di coppa titano tra virtus e tre fiori le sensazioni di prandelli e sabato": "2026-11-25",
   "t:questo natale scegli la solidarieta con aslem san marino": "2026-11-25",
@@ -1740,6 +1750,7 @@
   "t:san marino usl i bambini sono i fiori piu belli domenica 22 vi aspettiamo in galleria carisp": "2026-11-22",
   "t:san marino verso l unione europea il confronto prosegue ad acquaviva": "2026-11-20",
   "t:san marino verso la ratifica dell accordo di associazione con l ue": "2026-11-23",
+  "t:san marino via libera alla legge contro violenze e molestie sul lavoro": "2026-11-26",
   "t:san marino violenza sulle donne dagli avvocati assistenza legale gratuita alle vittime": "2026-11-24",
   "t:san marino violenza sulle donne la gelosia non e una prova d amore il controllo non e protezione": "2026-11-25",
   "t:san marino violenza sulle donne repubblica futura serve una vera cultura della liberta": "2026-11-25",
@@ -2442,6 +2453,7 @@
   "u:https://insider.sm/san-marino-ultima-apertura-per-la-collettiva-del-villino-bonelli/": "2026-11-21",
   "u:https://insider.sm/san-marino-universita-e-sindacati-insieme-contro-la-violenza-sul-lavoro/": "2026-11-22",
   "u:https://insider.sm/san-marino-verso-la-ratifica-dellaccordo-di-associazione-con-lue/": "2026-11-23",
+  "u:https://insider.sm/san-marino-via-libera-alla-legge-contro-violenze-e-molestie-sul-lavoro/": "2026-11-26",
   "u:https://insider.sm/san-marino-violenza-sulle-donne-dagli-avvocati-assistenza-legale-gratuita-alle-vittime/": "2026-11-24",
   "u:https://insider.sm/san-marino-violenza-sulle-donne-la-gelosia-non-e-una-prova-damore-il-controllo-non-e-protezione/": "2026-11-25",
   "u:https://insider.sm/san-marino-violenza-sulle-donne-repubblica-futura-serve-una-vera-cultura-della-liberta/": "2026-11-25",
@@ -2610,6 +2622,7 @@
   "u:https://news.google.com/rss/articles/CBMihAJBVV95cUxPTy1uUm1FM0EyVER0ZHF2X1Q5UW5jZ21xRXVLUldnQllvQjVTWkJlLThqcUJ1STJJcGJCdFlGdEhjRm11REV4YW9yTTlITGwyT1BiejBHUmtsWHdSMmQ4SUcwWUs2TDJ0Z3NhU0dhVlRwbDFvcy1jOXNXZHo5dV9HNEk4ZnY2alVmVmc5NUJtdjVPTXQ2dFhTUnFyNFYyTVRoeEgwYUh2SmZUbmJWaUFTYTRqYlBfcEFsTEpGWkNqOS16YlBzRUxxLTdrSk1pUGRhYXh4MlBlSVdjMG1NalA2cHNnc0hIbVo0WDQ0WVhsZnlXUzY3UF8xLVVPdVZ4a0pscVl6eQ?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMihgFBVV95cUxNVHVMeGZCZFlLa2QyaVJJTUhrcUpYUzkxZXpwVndyNUN4N0hueU9RVDNFM2RUUWQ5eFNhS1VQQmxiZDdLQmpaUkc2UjVzbUthbU5zSjFwRFFsVmRTbFVCamVyQzhMNHNrZUNtVXpKbHlicElqdWhSOGwzRVE1LXUzWkZFMU9mZw?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMihwFBVV95cUxPNG4teXlZYm9Jc3JTekI1eURDZVJmanZzQXdhMXprSWxEel9mVHQ0R1FERXp5bUJ0ZHo5OURKWENIYTZ2NDdkVWVBSzBYeWprOThiclZuV2RtMVNFNEVLa0dDcFdQMW5WRmViUVR2TlE4R01XalRNNXV0bjlBZDVzYmc2ZWtzNFE?oc=5": "2026-11-22",
+  "u:https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEExZGFEQTdqSnhiOXNsUEtoS0dDbWFwQmdYbGc4MklmbkZicE9BdjhwVUJxOUtaUVVSS0xiaUJPRjhUVjJxQzJpVk9MTkF5Nkh4eEFPQXluRGZfYzN2Tm9RWEpNMTRla19oUmhhUmU5YkZsT0QwU1AtS1JoTklBWThyanZNSUU?oc=5": "2026-11-26",
   "u:https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFp3VUwxeUszRGd1bEwwU1ZOMWJueXFMNzhRV3YwdWNsZVZQdmIta3NGekp5cVB4RklRQVI0TENzRUt2X2JxMWktZ0tFck4xbEZUNXJsRkJqSU9uNnpLbVloekRXWU1HMFVrdmZ4S2lSWC1TRXNPOVdLTTJIc3Q0eFY1bWFrS2NNOHVuQTFTUXFObGY5Rnp3dXRyei1TejhUSXZzeS1iMnZHcVYzbm93bkMySGdFYjNlUktoNXJ1WlpJUUN2WmJjcTQ4dnEyWnVhZVFrbmp1MGJQLUVVanl3Qk9QaG5nRDFtVWIzVEVsRGFFUTVTNnpGRTZxM2s3Njl2RFl5X0JaNA?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlRjZkc0cVVsSDdoWlU0RW5tZGNfc0NDWTFxY29IOU0xajJVYl90V2piVEVtNHAyZE1oUVpyQXppUnplMncxNFZ0aDlQNGRQQWIzS2FhWnd0a3BDNTkwSklDNXR0bTdoNlpnWmo1eTVOY3IxTm9Zd01wVUk5d1ppT1RKd1BWNzN0?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWxDZ0o2V0ozR3BqUUxIa1hValZjcEFvYmNMbW4wX3J6QnV5aEhJSmRIQTN5TVJCVElTVXBNckZ5WUdZNUkzSVRuUU9nZF94eWpzYVhfdUxnNlRCNlA5Ym9laG5NTDk3SDBzbGNlV1FucExHN0o5aERiUzgtM0hfekRMSklRN3RT?oc=5": "2026-11-20",
@@ -3833,6 +3846,7 @@
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nazionale-un-2026-con-una-doppietta-storica-e-un-impresa-sfiorata-a-tirana-a298643": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nazionali-giovanili-il-2026-regala-speranze-per-il-futuro-del-calcio-sammarinese-a298684": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/pohjanpalo-san-marino-ha-giocato-molto-bene-a-inizio-secondo-tempo-a298561": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/quarti-coppa-titano-scialbo-0-0-tra-la-fiorita-e-cosmos-a299032": "2026-11-26",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/san-marino-academy-battuta-a-brescia-le-titane-cedono-2-0-a298897": "2026-11-23",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/san-marino-grassroots-league-la-prima-edizione-e-dei-tigers-a298918": "2026-11-23",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/san-marino-in-quarta-fascia-nelle-qualificazioni-a-euro-2028-e-dalla-prossima-edizione-cambia-la-nations-league-a298801": "2026-11-20",
