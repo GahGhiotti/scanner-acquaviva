@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-25T19:59:40+00:00",
-  "fonte:San Marino RTV": "2026-11-26T05:01:19+00:00",
-  "fonte:GiornaleSM": "2026-11-26T05:01:19+00:00",
-  "fonte:Insider": "2026-11-26T05:01:20+00:00",
-  "fonte:Libertas": "2026-11-26T05:01:21+00:00",
-  "fonte:Google News": "2026-11-26T05:01:22+00:00",
+  "fonte:San Marino RTV": "2026-11-26T06:01:37+00:00",
+  "fonte:GiornaleSM": "2026-11-26T06:01:37+00:00",
+  "fonte:Insider": "2026-11-26T06:01:38+00:00",
+  "fonte:Libertas": "2026-11-26T06:01:39+00:00",
+  "fonte:Google News": "2026-11-26T06:01:40+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-25T19:59:40+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-26T05:01:24+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-26T06:02:01+00:00"
  },
  "pubblicati": [
   {
@@ -116,26 +116,37 @@
      "etichette": "Calcio Samm. "
     }
    ]
-  }
- ],
- "in_attesa": [
-  {
-   "titolo": "Coppa Titano: ok Tre Penne e Virtus, Domagnano-Tre Fiori sospesa per nebbia",
-   "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/coppa-titano-ok-tre-penne-e-virtus-domagnano-tre-fiori-sospesa-per-nebbia-a299031",
-   "fonte": "San Marino RTV",
-   "nome_fonte_config": "San Marino RTV",
-   "parola": "virtus",
-   "etichette": "Calcio Samm. lo 0-0 tra La Fiorita e Cosmos è l'unico pari dell'andata dei quarti: Città e Acquaviva di misura su Pennarossa e Folgore, a Domagnano si chiude al 29° sull'1-0 per i giallorossi."
   },
   {
-   "titolo": "Quarti Coppa Titano, scialbo 0-0 tra La Fiorita e Cosmos",
-   "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/quarti-coppa-titano-scialbo-0-0-tra-la-fiorita-e-cosmos-a299032",
-   "fonte": "San Marino RTV",
-   "nome_fonte_config": "San Marino RTV",
-   "parola": "virtus",
-   "etichette": "Calcio Samm. Poche emozioni a Dogana, il meglio sono la traversa di Ulloa e il salvataggio sulla linea di Matteoni."
+   "id": 29,
+   "data": "2026-11-26T06:02:02+00:00",
+   "articoli": [
+    {
+     "titolo": "Coppa Titano: ok Tre Penne e Virtus, Domagnano-Tre Fiori sospesa per nebbia",
+     "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/coppa-titano-ok-tre-penne-e-virtus-domagnano-tre-fiori-sospesa-per-nebbia-a299031",
+     "fonte": "San Marino RTV",
+     "nome_fonte_config": "San Marino RTV",
+     "parola": "virtus",
+     "etichette": "Calcio Samm. lo 0-0 tra La Fiorita e Cosmos è l'unico pari dell'andata dei quarti: Città e Acquaviva di misura su Pennarossa e Folgore, a Domagnano si chiude al 29° sull'1-0 per i giallorossi."
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "data": "2026-11-26T06:02:02+00:00",
+   "articoli": [
+    {
+     "titolo": "Quarti Coppa Titano, scialbo 0-0 tra La Fiorita e Cosmos",
+     "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/quarti-coppa-titano-scialbo-0-0-tra-la-fiorita-e-cosmos-a299032",
+     "fonte": "San Marino RTV",
+     "nome_fonte_config": "San Marino RTV",
+     "parola": "virtus",
+     "etichette": "Calcio Samm. Poche emozioni a Dogana, il meglio sono la traversa di Ulloa e il salvataggio sulla linea di Matteoni."
+    }
+   ]
   }
  ],
+ "in_attesa": [],
  "visti": {
   "t:1 trofeo internazionale montecerreto san marino capitale internazionale della raffa": "2026-11-22",
   "t:1848 2026 i capifamiglia l europa ha nuovamente bisogno della primavera dei popoli": "2026-11-23",
@@ -1013,6 +1024,7 @@
   "t:nuova vita per l ecomostro di acquaviva": "2026-11-20",
   "t:nuove idee nuove imprese 25 anni di startup cresciute fino ad attrarre investimenti": "2026-11-20",
   "t:nuovi alberi a montecerreto li piantano i bambini delle elementari": "2026-11-22",
+  "t:nuovo arrivo bmw x3 20d xdrive m sport da easyclass": "2026-11-26",
   "t:nuovo confine a gualdicciolo le precisazioni di civico 10": "2026-11-24",
   "t:nuovo portale gualdicciolo san marino picture gallery 1": "2026-11-22",
   "t:nuovo portale gualdicciolo san marino picture gallery 2": "2026-11-22",
@@ -1656,6 +1668,7 @@
   "t:san marino la lettera delle operatrici della ludoteca di acquaviva": "2026-11-20",
   "t:san marino la ludoteca di acquaviva presenta bandiere in gioco in occasione della sesta edizione di un monte di libri": "2026-11-21",
   "t:san marino la prima pagina de la serenissima": "2026-11-21",
+  "t:san marino la prima pagina del sera": "2026-11-26",
   "t:san marino la ratifica dell accordo con l ue arriva in aula in futuro ci ricorderemo di questo giorno": "2026-11-23",
   "t:san marino la riforma dello sport in prima lettura in consiglio": "2026-11-21",
   "t:san marino la scuola superiore apre le porte a studenti e famiglie tre open day per scegliere il futuro": "2026-11-22",
@@ -2117,6 +2130,7 @@
   "u:https://giornalesm.com/natale-2026-catalogo-dei-prodotti-delle-monache-delladorazione-perpetua-di-pietrarubbia-e-san-marino/": "2026-11-23",
   "u:https://giornalesm.com/nt-capital-sg-%c2%b7-finanza-semplice-cose-un-fondo-comune-dinvestimento/": "2026-11-24",
   "u:https://giornalesm.com/nuova-rubrica-tutta-la-cronaca-di-oggi-in-un-solo-articolo-guarda-cosa-e-successo/": "2026-11-21",
+  "u:https://giornalesm.com/nuovo-arrivo-bmw-x3-20d-xdrive-m-sport-da-easyclass/": "2026-11-26",
   "u:https://giornalesm.com/omicidio-willy-monteiro-duarte-definitivo-lergastolo-anche-per-gabriele-bianchi-la-cassazione-rigetta-il-ricorso-della-difesa/": "2026-11-21",
   "u:https://giornalesm.com/palazzo-del-turismo-e-rotatorie-in-arancione-il-25-novembre-riccione-aderisce-alla-campagna-onu-orange-the-world-contro-la-violenza-di-genere/": "2026-11-21",
   "u:https://giornalesm.com/parco-mani-fiorite-in-via-nicolodi-degrado-disordine-e-mancanza-di-controlli/": "2026-11-23",
@@ -2195,6 +2209,7 @@
   "u:https://giornalesm.com/san-marino-la-juvenes-dogana-prepara-la-sfida-contro-il-murata/": "2026-11-25",
   "u:https://giornalesm.com/san-marino-la-juvenes-dogana-si-ferma-davanti-al-tre-fiori-ma-con-grande-onore/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-la-prima-pagina-de-la-serenissima-904/": "2026-11-21",
+  "u:https://giornalesm.com/san-marino-la-prima-pagina-del-sera-10/": "2026-11-26",
   "u:https://giornalesm.com/san-marino-la-solidarieta-della-colletta-alimentare-e-le-sentenze-su-banca-cis-e-giustizia-lintervento-di-maria-adele-selva-in-consiglio-grande-e-generale/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-la-vignetta-del-giorno-dal-serenissima-sera-12/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-lapprofondimento-cronaca-un-anno-e-mezzo-inflitto-a-steven-james-dagli-abusi-su-quattro-bambini-al-caso-del-lavoro-negli-asili-nido-dal-serenissima-sera/": "2026-11-23",
