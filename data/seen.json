@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-25T19:59:40+00:00",
-  "fonte:San Marino RTV": "2026-11-26T12:50:23+00:00",
-  "fonte:GiornaleSM": "2026-11-26T12:50:24+00:00",
-  "fonte:Insider": "2026-11-26T12:50:25+00:00",
-  "fonte:Libertas": "2026-11-26T12:50:26+00:00",
-  "fonte:Google News": "2026-11-26T12:50:28+00:00",
+  "fonte:San Marino RTV": "2026-11-26T13:01:25+00:00",
+  "fonte:GiornaleSM": "2026-11-26T13:01:26+00:00",
+  "fonte:Insider": "2026-11-26T13:01:27+00:00",
+  "fonte:Libertas": "2026-11-26T13:01:28+00:00",
+  "fonte:Google News": "2026-11-26T13:01:29+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-25T19:59:40+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-26T12:50:30+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-26T13:01:31+00:00"
  },
  "pubblicati": [
   {
@@ -343,6 +343,7 @@
   "t:banca cis processo associazione a delinquere 8 condanne e 5 assoluzioni": "2026-11-20",
   "t:banca di san marino nuovi investitori interessati alla quota di maggioranza": "2026-11-20",
   "t:banca di san marino riattiva il cantiere del condominio acquavita": "2026-11-21",
+  "t:banche sammarinesi passaporto europeo entro cinque sette anni gatti nuovi capitali per accelerare i tempi": "2026-11-26",
   "t:basket pallacanestro titano sconfitta dalla sg fortitudo finisce 60 83 rinaldi segna 23 punti": "2026-11-20",
   "t:beach park lo scontro salvezza e tuo battuto 3 1 il volley castello": "2026-11-20",
   "t:beccari a dublino per il summit della comunita politica europea": "2026-11-20",
@@ -1535,6 +1536,7 @@
   "t:rimini madre 81enne picchiata e fatta cadere dalle scale arrestato il figlio": "2026-11-24",
   "t:rimini notte di tensione in centro storico tra rissa in piazza malatesta e tentata spaccata al nuovo caffe turismo": "2026-11-23",
   "t:rimini padulli galli futuro nazionale da anni i cittadini chiedono risposte": "2026-11-23",
+  "t:rimini passano con il semaforo rosso quasi 6 500 automobilisti multati in undici mesi": "2026-11-26",
   "t:rimini perde il controllo della moto ferito 20enne": "2026-11-25",
   "t:rimini perseguita e minaccia l ex compagno condannata a 9 mesi una 46enne": "2026-11-20",
   "t:rimini picchia la madre invalida 50enne in carcere": "2026-11-25",
@@ -2431,6 +2433,7 @@
   "u:https://insider.sm/atletica-san-marino-prepara-il-2027-con-26-atleti-in-raduno-ad-ancona/": "2026-11-20",
   "u:https://insider.sm/attacco-hacker-ai-sistemi-della-cia-e-dellintelligence-americana/": "2026-11-26",
   "u:https://insider.sm/aviosuperficie-di-torraccia-a-domagnano-un-confronto-pubblico-sul-futuro-della-pista/": "2026-11-22",
+  "u:https://insider.sm/banche-sammarinesi-passaporto-europeo-entro-cinque-sette-anni-gatti-nuovi-capitali-per-accelerare-i-tempi/": "2026-11-26",
   "u:https://insider.sm/bevitori-la-dignita-del-lavoro-si-misura-anche-dalla-possibilita-di-svolgerlo-senza-paura-ricatti-o-sopraffazioni/": "2026-11-26",
   "u:https://insider.sm/bianco-marino-il-pecorino-dolce-della-fabbrica-sammarinese/": "2026-11-26",
   "u:https://insider.sm/bilancio-2027-per-la-commissione-ue-litalia-rispetta-i-limiti-di-spesa/": "2026-11-25",
@@ -2542,6 +2545,7 @@
   "u:https://insider.sm/rimini-coltello-alla-gola-della-fidanzata-divieto-di-avvicinamento-per-un-20enne/": "2026-11-21",
   "u:https://insider.sm/rimini-furto-in-una-profumeria-alle-befane/": "2026-11-21",
   "u:https://insider.sm/rimini-il-consiglio-vota-lo-stop-ai-gadget-che-celebrano-i-regimi-totalitari/": "2026-11-22",
+  "u:https://insider.sm/rimini-passano-con-il-semaforo-rosso-quasi-6-500-automobilisti-multati-in-undici-mesi/": "2026-11-26",
   "u:https://insider.sm/rossi-psd-chiedere-scusa-non-e-mai-un-segno-di-debolezza-ma-e-un-segno-di-maturita/": "2026-11-26",
   "u:https://insider.sm/san-marino-178-candidati-al-test-per-la-cittadinanza/": "2026-11-23",
   "u:https://insider.sm/san-marino-academy-a-brescia-per-tornare-a-fare-punti/": "2026-11-21",
