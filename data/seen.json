@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-26T16:01:41+00:00",
-  "fonte:San Marino RTV": "2026-11-26T22:25:17+00:00",
-  "fonte:GiornaleSM": "2026-11-26T22:25:17+00:00",
-  "fonte:Insider": "2026-11-26T22:25:18+00:00",
-  "fonte:Libertas": "2026-11-26T22:25:19+00:00",
-  "fonte:Google News": "2026-11-26T22:25:20+00:00",
+  "fonte:San Marino RTV": "2026-11-26T23:01:19+00:00",
+  "fonte:GiornaleSM": "2026-11-26T23:01:19+00:00",
+  "fonte:Insider": "2026-11-26T23:01:20+00:00",
+  "fonte:Libertas": "2026-11-26T23:01:22+00:00",
+  "fonte:Google News": "2026-11-26T23:01:23+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-26T16:01:41+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-26T22:25:21+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-26T23:01:25+00:00"
  },
  "pubblicati": [
   {
@@ -218,7 +218,16 @@
    ]
   }
  ],
- "in_attesa": [],
+ "in_attesa": [
+  {
+   "titolo": "San Marino. Visita della Reggenza alle scuole di Chiesanuova e Acquaviva (photo gallery)",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFBuckNLN2JmMWZmMHFWNDVBT2xUa0E3N25aSXNab1M0V3Jxd09jOTFpS2RETS1lQ1FxSGpQUl9yWUxZbnZ4SWtTRENSSlVfbFhnazdLaWUzRHY5UHNDNGE2cmx3dHdyY3UzZmxvTEVnend4Nks0a3B0VkJ5bFlONHJBTjJ6ZVFUY21CWEw3ZXNIcEJ1dV91YWZiRW5LbF9uTTJzYjdPUTRRRm0xSnB6QWpQTkxvc1dNZlE1NnI5amhkQ1IyQlNJbmJyd29ncnVWTGZVZFdhMXBYZw?oc=5",
+   "fonte": "Tribuna Politica Web",
+   "nome_fonte_config": "Google News",
+   "parola": "acquaviva",
+   "etichette": " "
+  }
+ ],
  "visti": {
   "t:1 trofeo internazionale montecerreto san marino capitale internazionale della raffa": "2026-11-22",
   "t:1848 2026 i capifamiglia l europa ha nuovamente bisogno della primavera dei popoli": "2026-11-23",
@@ -1965,6 +1974,7 @@
   "t:san marino violenza sulle donne uds denuncia due casi chiediamo alle istituzioni verifiche immediate": "2026-11-25",
   "t:san marino violenze e molestie sul lavoro usl il sindacato ha uno strumento in piu per difendere le vittime": "2026-11-26",
   "t:san marino virtus acquaviva cena di natale e riconoscimenti": "2026-11-21",
+  "t:san marino visita della reggenza alle scuole di chiesanuova e acquaviva photo gallery": "2026-11-26",
   "t:san martini molto contenta sia dell esperienza che del risultato ai giochi giovanili": "2026-11-20",
   "t:santa maria dei servi l associazione emma rossi segnala il degrado del complesso monumentale": "2026-11-20",
   "t:santa mustiola furgone per la consegna del pane in fiamme all alba distrutto l abitacolo foto": "2026-11-20",
@@ -2848,6 +2858,7 @@
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ09mVVdteHdjanpOeWJRQ3pMd0ViN2J2X2FLbV9fVFJPSmd6RTNBYm5kcDJDdThRb1lSd1NwQXlMeG5NWWFTQjd2WFFORUFIUUZkRlU0N3VSZ0NKZnNra2VMdUdIT25ITG5RVk1XQmp3R1FJUDBqbjhlQno1aG52UmtXYlJkX3FTN2JKd2xhSG14dndYQWZ1Tk5LLUEwak5YVTFhOUFoWXB2TE5kSHRUcGlUalYwZWo5dXRRRXRlTU42QmJjVUFNTUo5VkVrNU5GbDdvaXA5ZVA5UQ?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxORlpOR0VBT1dwNFFpZGNzMUtPdVRmdC1rUDA4M0JYRUROMzM2SFVyMXJBbFJsZFB1MTlvTjR6RHV4WDhtQzIyMDVBRFBmdG02TDd2b1J0LXh4QkdGSElhOG5CMU1tekNRY1BrZy1hNzdNbDNMb0h3Q2lodERZZFdWdVFlYUtyR1NIMElLWG10UHRDT2ZqU1U3a0dSTGV4SXlnMGlxUk1LTWRvYlVmSDlJR2dYMEZ5NUJTY3N6SXVETDZjOUpoMEN2TTdmTFotRUFvMUY4RndoYk16UQ?oc=5": "2026-11-20",
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlRHbENHMUdHWmR2X3RGVkxDU091NVQ3MDdkblpObC1pNGFicXdKUXA1ZU0zc2hLTnpINWJ1eC1fNGxxSWpvOTFDMjBqZUlPdEw5R3FNRGs2UlFvd3E2a1JkVlJnTy1nbnBpSFMtZmZkRzY3RjJmWk10SWxnR1RTYW1Bck1LSzZwdF8zNW03U1FFSTdLbk1CdVNNMFo1dTJLUi0yMkJGVkpTdXM5MXhraDN1TnRPWkl5WTd2VVpDS3pQQ2t0U2ZHd2tkQ1F5d1ZteUZ6cWFkVGE1dw?oc=5": "2026-11-20",
+  "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFBuckNLN2JmMWZmMHFWNDVBT2xUa0E3N25aSXNab1M0V3Jxd09jOTFpS2RETS1lQ1FxSGpQUl9yWUxZbnZ4SWtTRENSSlVfbFhnazdLaWUzRHY5UHNDNGE2cmx3dHdyY3UzZmxvTEVnend4Nks0a3B0VkJ5bFlONHJBTjJ6ZVFUY21CWEw3ZXNIcEJ1dV91YWZiRW5LbF9uTTJzYjdPUTRRRm0xSnB6QWpQTkxvc1dNZlE1NnI5amhkQ1IyQlNJbmJyd29ncnVWTGZVZFdhMXBYZw?oc=5": "2026-11-26",
   "u:https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnhYa1ZvSXc1SGQ0VWRIVEMzRG9JaG1SNzlaQTdzVVhMX2RtdmI0UndsdzhsNExTVktmV1RSUnFJUGlicnQ2N2NVS1pJR2hSRjFBU216UjZYOGluZHNBTkpCdVJEc1l5M1hhTlJ0dDhIRXZMdzdIcDFuQjktNHdBOXpqQUVDMzhqQURRcXZTQ0s3a2JFWXNWaE5PLTg2d05DSzc0MW02N04yQk5tYy1oUlFKcDBhd2ZoVDZHWjJKQ1J3VGhTRWxhRHZDMU5aU041MHN5NVc5ZHN3QQ?oc=5": "2026-11-24",
   "u:https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNVhKeUtualpfUDUwaGJoWi1DVEJUa3Y3UFhDajEwZ1kwbVF5dHF4SmswMkFDUTk0ZTFoS1c2VE9fTWp6V25YOVJvaE1aMkV0cXBPeHNGYlg0bEkta0dqQ1FBdFduZGxUTUlGMjFoWmV3ZWpOMXhYQ290QTZlTXlNcW16WnhEYWRtYlNfUnExWTIxR1VIb3lkUWZ4LWgxODExdVcxWm5nV2VDZkdHY2lGYjBMSEg3XzJKRm5pcU9kb0Z3VWNZLWpwVEZRNXJnaFNUdnVMWWtkYWJwRG8?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXVydmJUSVVyNDBaSmwtNHpGOVBZcVcxVE81TVY5dU5xcTJIdThUR3lETTZDMEt4WHlUOTNVVkFsZEZXS1Z6clR2SEdZZUo1VUFxMU1zRjhqeHRGTXRqUUJRaTNDVUIyN0ZrSlZ0SG1sOGZJN3JXVmRGcUdOUk5qWjBZV2R6c2g4N1BMaGdPQnZDZkdXM3owN1V3c3hIbzM0aWF5OHN3TXM1NTBaQ2tRc3hmQ0pieG9DVnJmUUpqZGVWZzRzNlR0SzByYUlDR0JYUEF3VGxZT2NsTGs?oc=5": "2026-11-24",
