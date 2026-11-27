@@ -1,13 +1,13 @@
 {
  "inizializzata": true,
  "ultimo": {
-  "arengo": "2026-11-26T16:01:41+00:00",
-  "fonte:San Marino RTV": "2026-11-27T12:01:18+00:00",
-  "fonte:GiornaleSM": "2026-11-27T12:01:18+00:00",
-  "fonte:Insider": "2026-11-27T12:01:19+00:00",
-  "fonte:Libertas": "2026-11-27T12:01:20+00:00",
-  "fonte:Google News": "2026-11-27T12:01:21+00:00",
-  "fonte:Consiglio Grande e Generale": "2026-11-26T16:01:41+00:00",
+  "arengo": "2026-11-27T13:02:12+00:00",
+  "fonte:San Marino RTV": "2026-11-27T13:01:17+00:00",
+  "fonte:GiornaleSM": "2026-11-27T13:01:18+00:00",
+  "fonte:Insider": "2026-11-27T13:01:19+00:00",
+  "fonte:Libertas": "2026-11-27T13:01:20+00:00",
+  "fonte:Google News": "2026-11-27T13:01:21+00:00",
+  "fonte:Consiglio Grande e Generale": "2026-11-27T13:02:12+00:00",
   "fonte:Ordinanze Affari Interni": "2026-11-27T12:01:26+00:00"
  },
  "pubblicati": [
@@ -260,6 +260,48 @@
      "etichette": "AA homepage dx San Marino Sport 11ª giornata Belloni Campionato Sammarinese di futsal Dellamotta futsal San Marino Gamba Morganti Palazzetto di Acquaviva Tassitano Tre Penne virtus SAN MARINO – Il Tre Penne conquista il posticipo dell’11ª giornata del campionato sammarinese di futsal, superando la Virtus per L'articolo Futsal, il Tre Penne supera la Virtus nel finale e centra la sesta vittoria consecutiva proviene da libertas ."
     }
    ]
+  },
+  {
+   "id": 37,
+   "data": "2026-11-27T13:02:24+00:00",
+   "articoli": [
+    {
+     "titolo": "Cimiteri, prosegue nei Castelli il percorso di informazione e confronto con i cittadini: a dicembre quattro serate pubbliche",
+     "url": "https://www.sanmarinortv.sm/news/comunicati-c9/cimiteri-prosegue-nei-castelli-il-percorso-di-informazione-e-confronto-con-i-cittadini-a-dicembre-quattro-serate-pubbliche-a299099",
+     "fonte": "San Marino RTV",
+     "nome_fonte_config": "San Marino RTV",
+     "parola": "acquaviva",
+     "etichette": "Comunicati stampa "
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "data": "2026-11-27T13:02:24+00:00",
+   "articoli": [
+    {
+     "titolo": "Novità Smac dal primo gennaio, convegno a Domagnano per gli operatori economici: focus su app San Marino Pay",
+     "url": "https://www.sanmarinortv.sm/news/economia-c5/novita-smac-dal-primo-gennaio-convegno-a-domagnano-per-gli-operatori-economici-focus-su-app-san-marino-pay-a299097",
+     "fonte": "San Marino RTV",
+     "nome_fonte_config": "San Marino RTV",
+     "parola": "scm",
+     "etichette": "Economia Introdotti anche sgravi sul canone dei Pos per chi offre il cashback ai clienti"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "data": "2026-11-27T13:02:24+00:00",
+   "articoli": [
+    {
+     "titolo": "Ex Tiro a Volo: al via l'iter della legge di iniziativa popolare",
+     "url": "https://www.sanmarinortv.sm/news/politica-c2/ex-tiro-a-volo-al-via-l-iter-della-legge-di-iniziativa-popolare-a299096",
+     "fonte": "San Marino RTV",
+     "nome_fonte_config": "San Marino RTV",
+     "parola": "acquaviva",
+     "etichette": "Politica Mira a restituire alla cittadinanza un'area pubblica di pregio, preservandone il patrimonio naturalistico e la fruibilità collettiva. Favorevole il segretario di Stato al Territorio Matteo Ciacci: delibera già approvata all'unanimità in in Cpt"
+    }
+   ]
   }
  ],
  "in_attesa": [],
@@ -313,6 +355,7 @@
   "t:accordo con l ue selva pdcs siamo gia nel mercato europeo bisogna competere ad armi pari con le stesse possibilita": "2026-11-23",
   "t:accordo con l ue senza referendum troina d ml un occasione enorme persa per la democrazia di questo paese": "2026-11-24",
   "t:accordo con l ue tutto quello che beccari non ha detto in aula spiegato a tutti punto per punto di marco severini": "2026-11-24",
+  "t:accordo con l unione europea una scelta di liberta per la nostra generazione ora la sfida e l attuazione": "2026-11-27",
   "t:accordo di associazione con l unione europea il consiglio grande e generale approva la ratifica": "2026-11-25",
   "t:accordo di associazione con l unione europea il governo al lavoro sull attuazione primi progetti di legge entro 30 60 giorni": "2026-11-26",
   "t:accordo di associazione fabio righi d ml e arrivato il tempo della serieta e della responsabilita": "2026-11-24",
@@ -425,6 +468,7 @@
   "t:arte e formazione tre quinte della scuola secondaria superiore di san marino in visita alla 61 esposizione internazionale d arte la biennale di venezia": "2026-11-21",
   "t:as san giovanni contro ss virtus risultati in diretta testa a testa e formazioni": "2026-11-22",
   "t:asdos ringrazia insieme e meglio per la donazione a sostegno della prevenzione senologica": "2026-11-27",
+  "t:asdos ringrazia l associazione insieme e meglio la solidarieta tra donne che diventa vicinanza e sorellanza": "2026-11-27",
   "t:assalto al bancomat gualdicciolo filiale carisp chiusa tutto il giorno": "2026-11-26",
   "t:assegnati i mondiali femminili 2031 e 2035": "2026-11-24",
   "t:assemblea pubblica a gualdicciolo incontro sulla cartiera ciacci": "2026-11-20",
@@ -438,6 +482,7 @@
   "t:auto in fiamme a gualdicciolo nessun ferito": "2026-11-20",
   "t:auto prende fuoco a gualdicciolo nessun ferito intervento della polizia civile": "2026-11-22",
   "t:autonoleggio a san marino in consiglio due proposte per riaprire il mercato": "2026-11-27",
+  "t:autonoleggio due leggi a confronto in consiglio": "2026-11-27",
   "t:aviosuperficie di torraccia a domagnano un confronto pubblico sul futuro della pista": "2026-11-22",
   "t:aviosuperficie di torraccia a domagnano un confronto pubblico sul futuro dello scalo": "2026-11-22",
   "t:aviosuperficie di torraccia le parti a confronto a domagnano": "2026-11-22",
@@ -563,6 +608,7 @@
   "t:ci ha lasciati germana pazzini": "2026-11-22",
   "t:ci ha lasciati giorgio zonzini": "2026-11-22",
   "t:ciclabile con guado inaugurato il nuovo tratto fra chiesanuova e gualdicciolo": "2026-11-22",
+  "t:cimiteri prosegue nei castelli il percorso di informazione e confronto con i cittadini a dicembre quattro serate pubbliche": "2026-11-27",
   "t:cina stati uniti e russia firmano una dichiarazione di pace intesa sul dialogo nucleare": "2026-11-20",
   "t:citta di san marino prevenzione cardiovascolare e corretti stili di vita grande partecipazione all incontro pubblico promosso dall istituto per la sicurezza sociale": "2026-11-26",
   "t:cittadinanza per nascita negli usa secondo stop al decreto di trump": "2026-11-27",
@@ -723,11 +769,13 @@
   "t:emergenza idrica repubblica futura critica il governo investimenti sulle infrastrutture a zero": "2026-11-23",
   "t:emergenza idrica rf sull acqua siamo ancora fermi al palo ma bevitori si fa bello con il lago del torello": "2026-11-20",
   "t:emilia romagna giovani in crisi 8 studenti su 10 ansiosi ed insicuri": "2026-11-23",
+  "t:emozioni al teatro titano da bach a williams": "2026-11-27",
   "t:emozioni forti ad acquaviva il victor san marino plana sul ravenna": "2026-11-21",
   "t:enrico carattoni rf mantenere alta la guardia per evitare che qualcuno continui a sabotare questo percorso": "2026-11-24",
   "t:erasmus delegazione di docenti portoghesi ricevuta a san marino": "2026-11-20",
   "t:errando 2026 aperte le iscrizioni per la tappa sogliano al rubicone acquaviva": "2026-11-21",
   "t:europa conti pubblici e caso abusi sui minori l agenda del consiglio grande e generale": "2026-11-20",
+  "t:ex tiro a volo al via l iter della legge di iniziativa popolare": "2026-11-27",
   "t:ex tiro a volo di murata intesa per farne un parco pubblico": "2026-11-27",
   "t:f1 las vegas russell il piu veloce delle fp2 8 antonelli": "2026-11-20",
   "t:faenza auto con quattro giovani donne finisce in un canale di scolo nella fitta nebbia tutte trasportate in codice rosso all ospedale bufalini di cesena": "2026-11-24",
@@ -742,6 +790,7 @@
   "t:febal casa inaugura il primo monomarca a taiwan": "2026-11-25",
   "t:fed sammarinese virtus san mauro 3 2": "2026-11-20",
   "t:federazione italiana di bocce 1 trofeo internazionale montecerreto san marino capitale internazionale della raffa": "2026-11-20",
+  "t:federazione sammarinese atletica leggera una stagione da celebrare": "2026-11-27",
   "t:federazione sammarinese virtus san mauro a mare 5 1": "2026-11-20",
   "t:federica brignone si ritira la gamba mi fa troppo male": "2026-11-25",
   "t:federico piovaccari bello tornare in champions ringrazio la virtus il san marino calcio un trampolino della mia carriera": "2026-11-20",
@@ -858,6 +907,7 @@
   "t:i piu grandi combattenti italiani della storia": "2026-11-25",
   "t:icee belluzzi ci sono problemi sull applicativo stiamo cercando di risolverli confrontandoci con l osservatorio": "2026-11-23",
   "t:icee doveva garantire equita ora rischia di diventare uno strumento di controllo sui cittadini": "2026-11-20",
+  "t:ieg lancia il pescare show award pubblico al centro tra premiazioni promozione sportiva e attivita speciali": "2026-11-27",
   "t:il 30 novembre a palazzo pubblico la prima edizione del premio de sanctis san marino per la pace": "2026-11-22",
   "t:il boss a berlino est il documentario": "2026-11-25",
   "t:il caldo frena virtus e la fiorita ad acquaviva e 0 0": "2026-11-21",
@@ -879,6 +929,7 @@
   "t:il premio de sanctis inaugura a san marino la sezione per la pace nonostante la neutralita persa con le sanzioni alla russia": "2026-11-22",
   "t:il presidente de pascale riccione con daniela ha ritrovato la rotta la sindaca angelini ora al lavoro insieme partiti e forze civiche del territorio per scrivere insieme il programma": "2026-11-23",
   "t:il presidente mattarella uscire dalla violenza e possibile e ci riguarda tutti": "2026-11-25",
+  "t:il punto della settimana in borsa wall street rimbalza e l europa di jopseeh gasperoni jtrader": "2026-11-27",
   "t:il rito in un opera desertica franco cilena": "2026-11-20",
   "t:il sacchificio industriale sammarinese celebra 60 anni di attivita": "2026-11-21",
   "t:il san marino rinuncia al campo di acquaviva": "2026-11-20",
@@ -1228,6 +1279,7 @@
   "t:nido del falco il governo cambia strategia per farlo rinascere": "2026-11-20",
   "t:noi vi diremo ve lo avevamo detto": "2026-11-25",
   "t:noleggio auto verso la modifica delle regole": "2026-11-26",
+  "t:novita smac dal primo gennaio convegno a domagnano per gli operatori economici focus su app san marino pay": "2026-11-27",
   "t:nt capital sg finanza semplice cos e un fondo comune d investimento": "2026-11-24",
   "t:nt holding punta sulla crescita nasce un advisory board con quattro esperti": "2026-11-20",
   "t:nuoto pinnato 13 podi per san marino alla nevera cup di rijeka": "2026-11-20",
@@ -2448,6 +2500,7 @@
   "u:https://giornalesm.com/i-pink-floyd-diventano-danza-e-teatro-con-the-wall_dance-tribute-teatro-nuovo-san-marino-venerdi-27-novembre/": "2026-11-24",
   "u:https://giornalesm.com/il-capodanno-piu-lungo-del-mondo-compie-15-anni-a-rimini-piu-cultura-e-arte-senza-rinunciare-alla-festa-dal-21-novembre-al-10-gennaio/": "2026-11-21",
   "u:https://giornalesm.com/il-premio-de-sanctis-inaugura-a-san-marino-la-sezione-per-la-pace-nonostante-la-neutralita-persa-con-le-sanzioni-alla-russia/": "2026-11-22",
+  "u:https://giornalesm.com/il-punto-della-settimana-in-borsa-wall-street-rimbalza-e-leuropa-di-jopseeh-gasperoni-jtrader/": "2026-11-27",
   "u:https://giornalesm.com/imola-cooperativa-ceramica-dimola-ferma-gli-impianti-fino-all11-gennaio-a-causa-dellaumento-dei-costi-del-gas/": "2026-11-24",
   "u:https://giornalesm.com/imola-e-medicina-sventati-sette-tentativi-di-truffa-del-finto-carabiniere/": "2026-11-26",
   "u:https://giornalesm.com/imola-operaio-tunisino-di-33-anni-ferito-in-un-incidente-sul-lavoro/": "2026-11-26",
@@ -2707,6 +2760,7 @@
   "u:https://insider.sm/attacco-di-droni-in-kuwait-morti-due-tecnici-italiani/": "2026-11-26",
   "u:https://insider.sm/attacco-hacker-ai-sistemi-della-cia-e-dellintelligence-americana/": "2026-11-26",
   "u:https://insider.sm/autonoleggio-a-san-marino-in-consiglio-due-proposte-per-riaprire-il-mercato/": "2026-11-27",
+  "u:https://insider.sm/autonoleggio-due-leggi-a-confronto-in-consiglio/": "2026-11-27",
   "u:https://insider.sm/aviosuperficie-di-torraccia-a-domagnano-un-confronto-pubblico-sul-futuro-della-pista/": "2026-11-22",
   "u:https://insider.sm/banche-in-europa-servono-cinque-sette-anni/": "2026-11-26",
   "u:https://insider.sm/banche-sammarinesi-passaporto-europeo-entro-cinque-sette-anni-gatti-nuovi-capitali-per-accelerare-i-tempi/": "2026-11-26",
@@ -4078,6 +4132,7 @@
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/a-san-marino-outlet-l-atmosfera-del-natale-accompagna-le-offerte-del-black-friday-a298809": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/a-valdragone-il-seminario-di-studio-acr-dal-titolo-fuori-dai-bordi-accompagnare-i-piccoli-nell-oggi-digitale-a298790": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/abusi-sui-minori-la-relazione-ancora-in-fondo-ma-ci-prendiamo-in-giro-a298834": "2026-11-21",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/accordo-con-l-unione-europea-una-scelta-di-liberta-per-la-nostra-generazione-ora-la-sfida-e-l-attuazione-a299098": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/accordo-di-associazione-con-l-unione-europea-il-consiglio-grande-e-generale-approva-la-ratifica-a298999": "2026-11-25",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/accordo-di-associazione-con-l-unione-europea-il-governo-al-lavoro-sull-attuazione-primi-progetti-di-legge-entro-30-60-giorni-a299074": "2026-11-26",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/accordo-ue-domani-motus-liberi-la-maggioranza-procede-con-la-ratifica-e-blocca-il-referendum-a298909": "2026-11-23",
@@ -4089,11 +4144,13 @@
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/apertura-della-mostra-un-collegamento-ideale-tra-le-due-repubbliche-san-marino-e-stati-uniti-d-america-attraverso-abraham-lincoln-a299016": "2026-11-25",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/aprire-una-srl-a-san-marino-costa-quanto-un-utilitaria-nel-resto-d-europa-quanto-una-cena-fuori-a298808": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/arte-e-formazione-tre-quinte-della-scuola-secondaria-superiore-di-san-marino-in-visita-alla-61-esposizione-internazionale-d-arte-la-biennale-di-venezia-a298854": "2026-11-21",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/asdos-ringrazia-l-associazione-insieme-e-meglio-la-solidarieta-tra-donne-che-diventa-vicinanza-e-sorellanza-a299102": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/atletica-2027-la-nazionale-sammarinese-in-raduno-ad-ancona-a298839": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/aviosuperficie-di-torraccia-le-parti-a-confronto-a-domagnano-a298866": "2026-11-22",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/banca-centrale-vendita-di-realizzo-di-abbigliamento-scarpe-arredi-componentistica-biciclette-macchinari-elettromedicali-e-beni-vari-a298771": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/bando-per-la-locazione-dell-immobile-di-ca-rigo-numerose-le-richieste-pervenute-avviso-ancora-aperto-fino-al-9-dicembre-a299091": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/bilancio-2027-pdcs-conti-pubblici-casa-ed-energia-al-centro-del-confronto-a298968": "2026-11-24",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/cimiteri-prosegue-nei-castelli-il-percorso-di-informazione-e-confronto-con-i-cittadini-a-dicembre-quattro-serate-pubbliche-a299099": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/cittadinanza-sammarinese-sabato-21-novembre-la-terza-sessione-del-test-di-conoscenza-della-storia-e-delle-istituzioni-della-repubblica-a298960": "2026-11-24",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/comunicato-stampa-ordine-avvocati-e-notai-san-marino-in-occasione-della-giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne-a298976": "2026-11-24",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/conferito-a-tahani-abbas-e-andrea-riccardi-il-primo-premio-de-sanctis-san-marino-per-la-pace-a299094": "2026-11-27",
@@ -4106,10 +4163,12 @@
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/di-cosa-parlera-il-rettore-dell-universita-di-san-marino-durante-la-cerimonia-di-inaugurazione-dell-anno-accademico-a298906": "2026-11-23",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/educazione-finanziaria-alla-scuola-superiore-a299090": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/emergenza-casa-libera-il-prossimo-passo-e-investire-a298971": "2026-11-24",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/emozioni-al-teatro-titano-da-bach-a-williams-a299100": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/gen-sm-sulla-ratifica-dell-accordo-con-l-ue-europa-si-per-chi-vuole-costruire-il-proprio-futuro-a-san-marino-a298996": "2026-11-25",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/grande-partecipazione-a-palazzo-graziani-per-l-inaugurazione-di-vermilion-vestige-the-red-thread-a299050": "2026-11-26",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/i-pink-floyd-diventano-danza-e-teatro-con-the-wall-dance-tribute-teatro-nuovo-venerdi-27-novembre-a298955": "2026-11-24",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/icee-doveva-garantire-equita-ora-rischia-di-diventare-uno-strumento-di-controllo-sui-cittadini-a298815": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/comunicati-c9/ieg-lancia-il-pescare-show-award-pubblico-al-centro-tra-premiazioni-promozione-sportiva-e-attivita-speciali-a299101": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/il-30-novembre-a-palazzo-pubblico-la-prima-edizione-del-premio-de-sanctis-san-marino-per-la-pace-a298870": "2026-11-22",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/il-comites-incontra-l-associazione-vivere-meglio-a298915": "2026-11-23",
   "u:https://www.sanmarinortv.sm/news/comunicati-c9/il-paese-ha-bisogno-di-risposto-non-di-provocazioni-e-questioni-personali-a298994": "2026-11-25",
@@ -4240,6 +4299,7 @@
   "u:https://www.sanmarinortv.sm/news/economia-c5/la-moda-si-compra-a-peso-e-diventa-solidarieta-con-ri-kilo-torna-la-battaglia-all-usa-e-getta-a298820": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/economia-c5/lavoro-cdls-chiede-un-confronto-su-nuovi-modelli-organizzativi-a298390": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/economia-c5/molestie-sul-lavoro-usl-chiede-di-approvare-il-pdl-contro-le-violenze-a298557": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/economia-c5/novita-smac-dal-primo-gennaio-convegno-a-domagnano-per-gli-operatori-economici-focus-su-app-san-marino-pay-a299097": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/economia-c5/nt-holding-punta-sulla-crescita-nasce-un-advisory-board-con-quattro-esperti-a297904": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/economia-c5/passaporto-europeo-fabbri-nt-capital-sg-occasione-straordinaria-per-noi-a298500": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/economia-c5/pensionati-penalizzati-dal-caro-vita-e-il-governo-non-risponde-alla-richiesta-di-incontro-a298363": "2026-11-20",
@@ -4306,6 +4366,7 @@
   "u:https://www.sanmarinortv.sm/news/politica-c2/diritto-alla-casa-rete-prepara-un-progetto-di-legge-a298477": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/politica-c2/dml-su-ufficio-di-presidenza-perche-il-silenzio-i-cittadini-devono-sapere-a298316": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/politica-c2/europa-conti-pubblici-e-caso-abusi-sui-minori-l-agenda-del-consiglio-grande-e-generale-a298777": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/politica-c2/ex-tiro-a-volo-al-via-l-iter-della-legge-di-iniziativa-popolare-a299096": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/politica-c2/generazione-libera-lancia-generamente-a298589": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/politica-c2/giovani-il-futuro-non-si-aspetta-generazione-libera-e-gen-sm-tra-formazione-e-proposte-a298835": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/politica-c2/i-capifamiglia-chiedono-di-posticipare-la-ratifica-dell-accordo-ue-a298654": "2026-11-20",
@@ -4431,6 +4492,7 @@
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/beach-park-lo-scontro-salvezza-e-tuo-battuto-3-1-il-volley-castello-a298553": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/bilancio-positivo-per-la-juvenes-nella-quarta-giornata-dei-campionati-a-squadre-a298592": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/canicross-per-san-marino-2-ori-e-1-bronzo-ai-campionati-del-mondo-a298334": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/federazione-sammarinese-atletica-leggera-una-stagione-da-celebrare-a299095": "2026-11-27",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/fiarc-altri-sei-podi-per-i-lunghi-archi-di-san-marino-a298401": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/ginnastica-san-marino-e-settimo-a-livorno-a298917": "2026-11-23",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/grande-successo-per-il-trofeo-titano-sansovini-c-e-la-possibilita-di-ospitare-un-campionato-europee-juniores-a298591": "2026-11-20",
