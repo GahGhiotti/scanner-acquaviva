@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-26T16:01:41+00:00",
-  "fonte:San Marino RTV": "2026-11-27T05:07:57+00:00",
-  "fonte:GiornaleSM": "2026-11-27T05:07:57+00:00",
-  "fonte:Insider": "2026-11-27T05:07:58+00:00",
-  "fonte:Libertas": "2026-11-27T05:07:59+00:00",
-  "fonte:Google News": "2026-11-27T05:08:00+00:00",
+  "fonte:San Marino RTV": "2026-11-27T06:01:23+00:00",
+  "fonte:GiornaleSM": "2026-11-27T06:01:23+00:00",
+  "fonte:Insider": "2026-11-27T06:01:24+00:00",
+  "fonte:Libertas": "2026-11-27T06:01:25+00:00",
+  "fonte:Google News": "2026-11-27T06:01:26+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-26T16:01:41+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-27T05:08:01+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-27T06:01:33+00:00"
  },
  "pubblicati": [
   {
@@ -186,6 +186,14 @@
      "nome_fonte_config": "San Marino RTV",
      "parola": "acquaviva",
      "etichette": "Politica Presentati i percorsi didattici dei piccoli alunni, alla scoperta delle istituzioni e delle tradizioni della Repubblica"
+    },
+    {
+     "titolo": "San Marino. Visita della Reggenza alle scuole di Chiesanuova e Acquaviva (photo gallery)",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFBuckNLN2JmMWZmMHFWNDVBT2xUa0E3N25aSXNab1M0V3Jxd09jOTFpS2RETS1lQ1FxSGpQUl9yWUxZbnZ4SWtTRENSSlVfbFhnazdLaWUzRHY5UHNDNGE2cmx3dHdyY3UzZmxvTEVnend4Nks0a3B0VkJ5bFlONHJBTjJ6ZVFUY21CWEw3ZXNIcEJ1dV91YWZiRW5LbF9uTTJzYjdPUTRRRm0xSnB6QWpQTkxvc1dNZlE1NnI5amhkQ1IyQlNJbmJyd29ncnVWTGZVZFdhMXBYZw?oc=5",
+     "fonte": "Tribuna Politica Web",
+     "nome_fonte_config": "Google News",
+     "parola": "acquaviva",
+     "etichette": " "
     }
    ]
   },
@@ -218,16 +226,7 @@
    ]
   }
  ],
- "in_attesa": [
-  {
-   "titolo": "San Marino. Visita della Reggenza alle scuole di Chiesanuova e Acquaviva (photo gallery)",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFBuckNLN2JmMWZmMHFWNDVBT2xUa0E3N25aSXNab1M0V3Jxd09jOTFpS2RETS1lQ1FxSGpQUl9yWUxZbnZ4SWtTRENSSlVfbFhnazdLaWUzRHY5UHNDNGE2cmx3dHdyY3UzZmxvTEVnend4Nks0a3B0VkJ5bFlONHJBTjJ6ZVFUY21CWEw3ZXNIcEJ1dV91YWZiRW5LbF9uTTJzYjdPUTRRRm0xSnB6QWpQTkxvc1dNZlE1NnI5amhkQ1IyQlNJbmJyd29ncnVWTGZVZFdhMXBYZw?oc=5",
-   "fonte": "Tribuna Politica Web",
-   "nome_fonte_config": "Google News",
-   "parola": "acquaviva",
-   "etichette": " "
-  }
- ],
+ "in_attesa": [],
  "visti": {
   "t:1 trofeo internazionale montecerreto san marino capitale internazionale della raffa": "2026-11-22",
   "t:1848 2026 i capifamiglia l europa ha nuovamente bisogno della primavera dei popoli": "2026-11-23",
@@ -1015,6 +1014,7 @@
   "t:l uomo rischia di diventare superfluo l allarme di marcello veneziani a mementi": "2026-11-20",
   "t:la banda dei bancomat altro colpo a san marino quarto assalto in due mesi vigilante spara in aria": "2026-11-26",
   "t:la banda ultralarga di san marino e i piccioni viaggiatori di gualdicciolo il cortocircuito del partito del no di enrico lazzari": "2026-11-22",
+  "t:la batteria non ti regge piu la giornata ilabstore cambia le batterie a partire da 29": "2026-11-27",
   "t:la biennale di buttafuoco fa arte da tutte le parti": "2026-11-25",
   "t:la capolista mostra i muscoli le titane salutano acquaviva con il gran gol di cuciniello": "2026-11-21",
   "t:la caritas si racconta nel libro custodi del domani": "2026-11-21",
@@ -1760,6 +1760,7 @@
   "t:san marino concerto del duo cor barocco nella chiesa di san francesco sabato 21 novembre alle 16 30": "2026-11-21",
   "t:san marino confine di acquaviva apertura delle buste e scelta dei vincitori": "2026-11-20",
   "t:san marino consiglio grande e generale diretta streaming": "2026-11-23",
+  "t:san marino consiglio stretta su case popolari e noleggi": "2026-11-27",
   "t:san marino convenzioni ilo e lavoro lunedi 23 novembre al concordia": "2026-11-22",
   "t:san marino convocazione consiglio grande e generale 23 24 25 26 27 30 novembre 2026": "2026-11-27",
   "t:san marino convocazione della sessione della commissione consiliare permanente iii prevista per il 26 novembre e 3 dicembre 2026": "2026-11-26",
@@ -2346,6 +2347,7 @@
   "u:https://giornalesm.com/imola-operaio-tunisino-di-33-anni-ferito-in-un-incidente-sul-lavoro/": "2026-11-26",
   "u:https://giornalesm.com/incidente-sulla-e45-a-cesena-tampona-il-mezzo-di-segnalazione-di-un-cantiere-strada-chiusa-fino-alle-1245/": "2026-11-20",
   "u:https://giornalesm.com/jesi-pretende-un-farmaco-senza-ricetta-e-aggredisce-la-dottoressa-in-farmacia-un-cliente-interviene-per-difenderla-ferito-un-41enne-nella-colluttazione/": "2026-11-24",
+  "u:https://giornalesm.com/la-batteria-non-ti-regge-piu-la-giornata-ilabstore-cambia-le-batterie-a-partire-da-29e-3/": "2026-11-27",
   "u:https://giornalesm.com/la-polizia-di-stato-di-rimini-trae-in-arresto-un-soggetto-nigeriano-peril-furto-di-una-borsa/": "2026-11-23",
   "u:https://giornalesm.com/la-prima-pagina-de-serenissima-sera-san-marino/": "2026-11-25",
   "u:https://giornalesm.com/la-san-marino-del-futuro-capitolo-2-i-mestieri-che-cambieranno-entro-il-2030-di-michael-felici/": "2026-11-27",
@@ -2439,6 +2441,7 @@
   "u:https://giornalesm.com/san-marino-colloqui-gratuiti-alliss-contro-la-violenza-sulle-donne-nelle-giornate-di-lunedi-23-e-martedi-24-novembre/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-comites-incontra-lassociazione-vivere-meglio/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-concerto-del-duo-cor-barocco-nella-chiesa-di-san-francesco-sabato-21-novembre-alle-1630/": "2026-11-21",
+  "u:https://giornalesm.com/san-marino-consiglio-stretta-su-case-popolari-e-noleggi/": "2026-11-27",
   "u:https://giornalesm.com/san-marino-convenzioni-ilo-e-lavoro-evento-al-concordia-lunedi-23-novembre-al-concordia/": "2026-11-22",
   "u:https://giornalesm.com/san-marino-convocazione-consiglio-grande-e-generale-23-24-25-26-27-30-novembre-2026/": "2026-11-27",
   "u:https://giornalesm.com/san-marino-convocazione-della-sessione-della-commissione-consiliare-permanente-iii-prevista-per-il-26-novembre-e-3-dicembre-2026/": "2026-11-26",
