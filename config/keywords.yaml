@@ -167,7 +167,6 @@ sport:
   ospiti_ammessi:
     - Nazionale
     - Nazionali
-    - Academy
     # Partite ed eventi non ufficiali (beneficenza, cantanti, vecchie glorie...)
     - beneficenza
     - benefica

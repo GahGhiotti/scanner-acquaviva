@@ -175,9 +175,10 @@ def test_sport_conta_la_squadra():
     # squadra di casa: sì, ovunque giochi
     assert f.controlla("Virtus-Tre Fiori 2-1 a Serravalle", True, sportivo=True) == "virtus"
     assert f.controlla("Bocce: la Bocciofila Montecerreto vince a Rimini, San Marino", False, sportivo=True) is not None
-    # Nazionale e Academy solo se giocano ad Acquaviva
-    assert f.controlla("Under 22 della San Marino Academy, si gioca allo stadio di Acquaviva", True, sportivo=True)
+    # Academy: no, nemmeno ad Acquaviva
+    assert f.controlla("Under 22 della San Marino Academy, si gioca allo stadio di Acquaviva", True, sportivo=True) is None
     assert f.controlla("San Marino Academy, trasferta a Forlì", True, sportivo=True) is None
+    # Nazionale solo se gioca ad Acquaviva
     assert f.controlla("Futsal, la Nazionale si allena ad Acquaviva", True, sportivo=True)
     assert f.controlla("Calcio, la Nazionale gioca a Serravalle", True, sportivo=True) is None
     # luoghi forti valgono anche nello sport
