@@ -2,37 +2,15 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-27T13:02:12+00:00",
-  "fonte:San Marino RTV": "2026-11-27T19:01:18+00:00",
-  "fonte:GiornaleSM": "2026-11-27T19:01:18+00:00",
-  "fonte:Insider": "2026-11-27T19:01:19+00:00",
-  "fonte:Libertas": "2026-11-27T19:01:19+00:00",
-  "fonte:Google News": "2026-11-27T19:01:21+00:00",
+  "fonte:San Marino RTV": "2026-11-27T20:01:15+00:00",
+  "fonte:GiornaleSM": "2026-11-27T20:01:16+00:00",
+  "fonte:Insider": "2026-11-27T20:01:17+00:00",
+  "fonte:Libertas": "2026-11-27T20:01:18+00:00",
+  "fonte:Google News": "2026-11-27T20:01:19+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-27T13:02:12+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-27T19:01:23+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-27T20:01:20+00:00"
  },
  "pubblicati": [
-  {
-   "id": 22,
-   "data": "2026-11-24T19:02:29+00:00",
-   "articoli": [
-    {
-     "titolo": "San Marino. Coppa Titano, vigilia dei Quarti di Finale",
-     "url": "https://giornalesm.com/1233721-2/",
-     "fonte": "GiornaleSM",
-     "nome_fonte_config": "GiornaleSM",
-     "parola": "virtus",
-     "etichette": "Prima Pagina San Marino Sport In arrivo un impegno extra per gli otto club ancora in corsa per aggiudicarsi la Coppa Titano. È utile ricordare che chi riuscirà ad agguantare il più antico trofeo calcistico del calcio sammarinese, si garantirà anche un pass per il Primo Turno di Qualificazione della UEFA Conference League 2027-28"
-    },
-    {
-     "titolo": "Coppa Titano, Folgore-Virtus accende i quarti di finale",
-     "url": "https://insider.sm/coppa-titano-folgore-virtus-accende-i-quarti-di-finale/",
-     "fonte": "Insider",
-     "nome_fonte_config": "Insider",
-     "parola": "virtus",
-     "etichette": "Attualità In evidenza San Marino Sport Folgore e Virtus si ritrovano ad Acquaviva mercoledì 25 novembre per l’andata dei quarti di Coppa Titano. Come riporta San Marino Rtv, tutte e quattro le… L'articolo Coppa Titano, Folgore-Virtus accende i quarti di finale proviene da Insider.sm . Folgore e Virtus si ritrovano ad Acquaviva mercoledì "
-    }
-   ]
-  },
   {
    "id": 23,
    "data": "2026-11-25T07:02:01+00:00",
@@ -2241,6 +2219,7 @@
   "t:scommesse la virtus comunica la totale estraneita ai fatti": "2026-11-20",
   "t:scontro frontale ad acquaviva tra due auto sammarinesi": "2026-11-20",
   "t:scontro tra auto e moto ad acquaviva ferito un motociclista video": "2026-11-21",
+  "t:scontro tra lonfernini e zeppa bagarre in consiglio sul decreto per il benessere scolastico": "2026-11-27",
   "t:scuderia san marino il rally del brunello crocevia della stagione su terra e dell europeo storico": "2026-11-27",
   "t:scuola la 5 elementare di acquaviva in visita alla san marino rtv": "2026-11-21",
   "t:scuola superiore chiavi agitate contro la violenza sulle donne un gesto collettivo contro il silenzio": "2026-11-25",
@@ -3106,6 +3085,7 @@
   "u:https://insider.sm/savoretti-rf-il-lavoro-per-una-donna-e-autonomia-liberta-personale-e-soprattutto-dignita/": "2026-11-26",
   "u:https://insider.sm/sciopero-generale-cortei-in-tutta-italia-landini-siamo-ampiamente-piu-di-un-milione-nelle-oltre-cento-piazze/": "2026-11-20",
   "u:https://insider.sm/sciopero-generale-lavoratori-e-studenti-in-piazza-la-cgil-chiede-di-cambiare-la-manovra/": "2026-11-20",
+  "u:https://insider.sm/scontro-tra-lonfernini-e-zeppa-bagarre-in-consiglio-sul-decreto-per-il-benessere-scolastico/": "2026-11-27",
   "u:https://insider.sm/sei-giorni-di-consiglio-si-vota-laccordo-con-leuropa/": "2026-11-22",
   "u:https://insider.sm/selva-pdcs-la-violenza-nasce-anche-da-comportamenti-di-dominio-e-controllo-che-spesso-sono-diventati-quasi-normali/": "2026-11-26",
   "u:https://insider.sm/sentenza-banca-cis-santi-rete-rete-ha-pagato-un-prezzo-enorme/": "2026-11-24",
