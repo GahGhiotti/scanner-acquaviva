@@ -42,3 +42,10 @@ def test_silenzio_notturno():
     assert not e_notte(cfg, datetime(2026, 11, 21, 7, 0))
     assert not e_notte(cfg, datetime(2026, 11, 21, 21, 59))
     assert not e_notte({}, datetime(2026, 11, 21, 3, 0))
+
+
+def test_post_whatsapp_ha_entrambi_i_canali():
+    from scanner.telegram import post_whatsapp
+    t = post_whatsapp(Articolo("Titolo", "https://rtv/x", "San Marino RTV", True), CFG)
+    assert "WhatsApp: https://whatsapp.com/channel/" in t
+    assert "Telegram: https://t.me/acquavivanews" in t

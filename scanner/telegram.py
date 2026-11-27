@@ -52,7 +52,8 @@ def post_telegram(art: Articolo, cfg: dict, altri: list[Articolo] | None = None)
 
 
 def post_whatsapp(art: Articolo, cfg: dict) -> str:
-    """Stesso post in testo semplice per WhatsApp. Il footer rimanda a Telegram."""
+    """Stesso post in testo semplice per WhatsApp. Il footer ha i link di entrambi i canali,
+    così chi riceve il post inoltrato può iscriversi a quello che preferisce."""
     c, g = cfg["canale"], cfg["giunta"]
     emoji, nome = categoria(art, cfg)
     return (
@@ -61,7 +62,9 @@ def post_whatsapp(art: Articolo, cfg: dict) -> str:
         f"{art.url}\n"
         f"Fonte: {art.fonte}\n"
         f"\n———\n"
-        f"📲 {c['nome']} anche su Telegram:\n{c['telegram']}\n"
+        f"📲 Segui {c['nome']}\n"
+        f"WhatsApp: {c['whatsapp']}\n"
+        f"Telegram: {c['telegram']}\n"
         f"\n🏰 {g['nome']}\n"
         f"Facebook: {g['facebook']}\n"
         f"Instagram: {g['instagram']}"
