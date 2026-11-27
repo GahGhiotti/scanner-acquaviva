@@ -48,10 +48,27 @@ def scarica(url: str) -> requests.Response:
     return r
 
 
+def _paragrafi(el) -> int:
+    """Quanto testo hanno i paragrafi direttamente dentro questo elemento."""
+    return sum(len(p.get_text(" ", strip=True)) for p in el.find_all("p", recursive=False))
+
+
 def testo_da_html(html: str) -> str:
+    """Solo il testo dell'articolo, senza menu, "più letti", "leggi anche" e simili.
+
+    Il corpo dell'articolo è il blocco con più paragrafi di testo: i riquadri con
+    altri titoli hanno poco testo o nessun paragrafo. Così i titoli di altre notizie
+    che citano Acquaviva non fanno scattare la pubblicazione.
+    """
     soup = BeautifulSoup(html, "lxml")
     for tag in soup(["script", "style", "noscript", "nav", "footer", "header", "aside", "form"]):
         tag.decompose()
+    blocchi = soup.find_all(["div", "section", "article", "main"])
+    migliore = max(blocchi, key=_paragrafi, default=None)
+    if migliore is not None and _paragrafi(migliore) >= 200:
+        for interno in migliore.find_all("article"):  # notizie correlate dentro il corpo
+            interno.decompose()
+        return migliore.get_text(" ", strip=True)
     corpo = soup.find("article") or soup.find("main") or soup.body or soup
     return corpo.get_text(" ", strip=True)
 

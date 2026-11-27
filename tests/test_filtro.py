@@ -190,3 +190,18 @@ def test_sport_conta_la_squadra():
     assert f.controlla("Partita di beneficenza allo stadio di Acquaviva", True, sportivo=True)
     assert f.controlla("Nazionale cantanti in campo ad Acquaviva per la raccolta fondi", True, sportivo=True)
     assert f.controlla("Partita di beneficenza a Serravalle", True, sportivo=True) is None
+
+
+def test_riquadri_correlati_non_contano():
+    from scanner.fonti import testo_da_html
+    corpo = "<p>" + "Nel pomeriggio riprendono a Palazzo Pubblico i lavori della sessione consiliare. " * 4 + "</p>"
+    html = f"""<html><body><article class="news">
+      <div class="description">{corpo}<p>Il progetto di legge è stato sospeso.</p></div>
+      <div class="most-read"><h4>I più letti della settimana</h4>
+        <article class="row news">La Reggenza visita le scuole, prima tappa a Chiesanuova e Acquaviva</article>
+        <article class="row news">Crisi SCM: pronti allo sciopero</article></div>
+    </article></body></html>"""
+    testo = testo_da_html(html)
+    assert "Palazzo Pubblico" in testo
+    assert "Acquaviva" not in testo and "SCM" not in testo
+    assert f.controlla("Ex Tiro a Volo: al via l'iter\n" + testo, sammarinese=True) is None
