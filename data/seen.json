@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-27T13:02:12+00:00",
-  "fonte:San Marino RTV": "2026-11-27T18:01:17+00:00",
-  "fonte:GiornaleSM": "2026-11-27T18:01:17+00:00",
-  "fonte:Insider": "2026-11-27T18:01:18+00:00",
-  "fonte:Libertas": "2026-11-27T18:01:19+00:00",
-  "fonte:Google News": "2026-11-27T18:01:20+00:00",
+  "fonte:San Marino RTV": "2026-11-27T19:01:18+00:00",
+  "fonte:GiornaleSM": "2026-11-27T19:01:18+00:00",
+  "fonte:Insider": "2026-11-27T19:01:19+00:00",
+  "fonte:Libertas": "2026-11-27T19:01:19+00:00",
+  "fonte:Google News": "2026-11-27T19:01:21+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-27T13:02:12+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-27T18:01:22+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-27T19:01:23+00:00"
  },
  "pubblicati": [
   {
@@ -340,6 +340,20 @@
      "etichette": "Calcio Samm. E' una vigilia storica per la Nazionale maggiore femminile di San Marino che domani, alle 17.30 in diretta su RTV, affronta in amichevole il Liechtenstein per la prima partita ufficiale."
     }
    ]
+  },
+  {
+   "id": 42,
+   "data": "2026-11-27T19:01:28+00:00",
+   "articoli": [
+    {
+     "titolo": "Il Tre Penne ribalta la Virtus negli ultimi due minuti",
+     "url": "https://insider.sm/il-tre-penne-ribalta-la-virtus-negli-ultimi-due-minuti/",
+     "fonte": "Insider",
+     "nome_fonte_config": "Insider",
+     "parola": "virtus",
+     "etichette": "Videonotizie Attualità San Marino Sport 2-2 fino al 60'. Poi un'autorete regala il vantaggio al Tre Penne, che ad Acquaviva chiude 4-2. L'articolo Il Tre Penne ribalta la Virtus negli ultimi due minuti proviene da Insider.sm . 2-2 fino al 60′. Poi un’autorete regala il vantaggio al Tre Penne, che ad Acquaviva chiude 4-2. Il posticipo dell"
+    }
+   ]
   }
  ],
  "in_attesa": [],
@@ -379,6 +393,7 @@
   "t:abusi sui minori la relazione ancora in fondo ma ci prendiamo in giro": "2026-11-21",
   "t:abusi sui minori nuova condanna ma in consiglio la relazione resta in coda basta rinvii servono fatti": "2026-11-21",
   "t:ac libertas virtus acquaviva risultati in diretta e h2h": "2026-11-26",
+  "t:acceso scontro tra zeppa e lonfernini la reggenza sospende la seduta": "2026-11-27",
   "t:acciacchi da pensionati di ranfo": "2026-11-20",
   "t:accordo con l ue belluzzi la pubblica amministrazione e pronta": "2026-11-24",
   "t:accordo con l ue berti ar al governo in quest aula arrivi un piano di attuazione con priorita scadenze responsabilita e una stima delle risorse necessarie": "2026-11-23",
@@ -724,6 +739,7 @@
   "t:coppa titano una bella sfida tra virtus e tre fiori finisce solo 0 0": "2026-11-23",
   "t:cordoglio per la scomparsa di corrado augias il ricordo del segretario di stato per il turismo e l informazione federico pedini amati": "2026-11-20",
   "t:coriano ha aperto i battenti la 39 fiera dell oliva e dei prodotti autunnali": "2026-11-21",
+  "t:coriano il progetto amore malamore torna a parlare agli studenti di parita di genere e rispetto": "2026-11-27",
   "t:coriano scontro sull intitolazione della sala della biblioteca a preda": "2026-11-27",
   "t:corsa scudetto virtus col calendario peggiore tre fiori e tre penne sognano": "2026-11-21",
   "t:corso di formazione per scalpellini e restauratori della pietra open day a gualdicciolo": "2026-11-22",
@@ -758,6 +774,7 @@
   "t:d ml il paese ha bisogno di risposte non di provocazioni e questioni personali": "2026-11-25",
   "t:d ml violare contratti": "2026-11-22",
   "t:da dicembre scattano limiti ue all import di ibride da cina e altri paesi": "2026-11-24",
+  "t:da discoteca cult a casa paradiso rinasce il mito delle notti riminesi": "2026-11-27",
   "t:da fuoco al distributore in manette un uomo di 36 anni colto sul fatto a gualdicciolo": "2026-11-22",
   "t:da nuove idee nuove imprese alle partnership con i grandi gruppi industriali 25 anni di startup che crescono e attraggono investimenti e riconoscimenti": "2026-11-20",
   "t:dagli sbuffi all entusiasmo di don luca bernardi": "2026-11-23",
@@ -991,6 +1008,7 @@
   "t:il tre fiori mostra i muscoli 4 1 alla virtus nella sfida scudetto": "2026-11-21",
   "t:il tre fiori torna schiacciasassi alla virtus il big match del 12 turno": "2026-11-21",
   "t:il tre penne batte 6 3 il pennarossa e resta solo in vetta": "2026-11-22",
+  "t:il tre penne ribalta la virtus negli ultimi due minuti": "2026-11-27",
   "t:il villino bonelli ricomincia dall arte al via la collettiva nuovo spazio per la cultura": "2026-11-20",
   "t:il virtus acquaviva di san marino giochera domani in conference in islanda volera oggi da rimini con un aereo vvip di oryx jet comlux": "2026-11-21",
   "t:ilaria bacciocchi psd l accordo di associazione apre delle possibilita ma scegliere quale economia vogliamo costruire spetta a noi": "2026-11-24",
@@ -1329,6 +1347,7 @@
   "t:natale la solidarieta si trasforma in speranza torna la campagna di raccolta fondi di aslem": "2026-11-25",
   "t:nations league san marino bielorussia in diretta su san marino rtv": "2026-11-20",
   "t:nave sammarinese attaccata dai pirati nel golfo di aden": "2026-11-24",
+  "t:nazionale femminile le 25 convocate della ct domenichetti": "2026-11-27",
   "t:nazionale femminile u16 spettacolo e gol ad acquaviva san marino georgia 4 7": "2026-11-20",
   "t:nazionale u17 doppio successo per il montenegro u18 ad acquaviva": "2026-11-21",
   "t:nazionale un 2026 con una doppietta storica e un impresa sfiorata a tirana": "2026-11-20",
@@ -2073,6 +2092,7 @@
   "t:san marino la juvenes dogana si ferma davanti al tre fiori ma con grande onore": "2026-11-21",
   "t:san marino la lettera delle operatrici della ludoteca di acquaviva": "2026-11-20",
   "t:san marino la ludoteca di acquaviva presenta bandiere in gioco in occasione della sesta edizione di un monte di libri": "2026-11-21",
+  "t:san marino la prima pagina de l ultima edizione del sera": "2026-11-27",
   "t:san marino la prima pagina de la serenissima": "2026-11-21",
   "t:san marino la prima pagina del sera": "2026-11-26",
   "t:san marino la ratifica dell accordo con l ue arriva in aula in futuro ci ricorderemo di questo giorno": "2026-11-23",
@@ -2731,6 +2751,7 @@
   "u:https://giornalesm.com/san-marino-la-juvenes-dogana-prepara-la-sfida-contro-il-murata/": "2026-11-25",
   "u:https://giornalesm.com/san-marino-la-juvenes-dogana-si-ferma-davanti-al-tre-fiori-ma-con-grande-onore/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-la-prima-pagina-de-la-serenissima-904/": "2026-11-21",
+  "u:https://giornalesm.com/san-marino-la-prima-pagina-de-lultima-edizione-del-sera/": "2026-11-27",
   "u:https://giornalesm.com/san-marino-la-prima-pagina-del-sera-10/": "2026-11-26",
   "u:https://giornalesm.com/san-marino-la-solidarieta-della-colletta-alimentare-e-le-sentenze-su-banca-cis-e-giustizia-lintervento-di-maria-adele-selva-in-consiglio-grande-e-generale/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-la-vignetta-del-giorno-dal-serenissima-sera-12/": "2026-11-23",
@@ -2927,6 +2948,7 @@
   "u:https://insider.sm/il-primo-videogioco-ambientato-a-san-marino-cosa-ci-ha-insegnato/": "2026-11-27",
   "u:https://insider.sm/il-titano-regge-fino-al-42-pari-poi-il-francesco-francia-scappa/": "2026-11-22",
   "u:https://insider.sm/il-tre-penne-batte-6-3-il-pennarossa-e-resta-solo-in-vetta/": "2026-11-22",
+  "u:https://insider.sm/il-tre-penne-ribalta-la-virtus-negli-ultimi-due-minuti/": "2026-11-27",
   "u:https://insider.sm/ilaria-bacciocchi-psd-laccordo-di-associazione-apre-delle-possibilita-ma-scegliere-quale-economia-vogliamo-costruire-spetta-a-noi/": "2026-11-24",
   "u:https://insider.sm/insider-delle-18-2026-11-20/": "2026-11-21",
   "u:https://insider.sm/insider-delle-18-2026-11-21/": "2026-11-21",
@@ -4445,8 +4467,10 @@
   "u:https://www.sanmarinortv.sm/news/italia-c7/centrosinistra-al-fulgor-applausi-per-angelini-ma-resta-il-nodo-candidatura-a298896": "2026-11-23",
   "u:https://www.sanmarinortv.sm/news/italia-c7/commissione-covid-scontro-tra-bignami-fdi-e-conte-m5s-a298911": "2026-11-23",
   "u:https://www.sanmarinortv.sm/news/italia-c7/conte-in-commissione-covid-non-potevamo-ragionare-per-algoritmi-a298932": "2026-11-23",
+  "u:https://www.sanmarinortv.sm/news/italia-c7/coriano-il-progetto-amore-malamore-torna-a-parlare-agli-studenti-di-parita-di-genere-e-rispetto-a299127": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/italia-c7/cosi-mio-padre-convinse-i-suoi-superiori-a-non-demolire-l-arco-d-augusto-di-rimini-a299080": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/italia-c7/cultura-aeronautica-rimini-lezione-speciale-per-160-studenti-a298905": "2026-11-23",
+  "u:https://www.sanmarinortv.sm/news/italia-c7/da-discoteca-cult-a-casa-paradiso-rinasce-il-mito-delle-notti-riminesi-a299124": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/italia-c7/ddl-caccia-licia-colo-in-piazza-e-l-ennesimo-pugno-in-faccia-a299057": "2026-11-26",
   "u:https://www.sanmarinortv.sm/news/italia-c7/decreto-scuola-ancora-un-voto-di-fiducia-posto-dal-governo-a298970": "2026-11-24",
   "u:https://www.sanmarinortv.sm/news/italia-c7/emanuela-orlandi-nuovo-colpo-di-scena-la-voce-del-telefonista-in-una-cassetta-trovata-a-casa-dello-zio-a299034": "2026-11-26",
@@ -4477,6 +4501,7 @@
   "u:https://www.sanmarinortv.sm/news/mondo-c8/regno-unito-e-unione-europea-piu-vicini-raggiunti-nuovi-accordi-su-commercio-e-giovani-a298829": "2026-11-21",
   "u:https://www.sanmarinortv.sm/news/mondo-c8/russia-potrebbe-schierare-un-arma-nucleare-nello-spazio-l-allarme-degli-007-occidentali-a298938": "2026-11-23",
   "u:https://www.sanmarinortv.sm/news/politica-c2/25-novembre-i-capitani-reggenti-donne-non-siete-sole-a299028": "2026-11-25",
+  "u:https://www.sanmarinortv.sm/news/politica-c2/acceso-scontro-tra-zeppa-e-lonfernini-la-reggenza-sospende-la-seduta-a299128": "2026-11-27",
   "u:https://www.sanmarinortv.sm/news/politica-c2/accordo-di-associazione-san-marino-si-prepara-alla-nuova-dimensione-europea-confronto-in-commissione-esteri-a298308": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/politica-c2/accordo-ue-ampio-dibattito-e-mercoledi-la-ratifica-a298964": "2026-11-24",
   "u:https://www.sanmarinortv.sm/news/politica-c2/accordo-ue-la-ratifica-in-programma-la-prossima-settimana-a298682": "2026-11-20",
@@ -4588,6 +4613,7 @@
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/murata-cailungo-mezzadri-e-andato-tutto-bene-diamo-seguito-al-pareggio-con-il-tre-fiori-a298885": "2026-11-22",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/murata-sconfitta-a-tavolino-contro-il-cailungo-ma-la-classifica-non-cambia-a298940": "2026-11-23",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nanni-fa-doppietta-un-emozione-ancora-da-realizzare-record-di-selva-e-un-obiettivo-a298558": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nazionale-femminile-le-25-convocate-della-ct-domenichetti-a299122": "2026-11-27",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nazionale-un-2026-con-una-doppietta-storica-e-un-impresa-sfiorata-a-tirana-a298643": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nazionali-giovanili-il-2026-regala-speranze-per-il-futuro-del-calcio-sammarinese-a298684": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/pohjanpalo-san-marino-ha-giocato-molto-bene-a-inizio-secondo-tempo-a298561": "2026-11-20",
