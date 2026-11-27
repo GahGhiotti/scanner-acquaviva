@@ -156,6 +156,8 @@ esclusioni:
 
 # REGOLE PER LE NOTIZIE DI SPORT (calcio, futsal, bocce, ecc.)
 # Per lo sport non basta che si giochi ad Acquaviva: conta la squadra.
+# Squadre e luoghi devono comparire nel TITOLO o nelle prime righe: non basta che
+# la Virtus sia citata in una classifica o nei risultati in fondo all'articolo.
 sport:
   # Le squadre del castello: la notizia esce sempre (da un giornale sammarinese
   # o se nel testo c'è un riferimento a San Marino).
@@ -178,7 +180,6 @@ sport:
     - cantanti
     - vecchie glorie
     - memorial
-    - amichevole
   # Frasi che indicano solo DOVE si gioca: da sole non bastano.
   # Se dopo averle tolte "Acquaviva" compare ancora (es. una gara che passa per
   # Acquaviva), la notizia esce.

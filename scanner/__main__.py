@@ -157,12 +157,13 @@ def main() -> int:
             memoria.segna(art.url, art.titolo)
             continue
         sportivo = categoria(art, cfg)[1].startswith("Sport")
+        testa = f"{art.titolo} {art.etichette}"  # titolo + prime righe del giornale
         testo = f"{art.titolo}\n{art.testo}"
-        parola = filtro.controlla(testo, art.sammarinese, sportivo)
+        parola = filtro.controlla(testo, art.sammarinese, sportivo, testa)
         if not parola and art.testo_completo:
             time.sleep(0.5)
             testo = f"{art.titolo}\n{art.testo_completo()}"
-            parola = filtro.controlla(testo, art.sammarinese, sportivo)
+            parola = filtro.controlla(testo, art.sammarinese, sportivo, testa)
         memoria.segna(art.url, art.titolo)
         if parola:
             art.parola = parola

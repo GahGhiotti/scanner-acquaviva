@@ -206,3 +206,32 @@ def test_riquadri_correlati_non_contano():
     assert "Palazzo Pubblico" in testo
     assert "Acquaviva" not in testo and "SCM" not in testo
     assert f.controlla("Ex Tiro a Volo: al via l'iter\n" + testo, sammarinese=True) is None
+
+
+def test_sport_solo_se_la_squadra_e_nel_titolo():
+    corpo = ("Risultati della giornata: Virtus-Tre Fiori 1-2, Folgore-Cosmos 0-0. Classifica: La Fiorita 20, "
+             "Virtus 15. Si gioca allo stadio di Acquaviva. Notizie da San Marino.")
+    def esce(titolo):
+        return f.controlla(f"{titolo}\n{corpo}", True, sportivo=True, testa=titolo)
+    # articoli arrivati sul canale che non c'entravano: ora no
+    for titolo in [
+        "San Marino. La Juvenes Dogana prepara la sfida contro il Murata",
+        "Calcio Femminile: le convocate del Liechtenstein per l'amichevole di San Marino",
+        "Futsal, la Juvenes Dogana vince il derby in rimonta e aggancia la Folgore",
+        "La Fiorita, Mularoni: \"Importante vincere contro la Folgore per accorciare\"",
+        "Quarti Coppa Titano, scialbo 0-0 tra La Fiorita e Cosmos",
+        "Rossi: \"Mi è piaciuta la fase in cui abbiamo sofferto\"",
+        "Futsal, La Fiorita completa la rincorsa: battuto il Pennarossa, è primo posto",
+        "Cevoli: \"Nei sorteggi per Euro '28 spero in un girone da 5\"",
+        "10° turno: La Fiorita-Tre Penne in diretta su RTV, Faetano senza portiere col Penna",
+    ]:
+        assert esce(titolo) is None, titolo
+    # articoli sulla Virtus: sì
+    for titolo in [
+        "Coppa Titano: ok Tre Penne e Virtus, Domagnano-Tre Fiori sospesa per nebbia",
+        "Futsal, il Tre Penne batte la Virtus nel finale e avvicina il quarto posto",
+        "#futsalmercato, Gagliole: dalla Virtus San Marino arriva Jacopo Viggiani",
+    ]:
+        assert esce(titolo) == "virtus", titolo
+    # Nazionale: solo se nel titolo e si gioca ad Acquaviva
+    assert esce("La Nazionale prepara l'amichevole con il Liechtenstein")
