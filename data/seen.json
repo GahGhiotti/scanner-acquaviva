@@ -1,14 +1,14 @@
 {
  "inizializzata": true,
  "ultimo": {
-  "arengo": "2026-11-27T13:02:12+00:00",
-  "fonte:San Marino RTV": "2026-11-28T09:01:20+00:00",
-  "fonte:GiornaleSM": "2026-11-28T09:01:20+00:00",
-  "fonte:Insider": "2026-11-28T09:01:22+00:00",
-  "fonte:Libertas": "2026-11-28T09:01:23+00:00",
-  "fonte:Google News": "2026-11-28T09:01:24+00:00",
-  "fonte:Consiglio Grande e Generale": "2026-11-27T13:02:12+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-28T09:01:26+00:00"
+  "arengo": "2026-11-28T10:01:31+00:00",
+  "fonte:San Marino RTV": "2026-11-28T10:01:19+00:00",
+  "fonte:GiornaleSM": "2026-11-28T10:01:19+00:00",
+  "fonte:Insider": "2026-11-28T10:01:21+00:00",
+  "fonte:Libertas": "2026-11-28T10:01:22+00:00",
+  "fonte:Google News": "2026-11-28T10:01:23+00:00",
+  "fonte:Consiglio Grande e Generale": "2026-11-28T10:01:31+00:00",
+  "fonte:Ordinanze Affari Interni": "2026-11-28T10:01:25+00:00"
  },
  "pubblicati": [
   {
@@ -1258,6 +1258,7 @@
   "t:lotta alla disinformazione in una tavola rotonda a confronto san marino e polonia": "2026-11-20",
   "t:luca lazzari psd il mercato unico europeo ci apre delle possibilita nuove": "2026-11-24",
   "t:luce e gas l eventuale passaggio alla tariffa fissa va fatto entro il 30 novembre 2026": "2026-11-27",
+  "t:luce e gas prezzo fisso per un anno c e tempo fino al 30 novembre forcellini a a s s non esiste una soluzione universalmente piu conveniente": "2026-11-28",
   "t:maestri e allievi una sola orchestra l istituto musicale sammarinese festeggia santa cecilia e apre il nuovo anno": "2026-11-21",
   "t:maestri e allievi una sola orchestra l istituto musicale sammarinese festeggia santa cecilia e apre il nuovo anno domenica 22 novembre 2026 ore 18 00 basilica del santo san marino citta ingresso libero": "2026-11-21",
   "t:magie d arredo il design su misura che da un identita a ogni spazio": "2026-11-24",
@@ -1915,6 +1916,7 @@
   "t:san marino al via il 1 trofeo internazionale montecerreto oltre 250 atleti a borgo maggiore": "2026-11-22",
   "t:san marino al via il corso di alta formazione in infermieristica pediatrica": "2026-11-21",
   "t:san marino al via il natale delle meraviglie mercatini spettacoli e il villaggio degli elfi": "2026-11-27",
+  "t:san marino al via il natale delle meraviglie mercatini spettacoli e villaggio degli elfi": "2026-11-28",
   "t:san marino al via il salotto letterario di villino bonelli presentazione della raccolta poetica battiti di alessandra parenti": "2026-11-23",
   "t:san marino al via la legge contro la violenza sul lavoro libera nessuna donna debba scegliere tra dignita e stipendio": "2026-11-25",
   "t:san marino al via la sessione consiliare di novembre verso la ratifica dell accordo di associazione con l unione europea": "2026-11-22",
@@ -2978,6 +2980,7 @@
   "u:https://insider.sm/ladri-in-casa-mentre-due-anziani-sono-in-cucina-decine-di-vicini-corrono-in-loro-aiuto/": "2026-11-28",
   "u:https://insider.sm/lorenzo-bugli-pdcs-accordo-con-lue-una-scelta-consapevole-che-guarda-al-futuro-delle-nuove-generazioni/": "2026-11-24",
   "u:https://insider.sm/luca-lazzari-psd-il-mercato-unico-europeo-ci-apre-delle-possibilita-nuove/": "2026-11-24",
+  "u:https://insider.sm/luce-e-gas-prezzo-fisso-per-un-anno-ce-tempo-fino-al-30-novembre-forcellini-a-a-s-s-non-esiste-una-soluzione-universalmente-piu-conveniente/": "2026-11-28",
   "u:https://insider.sm/lue-prepara-nuove-sanzioni-contro-mosca-nel-mirino-60-banche-russe/": "2026-11-24",
   "u:https://insider.sm/manchester-evacuata-larena-durante-il-concerto-di-don-toliver/": "2026-11-23",
   "u:https://insider.sm/manovra-salvini-annuncia-850-milioni-per-quota-64/": "2026-11-25",
@@ -4261,6 +4264,7 @@
   "u:https://www.sanmarinortv.sm/news/attualita-c4/rinnovato-il-protocollo-di-intesa-tra-l-ordine-degli-ingegneri-e-architetti-di-san-marino-e-quello-italiano-a298614": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/attualita-c4/sal-da-vinci-su-san-marino-rtv-con-meravigliosamente-a298632": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/attualita-c4/salute-nella-prima-infanzia-a-gennaio-2027-parte-a-san-marino-la-nuova-sorveglianza-0-2-anni-a298928": "2026-11-23",
+  "u:https://www.sanmarinortv.sm/news/attualita-c4/san-marino-al-via-il-natale-delle-meraviglie-mercatini-spettacoli-e-villaggio-degli-elfi-a299132": "2026-11-28",
   "u:https://www.sanmarinortv.sm/news/attualita-c4/san-marino-allerta-gialla-per-martedi-17-novembre-previsto-vento-forte-a298579": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/attualita-c4/san-marino-dal-consiglio-via-libera-ai-nuovi-naturalizzati-i-nuovi-cognomi-raccontano-una-societa-che-cambia-a298954": "2026-11-25",
   "u:https://www.sanmarinortv.sm/news/attualita-c4/san-marino-dopo-oltre-tre-mesi-finisce-l-emergenza-idrica-a298605": "2026-11-20",
