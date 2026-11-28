@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-27T13:02:12+00:00",
-  "fonte:San Marino RTV": "2026-11-28T04:01:12+00:00",
-  "fonte:GiornaleSM": "2026-11-28T04:01:12+00:00",
-  "fonte:Insider": "2026-11-28T04:01:13+00:00",
-  "fonte:Libertas": "2026-11-28T04:01:14+00:00",
-  "fonte:Google News": "2026-11-28T04:01:16+00:00",
+  "fonte:San Marino RTV": "2026-11-28T05:01:16+00:00",
+  "fonte:GiornaleSM": "2026-11-28T05:01:16+00:00",
+  "fonte:Insider": "2026-11-28T05:01:18+00:00",
+  "fonte:Libertas": "2026-11-28T05:01:19+00:00",
+  "fonte:Google News": "2026-11-28T05:01:21+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-27T13:02:12+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-28T04:01:17+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-28T05:01:24+00:00"
  },
  "pubblicati": [
   {
@@ -628,6 +628,7 @@
   "t:centrosinistra al fulgor applausi per angelini ma resta il nodo candidatura": "2026-11-23",
   "t:cesena dal 27 al 29 novembre 2027 il festival dell oriente": "2026-11-27",
   "t:cesena nuova stagione per i notturnali in malatestiana sabato 21 novembre ritornano le visite spettacolo a lume di candela in biblioteca": "2026-11-21",
+  "t:cesena sosta prima ora gratuita in centro dal 28 novembre al 6 gennaio": "2026-11-28",
   "t:cesenatico avanzano i lavori per il nuovo waterfront di ponente": "2026-11-25",
   "t:cesenatico domenica 29 novembre un cielo di luci per il presepe della marineria": "2026-11-21",
   "t:cesenatico oro mondiale nel pattinaggio sincronizzato per l atleta mandala": "2026-11-26",
@@ -2206,6 +2207,7 @@
   "t:santa mustiola furgone per la consegna del pane in fiamme all alba distrutto l abitacolo foto": "2026-11-20",
   "t:santarcangelo furto alla scuola pascucci rubati 24 pc terzo furto in un anno": "2026-11-25",
   "t:santarcangelo tenta di rubare uno scooter nella notte arrestato 18enne": "2026-11-24",
+  "t:santarcangelo week care eventi gratuiti dal 28 novembre": "2026-11-28",
   "t:sara conti rf dobbiamo essere capaci di aprirci all esterno senza paura": "2026-11-24",
   "t:sara murata virtus la finale del campionato sammarinese di futsal": "2026-11-20",
   "t:satira il dito nell occhio del giovedi renzi in preda al paperismo ormai e cabaret consiliare": "2026-11-26",
@@ -2789,6 +2791,7 @@
   "u:https://giornalesm.com/san-marino-usl-i-bambini-sono-i-fiori-piu-belli-domenica-22-vi-aspettiamo-in-galleria-carisp/": "2026-11-22",
   "u:https://giornalesm.com/san-marino-violenza-e-molestie-sul-lavoro-csu-finalmente-la-legge-ora-strumenti-concreti-per-far-emergere-e-reprimere-il-fenomeno/": "2026-11-26",
   "u:https://giornalesm.com/santarcangelo-furto-alla-scuola-pascucci-rubati-24-pc-terzo-furto-in-un-anno/": "2026-11-25",
+  "u:https://giornalesm.com/santarcangelo-week-care-eventi-gratuiti-dal-28-novembre/": "2026-11-28",
   "u:https://giornalesm.com/satira-il-dito-nellocchio-del-giovedi-renzi-in-preda-al-paperismo-ormai-e-cabaret-consiliare/": "2026-11-26",
   "u:https://giornalesm.com/sciopero-generale-croatti-e-lanzi-m5s-migliaia-in-piazza-in-emilia-romagna-ora-il-governo-cambi-la-manovra/": "2026-11-21",
   "u:https://giornalesm.com/scuderia-san-marino-il-rally-del-brunello-crocevia-della-stagione-su-terra-e-delleuropeo-storico/": "2026-11-27",
@@ -2796,6 +2799,7 @@
   "u:https://giornalesm.com/sfida-impossibile-a-san-marino-protagonista-della-nuova-puntata-lex-calciatore-nicola-ventola-sabato-21-novembre-alle-14-30-su-italia-1/": "2026-11-21",
   "u:https://giornalesm.com/simone-grana-al-uefa-medical-committee-di-novembre-san-marino/": "2026-11-27",
   "u:https://giornalesm.com/smac-3-0-dal-1-gennaio-cambiano-le-regole-per-gli-esercenti-convegno-il-27-novembre/": "2026-11-23",
+  "u:https://giornalesm.com/sosta-gratuita-in-centro-per-le-festivita-natalizie-lassessore-allo-sviluppo-economico-lorenzo-plumari-replica-a-fratelli-ditalia-misura-gia-programmata-e-condivisa-con-le/": "2026-11-28",
   "u:https://giornalesm.com/speciale-promo-freeshop-prendi-3-paghi-2/": "2026-11-21",
   "u:https://giornalesm.com/stalking-a-rimini-entra-due-volte-nellarea-vietata-nella-stessa-giornata-scatta-larresto-grazie-allallarme-del-braccialetto-elettronico/": "2026-11-20",
   "u:https://giornalesm.com/taekwondo-san-marino-malta-international-open-2026-e-2-21-22-11-2026/": "2026-11-22",
