@@ -235,3 +235,17 @@ def test_sport_solo_se_la_squadra_e_nel_titolo():
         assert esce(titolo) == "virtus", titolo
     # Nazionale: solo se nel titolo e si gioca ad Acquaviva
     assert esce("La Nazionale prepara l'amichevole con il Liechtenstein")
+
+
+def test_anteprima_partita_senza_parola_calcio():
+    from scanner.fonti import Articolo
+    from scanner.telegram import categoria
+    cfg = yaml.safe_load((Path(__file__).parent.parent / "config" / "config.yaml").read_text(encoding="utf-8"))
+    titolo = "San Marino. Nigretti sfida il Tre Penne: servirà un’altra battaglia"
+    lead = "Prima Pagina San Marino Il difensore de La Fiorita Nigretti presenta la sfida di domani alle 15 ad Acquaviva"
+    a = Articolo(titolo, "https://giornalesm.com/x", "GiornaleSM", True, etichette=lead)
+    assert categoria(a, cfg)[1] == "Sport · Calcio"
+    corpo = "La Fiorita si prepara ad affrontare la capolista Tre Penne domani alle ore 15 sul campo di Acquaviva."
+    assert f.controlla(f"{titolo}\n{corpo}", True, sportivo=True, testa=f"{titolo} {lead}") is None
+    # la visita dei Reggenti alla scuola di Acquaviva invece è una notizia del castello
+    assert f.controlla("I Reggenti nelle scuole: Chiesanuova, Acquaviva, Serravalle", True) == "acquaviva"

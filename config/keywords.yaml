@@ -180,6 +180,20 @@ sport:
     - cantanti
     - vecchie glorie
     - memorial
+  # Nello sport "Acquaviva" da sola non basta (di solito dice solo dove si gioca):
+  # conta se nel titolo o nelle prime righe c'è anche una di queste parole,
+  # cioè una gara che PASSA per il castello.
+  passaggio:
+    - attraversa
+    - attraversera
+    - passa per
+    - passera per
+    - passa da
+    - passaggio
+    - transita
+    - transito
+    - percorso
+    - tappa
   # Frasi che indicano solo DOVE si gioca: da sole non bastano.
   # Se dopo averle tolte "Acquaviva" compare ancora (es. una gara che passa per
   # Acquaviva), la notizia esce.

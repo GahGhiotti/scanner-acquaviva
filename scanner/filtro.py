@@ -31,6 +31,7 @@ class Filtro:
         self.squadre_di_casa = [normalizza(p) for p in sport.get("squadre_di_casa") or []]
         self.ospiti_ammessi = [normalizza(p) for p in sport.get("ospiti_ammessi") or []]
         self.solo_campo = [normalizza(p) for p in sport.get("solo_campo") or []]
+        self.passaggio = [normalizza(p) for p in sport.get("passaggio") or []]
 
     def controlla(self, testo: str, sammarinese: bool, sportivo: bool = False, testa: str = "") -> str | None:
         """Restituisce la parola che ha fatto scattare la pubblicazione, oppure None.
@@ -95,9 +96,13 @@ class Filtro:
         for parola in self.forti:
             if parola in h:
                 return parola.strip()
-        for parola in self.acquaviva:
-            if parola in h and parola not in self.squadre_di_casa and (sammarinese or contesto):
-                return parola.strip()
+        # "Acquaviva" da sola, nello sport, di solito dice solo dove si gioca
+        # ("ad Acquaviva", "sul campo di Acquaviva"): conta solo se si parla di
+        # un percorso che passa dal castello (gare ciclistiche, rally, corse).
+        if any(p in h for p in self.passaggio):
+            for parola in self.acquaviva:
+                if parola in h and parola not in self.squadre_di_casa and (sammarinese or contesto):
+                    return parola.strip()
         return None
 
 
