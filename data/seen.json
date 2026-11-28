@@ -2,29 +2,15 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-27T13:02:12+00:00",
-  "fonte:San Marino RTV": "2026-11-28T07:01:16+00:00",
-  "fonte:GiornaleSM": "2026-11-28T07:01:16+00:00",
-  "fonte:Insider": "2026-11-28T07:01:18+00:00",
-  "fonte:Libertas": "2026-11-28T07:01:19+00:00",
-  "fonte:Google News": "2026-11-28T07:01:20+00:00",
+  "fonte:San Marino RTV": "2026-11-28T08:00:07+00:00",
+  "fonte:GiornaleSM": "2026-11-28T08:00:07+00:00",
+  "fonte:Insider": "2026-11-28T08:00:09+00:00",
+  "fonte:Libertas": "2026-11-28T08:00:10+00:00",
+  "fonte:Google News": "2026-11-28T08:00:11+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-27T13:02:12+00:00",
   "fonte:Ordinanze Affari Interni": "2026-11-28T07:01:22+00:00"
  },
  "pubblicati": [
-  {
-   "id": 23,
-   "data": "2026-11-25T07:02:01+00:00",
-   "articoli": [
-    {
-     "titolo": "Torna la Coppa Titano con i quarti di andata",
-     "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/torna-la-coppa-titano-con-i-quarti-di-andata-a298967",
-     "fonte": "San Marino RTV",
-     "nome_fonte_config": "San Marino RTV",
-     "parola": "virtus",
-     "etichette": "Calcio Samm. Questa sera in diretta su RTV Sport la sfida tra La Fiorita e il Cosmos dalle 20:45"
-    }
-   ]
-  },
   {
    "id": 24,
    "data": "2026-11-25T11:02:21+00:00",
@@ -584,6 +570,7 @@
   "t:cambio al vertice di osla irish de biagi prende il posto di luigi tontini": "2026-11-22",
   "t:campionato la virtus batte la san marino academy": "2026-11-20",
   "t:campionato sammarinese ecco il calendario sara subito e ancora la fiorita virtus in coppa si apre col derby di fiorentino": "2026-11-20",
+  "t:campionato sammarinese la fiorita tre penne infiamma la corsa al primato": "2026-11-28",
   "t:campionato sammarinese la virtus alla volata finale": "2026-11-20",
   "t:campionato sammarinese tre penne in vetta da solo vincono anche cailungo e academy": "2026-11-22",
   "t:campionato san marino juvenes dogana contro la virtus per provare la reazione": "2026-11-23",
@@ -658,6 +645,7 @@
   "t:ci ha lasciati germana pazzini": "2026-11-22",
   "t:ci ha lasciati giorgio zonzini": "2026-11-22",
   "t:ciclabile con guado inaugurato il nuovo tratto fra chiesanuova e gualdicciolo": "2026-11-22",
+  "t:ciclista morta nel sottopasso a riccione confermato il risarcimento di oltre 419mila euro ai familiari": "2026-11-28",
   "t:cimiteri prosegue nei castelli il percorso di informazione e confronto con i cittadini a dicembre quattro serate pubbliche": "2026-11-27",
   "t:cimiteri quattro incontri pubblici per illustrare gli interventi previsti nel 2027": "2026-11-28",
   "t:cina stati uniti e russia firmano una dichiarazione di pace intesa sul dialogo nucleare": "2026-11-20",
@@ -697,6 +685,7 @@
   "t:consiglio d europa aperte le candidature per rejuvenating politics 2027": "2026-11-23",
   "t:consiglio grande e generale arriva in aula la ratifica dell accordo con l ue sei giornate di lavori dal 23 novembre": "2026-11-20",
   "t:consiglio grande e generale sette giorni di lavori al centro la ratifica degli accordi con l ue e il bilancio 2027": "2026-11-20",
+  "t:consiglio via libera ai decreti tra tensioni sul servizio minori e novita sulla fatturazione elettronica": "2026-11-28",
   "t:consulta socio sanitaria al centro libera professione dei medici iss e prestazioni intramurarie": "2026-11-20",
   "t:conte in commissione covid non potevamo ragionare per algoritmi": "2026-11-23",
   "t:conte in commissione covid scontro con bignami sul plotone di esecuzione": "2026-11-24",
@@ -777,6 +766,7 @@
   "t:de gennaro la famiglia chiede di pubblicare per intero la lettera": "2026-11-27",
   "t:decreto scuola ancora un voto di fiducia posto dal governo": "2026-11-24",
   "t:di cosa parlera il rettore dell universita di san marino durante la cerimonia di inaugurazione dell anno accademico": "2026-11-23",
+  "t:dialetto sport e creativita i capitani reggenti in visita nelle scuole": "2026-11-28",
   "t:diciannove ragazzi si perdono sul monte cerreto recuperati dai vigili del fuoco a tramonti": "2026-11-22",
   "t:dieci grammi o mezzo chilo i formati del caviale marino rex": "2026-11-24",
   "t:dimissioni online via libera del congresso di stato a san marino": "2026-11-20",
@@ -2899,6 +2889,7 @@
   "u:https://insider.sm/bilancio-ue-trattativa-fino-a-notte-a-bruxelles-meloni-chiede-garanzie-su-agricoltura-e-coesione/": "2026-11-27",
   "u:https://insider.sm/borse-europee-in-calo-milano-perde-il-248/": "2026-11-21",
   "u:https://insider.sm/caldaie-e-condizionatori-ordinati-in-eccesso-truffa-da-110mila-euro-condannato-un-sammarinese/": "2026-11-27",
+  "u:https://insider.sm/campionato-sammarinese-la-fiorita-tre-penne-infiamma-la-corsa-al-primato/": "2026-11-28",
   "u:https://insider.sm/capotreno-ucciso-alla-stazione-di-bologna-ergastolo-per-marin-jelenic/": "2026-11-26",
   "u:https://insider.sm/carlotta-andruccioli-d-ml-una-legittimazione-popolare-avrebbe-potuto-dare-maggiore-forza-anche-allazione-dellintera-classe-politica-sammarinese/": "2026-11-24",
   "u:https://insider.sm/caro-carburanti-san-marino-proroga-lo-sconto-di-20-centesimi-al-litro-sulla-smac/": "2026-11-27",
@@ -2918,6 +2909,7 @@
   "u:https://insider.sm/cittadinanza-per-nascita-negli-usa-secondo-stop-al-decreto-di-trump/": "2026-11-27",
   "u:https://insider.sm/consiglieri-liberi-o-ostaggi-del-partito-motus-contesta-la-tutela-a-pelliccioni-ma-laveva-chiesta-anche-per-se/": "2026-11-23",
   "u:https://insider.sm/consiglio-deuropa-aperte-le-candidature-per-rejuvenating-politics-2027/": "2026-11-23",
+  "u:https://insider.sm/consiglio-via-libera-ai-decreti-tra-tensioni-sul-servizio-minori-e-novita-sulla-fatturazione-elettronica/": "2026-11-28",
   "u:https://insider.sm/conte-in-commissione-covid-scontro-con-bignami-sul-plotone-di-esecuzione/": "2026-11-24",
   "u:https://insider.sm/cop31-le-associazioni-delle-persone-con-disabilita-chiedono-un-posto-nei-negoziati-sul-clima/": "2026-11-20",
   "u:https://insider.sm/cop31-salta-laccordo-sul-clima-lue-respinge-il-testo-finale/": "2026-11-23",
@@ -2928,6 +2920,7 @@
   "u:https://insider.sm/d-ml-il-paese-ha-bisogno-di-risposte-non-di-provocazioni-e-questioni-personali/": "2026-11-25",
   "u:https://insider.sm/d-ml-violare-contratti/": "2026-11-22",
   "u:https://insider.sm/de-gennaro-la-famiglia-chiede-di-pubblicare-per-intero-la-lettera/": "2026-11-27",
+  "u:https://insider.sm/dialetto-sport-e-creativita-i-capitani-reggenti-in-visita-nelle-scuole/": "2026-11-28",
   "u:https://insider.sm/dieci-grammi-o-mezzo-chilo-i-formati-del-caviale-marino-rex/": "2026-11-24",
   "u:https://insider.sm/disabilita-e-lavoro-la-riforma-arriva-in-consiglio/": "2026-11-21",
   "u:https://insider.sm/due-cani-liberi-sulla-ciclabile-aggrediscono-un-61enne-nei-guai-le-proprietarie/": "2026-11-24",
@@ -4482,6 +4475,7 @@
   "u:https://www.sanmarinortv.sm/news/italia-c7/cattolica-lite-in-strada-e-aggressione-ai-carabinieri-arrestato-33enne-a299041": "2026-11-26",
   "u:https://www.sanmarinortv.sm/news/italia-c7/cattolica-tentato-furto-nella-notte-in-un-hotel-dismesso-tre-arresti-a299021": "2026-11-25",
   "u:https://www.sanmarinortv.sm/news/italia-c7/centrosinistra-al-fulgor-applausi-per-angelini-ma-resta-il-nodo-candidatura-a298896": "2026-11-23",
+  "u:https://www.sanmarinortv.sm/news/italia-c7/ciclista-morta-nel-sottopasso-a-riccione-confermato-il-risarcimento-di-oltre-419mila-euro-ai-familiari-a299130": "2026-11-28",
   "u:https://www.sanmarinortv.sm/news/italia-c7/commissione-covid-scontro-tra-bignami-fdi-e-conte-m5s-a298911": "2026-11-23",
   "u:https://www.sanmarinortv.sm/news/italia-c7/conte-in-commissione-covid-non-potevamo-ragionare-per-algoritmi-a298932": "2026-11-23",
   "u:https://www.sanmarinortv.sm/news/italia-c7/coriano-il-progetto-amore-malamore-torna-a-parlare-agli-studenti-di-parita-di-genere-e-rispetto-a299127": "2026-11-27",
