@@ -2,29 +2,15 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-28T10:01:31+00:00",
-  "fonte:San Marino RTV": "2026-11-28T10:01:19+00:00",
-  "fonte:GiornaleSM": "2026-11-28T10:01:19+00:00",
-  "fonte:Insider": "2026-11-28T10:01:21+00:00",
-  "fonte:Libertas": "2026-11-28T10:01:22+00:00",
-  "fonte:Google News": "2026-11-28T10:01:23+00:00",
+  "fonte:San Marino RTV": "2026-11-28T11:01:21+00:00",
+  "fonte:GiornaleSM": "2026-11-28T11:01:21+00:00",
+  "fonte:Insider": "2026-11-28T11:01:22+00:00",
+  "fonte:Libertas": "2026-11-28T11:01:24+00:00",
+  "fonte:Google News": "2026-11-28T11:01:25+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-28T10:01:31+00:00",
   "fonte:Ordinanze Affari Interni": "2026-11-28T10:01:25+00:00"
  },
  "pubblicati": [
-  {
-   "id": 24,
-   "data": "2026-11-25T11:02:21+00:00",
-   "articoli": [
-    {
-     "titolo": "San Marino. La Juvenes Dogana prepara la sfida contro il Murata",
-     "url": "https://giornalesm.com/san-marino-la-juvenes-dogana-prepara-la-sfida-contro-il-murata/",
-     "fonte": "GiornaleSM",
-     "nome_fonte_config": "GiornaleSM",
-     "parola": "acquaviva",
-     "etichette": "San Marino Sport Sabato 28 novembre alle ore 15 la Juvenes Dogana affronterà il Murata sul campo di Domagnano per la decima giornata del campionato sammarinese. La squadra guidata dall’allenatore Camillini cerca un risultato utile per risalire la graduatoria e rientrare nella zona valida per i play-off. Il gruppo bi"
-    }
-   ]
-  },
   {
    "id": 25,
    "data": "2026-11-25T12:02:07+00:00",
@@ -326,6 +312,34 @@
      "etichette": "Videonotizie Attualità San Marino Sport 2-2 fino al 60'. Poi un'autorete regala il vantaggio al Tre Penne, che ad Acquaviva chiude 4-2. L'articolo Il Tre Penne ribalta la Virtus negli ultimi due minuti proviene da Insider.sm . 2-2 fino al 60′. Poi un’autorete regala il vantaggio al Tre Penne, che ad Acquaviva chiude 4-2. Il posticipo dell"
     }
    ]
+  },
+  {
+   "id": 43,
+   "data": "2026-11-28T11:02:26+00:00",
+   "articoli": [
+    {
+     "titolo": "San Marino. Nigretti sfida il Tre Penne: servirà un’altra battaglia",
+     "url": "https://giornalesm.com/san-marino-nigretti-sfida-il-tre-penne-servira-unaltra-battaglia/",
+     "fonte": "GiornaleSM",
+     "nome_fonte_config": "GiornaleSM",
+     "parola": "acquaviva",
+     "etichette": "Prima Pagina San Marino Il difensore de La Fiorita Nigretti presenta la sfida di domani alle 15 ad Acquaviva contro la capolista Tre Penne, sua ex squadra. La Fiorita si prepara ad affrontare la capolista Tre Penne domani alle ore 15 sul campo di Acquaviva, con il difensore ed ex della gara Nigretti che annuncia una sfida "
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "data": "2026-11-28T11:02:26+00:00",
+   "articoli": [
+    {
+     "titolo": "I Reggenti Gerardo Giovagnoli e William Casali nelle scuole, la fotocronaca.  Chiesanuova, Acquaviva, Serravalle, Domagnano, Cailungo. (foto Mw)",
+     "url": "https://www.libertas.sm/i-reggenti-gerardo-giovagnoli-e-william-casali-nelle-scuole-la-fotocronaca-chiesanuova-acquaviva-serravalle-domagnano-cailungo-foto-mw/",
+     "fonte": "Libertas",
+     "nome_fonte_config": "Libertas",
+     "parola": "acquaviva",
+     "etichette": "AA Slide homepage Attualità San Marino Scuola & Università Società Capitani regenti GerardoGiovagnoli scuole visita William Casali L'articolo I Reggenti Gerardo Giovagnoli e William Casali nelle scuole, la fotocronaca.  Chiesanuova, Acquaviva, Serravalle, Domagnano, Cailungo. (foto Mw) proviene da libertas ."
+    }
+   ]
   }
  ],
  "in_attesa": [],
@@ -450,6 +464,7 @@
   "t:al cinema la palestina di tutti": "2026-11-27",
   "t:al pranzo della domenica si puo parlare anche di morte lo spettacolo al teatro titano": "2026-11-20",
   "t:al via gli open day della scuola superiore nuovi indirizzi dal prossimo anno": "2026-11-21",
+  "t:al via il 1 trofeo internazionale montecerreto oltre 250 atleti a borgo maggiore": "2026-11-28",
   "t:al via il 1 trofeo internazionale montecerreto oltre 250 atleti ed atlete a borgo maggiore": "2026-11-22",
   "t:al via il processo per il killer dei cani apas organizza sit in davanti al tribunale": "2026-11-20",
   "t:alcaraz conquista le sue prime atp finals zverev battuto in due set": "2026-11-23",
@@ -765,6 +780,7 @@
   "t:ddl caccia licia colo in piazza e l ennesimo pugno in faccia": "2026-11-26",
   "t:de gennaro la famiglia chiede di pubblicare per intero la lettera": "2026-11-27",
   "t:decreto scuola ancora un voto di fiducia posto dal governo": "2026-11-24",
+  "t:derby di basket tensione alle stelle nel dopopartita assalto ai pullman dei tifosi pesaresi": "2026-11-28",
   "t:di cosa parlera il rettore dell universita di san marino durante la cerimonia di inaugurazione dell anno accademico": "2026-11-23",
   "t:dialetto sport e creativita i capitani reggenti in visita nelle scuole": "2026-11-28",
   "t:diciannove ragazzi si perdono sul monte cerreto recuperati dai vigili del fuoco a tramonti": "2026-11-22",
@@ -887,6 +903,7 @@
   "t:futuro nazionale riccione angelini annuncia il bis mentre restano aperte importanti questioni amministrative": "2026-11-25",
   "t:futuro nazionale rimini il commercio muore 455 attivita in meno dal 2012 quale futuro per il centro storico": "2026-11-21",
   "t:futuro nazionale rimini violenza sulle donne 334 richieste di aiuto nel 2026": "2026-11-24",
+  "t:gasparelli focus sui gpse di monaco 2027 mi sto allenando costantemente anche per i 200 metri piani": "2026-11-28",
   "t:gaza tende allagate e bambini esposti al freddo avaaz lancia una petizione per sbloccare gli aiuti umanitari": "2026-11-20",
   "t:geko gold colui che ha dell oro fa e realizza tutto cio che vuole al mondo": "2026-11-23",
   "t:gen sm a roma con i giovani democratici per il futuro europeo": "2026-11-20",
@@ -954,6 +971,7 @@
   "t:i pink floyd diventano danza e teatro con the wall dance tribute teatro nuovo san marino venerdi 27 novembre": "2026-11-24",
   "t:i pink floyd diventano danza e teatro con the wall dance tribute teatro nuovo venerdi 27 novembre": "2026-11-24",
   "t:i piu grandi combattenti italiani della storia": "2026-11-25",
+  "t:i reggenti gerardo giovagnoli e william casali nelle scuole la fotocronaca chiesanuova acquaviva serravalle domagnano cailungo foto mw": "2026-11-28",
   "t:icee belluzzi ci sono problemi sull applicativo stiamo cercando di risolverli confrontandoci con l osservatorio": "2026-11-23",
   "t:icee doveva garantire equita ora rischia di diventare uno strumento di controllo sui cittadini": "2026-11-20",
   "t:ieg lancia il pescare show award pubblico al centro tra premiazioni promozione sportiva e attivita speciali": "2026-11-27",
@@ -976,6 +994,7 @@
   "t:il ministro urso e una manovra di bilancio che guarda al futuro": "2026-11-26",
   "t:il natale delle meraviglie entra nella fiaba a san marino un weekend tra spettacoli mercatini e magia natalizia": "2026-11-27",
   "t:il paese ha bisogno di risposto non di provocazioni e questioni personali": "2026-11-25",
+  "t:il pianista del cinema bop tra gli estensi": "2026-11-28",
   "t:il premio de sanctis inaugura a san marino la sezione per la pace nonostante la neutralita persa con le sanzioni alla russia": "2026-11-22",
   "t:il presidente de pascale riccione con daniela ha ritrovato la rotta la sindaca angelini ora al lavoro insieme partiti e forze civiche del territorio per scrivere insieme il programma": "2026-11-23",
   "t:il presidente mattarella uscire dalla violenza e possibile e ci riguarda tutti": "2026-11-25",
@@ -1168,6 +1187,7 @@
   "t:italia suicidio de gennaro il testamento morale e le richieste dei familiari": "2026-11-27",
   "t:italia voto fuori sede domande entro il 31 dicembre per il 2027": "2026-11-24",
   "t:italiani uccisi in kuwait tajani annuncia una protesta con l ambasciata iraniana": "2026-11-27",
+  "t:javier fandino al san marino baseball": "2026-11-28",
   "t:jesi pretende un farmaco senza ricetta e aggredisce la dottoressa in farmacia un cliente interviene per difenderla ferito un 41enne nella colluttazione": "2026-11-24",
   "t:juventus e milan in campo stasera per il 5 turno di europa league": "2026-11-26",
   "t:kiev rivendica l attacco a due raffinerie russe": "2026-11-25",
@@ -1257,6 +1277,7 @@
   "t:lorenzo capicchioni finlandia squadra che ci ha messo piu in difficolta nelle rotazioni proveremo a prenderli alti": "2026-11-20",
   "t:lotta alla disinformazione in una tavola rotonda a confronto san marino e polonia": "2026-11-20",
   "t:luca lazzari psd il mercato unico europeo ci apre delle possibilita nuove": "2026-11-24",
+  "t:luce e gas il 30 novembre scade il termine per passare alla tariffa fissa la tabella esplicativa di csdl e sportello consumatori": "2026-11-28",
   "t:luce e gas l eventuale passaggio alla tariffa fissa va fatto entro il 30 novembre 2026": "2026-11-27",
   "t:luce e gas prezzo fisso per un anno c e tempo fino al 30 novembre forcellini a a s s non esiste una soluzione universalmente piu conveniente": "2026-11-28",
   "t:maestri e allievi una sola orchestra l istituto musicale sammarinese festeggia santa cecilia e apre il nuovo anno": "2026-11-21",
@@ -2111,6 +2132,7 @@
   "t:san marino naturalizzazioni elenco 106 nuove cittadinanze sammarinesi tutti i 112 beneficiari letti in aula dal segretario di stato andrea belluzzi": "2026-11-23",
   "t:san marino ne fa tre al liechtenstein nell amichevole di acquaviva": "2026-11-20",
   "t:san marino neve cerca casa dopo l intervento alle orecchie": "2026-11-23",
+  "t:san marino nigretti sfida il tre penne servira un altra battaglia": "2026-11-28",
   "t:san marino non esistono scuole di serie b e nemmeno ragazzi di serie b di prof ssa alba montanari": "2026-11-24",
   "t:san marino nuova antenna per la telefonia mobile a gualdicciolo venerdi 23 ottobre 2026 serata pubblica informativa": "2026-11-22",
   "t:san marino nuova sorveglianza bambini 0 2 anni da gennaio 2027": "2026-11-23",
@@ -2771,6 +2793,7 @@
   "u:https://giornalesm.com/san-marino-mercoledi-25-novembre-serata-degustazione-primi-al-piccolo-prenota-subito-366-845-2991/": "2026-11-24",
   "u:https://giornalesm.com/san-marino-motus-accordo-ue-la-maggioranza-procede-con-la-ratifica-e-blocca-il-referendum/": "2026-11-23",
   "u:https://giornalesm.com/san-marino-naturalizzazioni-elenco-106-nuove-cittadinanze-sammarinesi-tutti-i-112-beneficiari-letti-in-aula-dal-segretario-di-stato-andrea-belluzzi/": "2026-11-23",
+  "u:https://giornalesm.com/san-marino-nigretti-sfida-il-tre-penne-servira-unaltra-battaglia/": "2026-11-28",
   "u:https://giornalesm.com/san-marino-non-esistono-scuole-di-serie-b-e-nemmeno-ragazzi-di-serie-b-di-prof-ssa-alba-montanari/": "2026-11-24",
   "u:https://giornalesm.com/san-marino-nuova-rubrica-tutto-quello-che-e-successo-sul-titano-oggii-lelenco-di-tutti-gli-articoli-pubblicati-in-una-sola-pagina/": "2026-11-21",
   "u:https://giornalesm.com/san-marino-nuova-sorveglianza-bambini-0-2-anni-da-gennaio-2027/": "2026-11-23",
@@ -2924,6 +2947,7 @@
   "u:https://insider.sm/d-ml-il-paese-ha-bisogno-di-risposte-non-di-provocazioni-e-questioni-personali/": "2026-11-25",
   "u:https://insider.sm/d-ml-violare-contratti/": "2026-11-22",
   "u:https://insider.sm/de-gennaro-la-famiglia-chiede-di-pubblicare-per-intero-la-lettera/": "2026-11-27",
+  "u:https://insider.sm/derby-di-basket-tensione-alle-stelle-nel-dopopartita-assalto-ai-pullman-dei-tifosi-pesaresi/": "2026-11-28",
   "u:https://insider.sm/dialetto-sport-e-creativita-i-capitani-reggenti-in-visita-nelle-scuole/": "2026-11-28",
   "u:https://insider.sm/dieci-grammi-o-mezzo-chilo-i-formati-del-caviale-marino-rex/": "2026-11-24",
   "u:https://insider.sm/disabilita-e-lavoro-la-riforma-arriva-in-consiglio/": "2026-11-21",
@@ -3584,6 +3608,7 @@
   "u:https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA4Rm9TUFExTVpoZDRGOW5XcUpvSDRKZUpzamc4NzR1Y3hMLXdESlV6eTRRUFZYYnZYOVhOUV9lRHpRVzdYMjJ5MTdQcFlZT0NraE5aREF1MVphTG9qb0RPRm5CX01LenhTN2pxMHZ0ektPUk14OGZoUXBXUFhZR3luSzRrRHUxVkNXNk9ha05VNVVtSDEtUnhOOTk4dXl1WUxWajJ4dmxzeXhUVlk1TVAxZl85T2I2Mk1WLUYtanE4eWNVQy14NEg1aXk?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1R3bWd5aWd5WGUzVmc0cWozWUdvTWdWM3NfcF9aaW9NSnZLNW9uLWZVWjBkQ0ViZ3NEV0RSRmlaWXpweHFsc3Nkdkh5Unhzb2Rvd3JLemxLQTAwYTZDd0dGQko4Z3N5YS0zRzBKSmV0MU9GdWRnU21VUUowMEs0TTFzTThuRjRpYnRpSFduRFRMTElmSzVQaTM1c1huam1GS0NRMDh0NlZQZ29YeTNqQnM5cVFKbGEwOE1nYllZUFhyTmVSNW1ialBOTkw?oc=5": "2026-11-21",
   "u:https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWRsbjJaWUZ1VGhSN0lrOXRVbk5BdWx1RlZqSWpLM0VxTlhsWmQzV3A5RnBDcThVVHBWNGh3aC1BUHVDSEpURkRZZEFZTHdDQXAyMDZscjNud0xTUzJjRVo3Ti1pdGt3V0tKV0hBYklJRlVOalNFbnVOU0gtbk9mTGZlTFY0cEZwT2ROSnA2bnZSWnM4N1NmNHZsMzR3MC1XclF2RkFpVWJYU0R6ZjAtR2NoMTlPV3RPS2VkVDZGYVZlSkNFTm9qRVJvUmo?oc=5": "2026-11-20",
+  "u:https://news.google.com/rss/articles/CBMizAFBVV95cUxPei0xN3JmS256NGJIWUg1SkppZl9uRVJZLVJ4cGotcy1jMjN1RXpSSVM0UHV3ZHFtd2EwLVdwTVRWZjIyWC1JSXJ6NzJ5UmxsQlpVeFFlbUktdTJoazFaUUZwSmxUYWZSSXZ1ZHVFdDZjQlFCdFlVMWpZc0VxX3BoNEZFRTRCbXhrUlkyRmxxRUM1RmlVODdyMlcxdHB5U0MyQVFfbmlZMmhiYzBWODVqcWU0LVBWR19JQnNDTWJmUVkzVjNQZFpUcFlUWVo?oc=5": "2026-11-28",
   "u:https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFpnOFRkNmRsLTh5U3gxMkxRQTZmSS15bjhRc2Uza1d0UlBZTkJuQV9SMFctM3VVd3pSbzEzSnljSUdaSVRyOHppbE02QWRCcHpKMk9HTVg4TzlYQnpESjRqU3NKS1dLN1dtYWl1T09yVHBza3RUd01KZGxycFhLRnVKZlE1ZWpfSy1jcy1iMlNiUXlGb0U2LWpjM2RtWk9GODFYNkRNSlNfMWNZOENOS0UyUUVlZndNeHpqWUxNWHNTRWVBQzBZTEpMNHNvZw?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMizgFBVV95cUxOU1N0X2NyS3ZPUkNoc3FtWnBFX2RQQmhscC1kRlg1SGVyMjkwd1dIMFhiTjFkS3h0NHFoMWhZWGdyMTA0NUlDRzI3UG0wZTZIbE5SazdHblFzQ205MG5USUFjcHdjYzVqNFNobk9CbEJnVUdUVWluN3JUaDQwSzg3MTh4Z3VjcVFvNHM0OFJaazd3WWpJNThaR3Y3cWZhS1N1OWs1VXZIUzk3NkhWZExNSEFIeGNmb2xJVnMxMWVtNm1fbjdMdVluRko4dHlQUQ?oc=5": "2026-11-22",
   "u:https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUdoSjI0RUpCOWw5RnZIbW8tcVhtME02ZlNXRDB3VEl1eWFWRTd6Q0plWjB2dmhEazZTX25YLVFXM0phZjBiS0RxeVM3Z3JKQ0pHckhCS29PTWZFaXhWakVVRm1WYnp6WEdMeWdRTXhlZWhfajgySDFQTlEyQ2J5SHZCRmhjVmJGcjh4OVp6WGpnWUI1WW5BUnZjSUY5NXN6Zi1kSUZia0JSaUdJOHRseDNzUG9rQ2Zzd0lZQjVfbTdXaExFQ1U4dlNDWGd5QQ?oc=5": "2026-11-21",
@@ -4115,6 +4140,7 @@
   "u:https://www.libertas.sm/giornata-mondiale-dellinfanzia-unicef-italia-dedica-il-2026-al-diritto-alla-pace/": "2026-11-20",
   "u:https://www.libertas.sm/giornata-per-la-lotta-alla-violenza-sulle-donne-di-ranfo/": "2026-11-25",
   "u:https://www.libertas.sm/giudice-cedu-il-governo-sceglie-la-terna-tre-candidati-italiani-imbarazzante-fuga-di-notizie/": "2026-11-27",
+  "u:https://www.libertas.sm/i-reggenti-gerardo-giovagnoli-e-william-casali-nelle-scuole-la-fotocronaca-chiesanuova-acquaviva-serravalle-domagnano-cailungo-foto-mw/": "2026-11-28",
   "u:https://www.libertas.sm/il-sacchificio-industriale-sammarinese-celebra-60-anni-di-attivita/": "2026-11-21",
   "u:https://www.libertas.sm/incendio-allalba-a-santa-mustiola-a-fuoco-un-mezzo-per-il-trasporto-del-pane/": "2026-11-20",
   "u:https://www.libertas.sm/inline-freestyle-quattro-podi-per-san-marino-alla-busto-battle-11-matilde-terenzi-vince-nello-slide/": "2026-11-20",
@@ -4126,6 +4152,7 @@
   "u:https://www.libertas.sm/lassenza-ha-un-nome-il-podcast-che-racconta-tre-donne-scomparse/": "2026-11-24",
   "u:https://www.libertas.sm/lassociazione-san-marino-cina-a-shanghai-per-il-70-anniversario-dellorganizzazione-di-amicizia/": "2026-11-20",
   "u:https://www.libertas.sm/lavoro-migrazioni-e-dignita-universita-e-sindacati-insieme-per-i-diritti-delle-donne/": "2026-11-22",
+  "u:https://www.libertas.sm/luce-e-gas-il-30-novembre-scade-il-termine-per-passare-alla-tariffa-fissa-la-tabella-esplicativa-di-csdl-e-sportello-consumatori/": "2026-11-28",
   "u:https://www.libertas.sm/montalbo-esumazione-delle-tombe-degli-animali-richieste-per-il-ritiro-delle-ceneri-entro-il-24-novembre/": "2026-11-20",
   "u:https://www.libertas.sm/nuoto-pinnato-20-medaglie-per-san-marino-al-10o-trofeo-titano/": "2026-11-20",
   "u:https://www.libertas.sm/nuoto-pinnato-san-marino-conquista-13-medaglie-alla-nevera-cup-in-croazia/": "2026-11-20",
@@ -4424,6 +4451,7 @@
   "u:https://www.sanmarinortv.sm/news/cultura-c6/chicco-giuliani-torna-a-san-marino-con-il-suo-primo-romanzo-a299040": "2026-11-26",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/giornata-contro-la-violenza-sulle-donne-dall-arte-di-palazzo-graziani-a-orange-the-world-a299072": "2026-11-26",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/il-cfp-cambia-volto-dal-2027-percorso-quinquennale-serata-di-orientamento-con-le-famiglie-a298621": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/news/cultura-c6/il-pianista-del-cinema-bop-tra-gli-estensi-a299133": "2026-11-28",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/il-rito-in-un-opera-desertica-franco-cilena-a298797": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/il-villino-bonelli-ricomincia-dall-arte-al-via-la-collettiva-nuovo-spazio-per-la-cultura-a298550": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/cultura-c6/in-giro-per-i-castelli-nella-repubblica-di-san-marino-a298783": "2026-11-20",
@@ -4671,10 +4699,12 @@
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/canicross-per-san-marino-2-ori-e-1-bronzo-ai-campionati-del-mondo-a298334": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/federazione-sammarinese-atletica-leggera-una-stagione-da-celebrare-a299095": "2026-11-27",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/fiarc-altri-sei-podi-per-i-lunghi-archi-di-san-marino-a298401": "2026-11-20",
+  "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/gasparelli-focus-sui-gpse-di-monaco-2027-mi-sto-allenando-costantemente-anche-per-i-200-metri-piani-a299137": "2026-11-28",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/ginnastica-san-marino-e-settimo-a-livorno-a298917": "2026-11-23",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/grande-successo-per-il-trofeo-titano-sansovini-c-e-la-possibilita-di-ospitare-un-campionato-europee-juniores-a298591": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/gregoroni-soddisfatta-di-dakar-2026-ma-gia-concentrata-sui-prossimi-obiettivi-a298315": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/i-lunghi-archi-finale-di-campionato-sammarinese-con-16-nuovi-tesserati-al-tiro-a299081": "2026-11-26",
+  "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/javier-fandino-al-san-marino-baseball-a299138": "2026-11-28",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/marco-pondini-ceccoli-vince-il-trofeo-senza-frontiere-a298531": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/nations-league-san-marino-bielorussia-in-diretta-su-san-marino-rtv-a298412": "2026-11-20",
   "u:https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/nuoto-giacomo-casadei-a-pechino-per-i-mondiali-in-vasca-corta-a299120": "2026-11-27",
