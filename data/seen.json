@@ -2,13 +2,13 @@
  "inizializzata": true,
  "ultimo": {
   "arengo": "2026-11-27T13:02:12+00:00",
-  "fonte:San Marino RTV": "2026-11-28T08:00:07+00:00",
-  "fonte:GiornaleSM": "2026-11-28T08:00:07+00:00",
-  "fonte:Insider": "2026-11-28T08:00:09+00:00",
-  "fonte:Libertas": "2026-11-28T08:00:10+00:00",
-  "fonte:Google News": "2026-11-28T08:00:11+00:00",
+  "fonte:San Marino RTV": "2026-11-28T09:01:20+00:00",
+  "fonte:GiornaleSM": "2026-11-28T09:01:20+00:00",
+  "fonte:Insider": "2026-11-28T09:01:22+00:00",
+  "fonte:Libertas": "2026-11-28T09:01:23+00:00",
+  "fonte:Google News": "2026-11-28T09:01:24+00:00",
   "fonte:Consiglio Grande e Generale": "2026-11-27T13:02:12+00:00",
-  "fonte:Ordinanze Affari Interni": "2026-11-28T07:01:22+00:00"
+  "fonte:Ordinanze Affari Interni": "2026-11-28T09:01:26+00:00"
  },
  "pubblicati": [
   {
@@ -818,6 +818,7 @@
   "t:erasmus delegazione di docenti portoghesi ricevuta a san marino": "2026-11-20",
   "t:errando 2026 aperte le iscrizioni per la tappa sogliano al rubicone acquaviva": "2026-11-21",
   "t:europa conti pubblici e caso abusi sui minori l agenda del consiglio grande e generale": "2026-11-20",
+  "t:evolution forum day 30 edizione segui la diretta": "2026-11-28",
   "t:ex tiro a volo al via l iter della legge di iniziativa popolare": "2026-11-27",
   "t:ex tiro a volo di murata intesa per farne un parco pubblico": "2026-11-27",
   "t:f1 las vegas russell il piu veloce delle fp2 8 antonelli": "2026-11-20",
@@ -1236,6 +1237,7 @@
   "t:la virtus si prende la vetta momentanea successi importanti per cosmos e fiorentino": "2026-11-21",
   "t:la virtus torna capolista ora ci sono 3 squadre in 5 punti": "2026-11-21",
   "t:ladri alla filiale bsm di gualdicciolo bottino di 45mila euro": "2026-11-20",
+  "t:ladri in casa mentre due anziani sono in cucina decine di vicini corrono in loro aiuto": "2026-11-28",
   "t:las vegas antonelli il piu veloce in qualifica ma la pole va a verstappen": "2026-11-21",
   "t:lavoro a san marino i dipendenti privati superano quota 19 000": "2026-11-20",
   "t:lavoro cdls chiede un confronto su nuovi modelli organizzativi": "2026-11-20",
@@ -2973,6 +2975,7 @@
   "u:https://insider.sm/la-fiorita-ribalta-la-folgore-con-due-gol-nel-recupero/": "2026-11-21",
   "u:https://insider.sm/la-pedina-la-minaccia-e-la-chiama-129-volte-in-un-giorno-arrestato-lex-compagno/": "2026-11-26",
   "u:https://insider.sm/la-srl-piu-cara-deuropa-forse-ce-labbiamo-a-san-marino/": "2026-11-20",
+  "u:https://insider.sm/ladri-in-casa-mentre-due-anziani-sono-in-cucina-decine-di-vicini-corrono-in-loro-aiuto/": "2026-11-28",
   "u:https://insider.sm/lorenzo-bugli-pdcs-accordo-con-lue-una-scelta-consapevole-che-guarda-al-futuro-delle-nuove-generazioni/": "2026-11-24",
   "u:https://insider.sm/luca-lazzari-psd-il-mercato-unico-europeo-ci-apre-delle-possibilita-nuove/": "2026-11-24",
   "u:https://insider.sm/lue-prepara-nuove-sanzioni-contro-mosca-nel-mirino-60-banche-russe/": "2026-11-24",
@@ -4556,6 +4559,7 @@
   "u:https://www.sanmarinortv.sm/news/politica-c2/violenza-e-molestie-sul-lavoro-legge-in-esame-con-procedura-d-urgenza-a299022": "2026-11-25",
   "u:https://www.sanmarinortv.sm/news/politica-c2/violenza-sessuale-contro-minori-san-marino-coordina-una-dichiarazione-congiunta-al-consiglio-d-europa-a298683": "2026-11-20",
   "u:https://www.sanmarinortv.sm/news/politica-c2/violenze-sul-lavoro-nuove-tutele-per-le-vittime-bevitori-il-tavolo-tecnico-si-riunira-il-3-dicembre-a299068": "2026-11-26",
+  "u:https://www.sanmarinortv.sm/programmi/diretta/2": "2026-11-28",
   "u:https://www.sanmarinortv.sm/radio/music-news-c25/biteseeing-a298791": "2026-11-21",
   "u:https://www.sanmarinortv.sm/radio/music-news-c25/cuccioli-in-tv-a298985": "2026-11-26",
   "u:https://www.sanmarinortv.sm/radio/music-news-c25/fiori-a299083": "2026-11-28",
